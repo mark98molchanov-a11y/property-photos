@@ -1098,5 +1098,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8c8bf690.jpg"
+  },
+  "0398fc550d2f62bf5f2c46afb9fb8ae0af4915c34e8c00677135a91041737011": {
+    "first_seen": "2026-05-20T12:50:24.909682",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф медицинский для специальной одежды ШМСО-01 ЕЛАТ",
+        "registerNo": "0015-7889",
+        "OID": "DIO000095CAE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_27b5015a.jpg"
+  },
+  "e324933f93eaa7f1c23d60a445d873f46b4fed2c92218f7142a9466ae5b2aa9b": {
+    "first_seen": "2026-05-20T12:50:24.909762",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф медицинский для специальной одежды ШМСО-01 ЕЛАТ",
+        "registerNo": "0015-7889",
+        "OID": "DIO000095CAE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_80b04164.jpg"
+  },
+  "3377dfb8475b9e10bf9f6d63dccfb5d547716e37c4aff30b5f411dd1bcfdf8b0": {
+    "first_seen": "2026-05-20T12:50:24.909803",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф медицинский для специальной одежды ШМСО-01 ЕЛАТ",
+        "registerNo": "0015-7889",
+        "OID": "DIO000095CAE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b0019235.jpg"
   }
 }
