@@ -5432,5 +5432,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8b34b35e.jpg"
+  },
+  "54a6f746b28e6de484a63b089919d91e60aae0b1107a3924bc1a935acef2311b": {
+    "first_seen": "2026-05-20T14:28:34.719798",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер персональный, настольный (моноблок)",
+        "registerNo": "0894-3607",
+        "OID": "0003003F56FE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5758afda.jpg"
   }
 }
