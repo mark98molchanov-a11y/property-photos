@@ -4772,5 +4772,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0f089265.jpg"
+  },
+  "b07fe7a4b06a84c7e46846787ac8313e2cc0f1e0dfdb56272f5d8805403d08c4": {
+    "first_seen": "2026-05-20T14:09:55.028304",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР LaserJet 1200",
+        "registerNo": "0015-1211",
+        "OID": "DIO00015FD8D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_dba1d6f0.jpg"
+  },
+  "003218e39b6bfb7c583956491bfef167a44f65b0b743ea6115ef79e7a44c5841": {
+    "first_seen": "2026-05-20T14:09:55.028375",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР LaserJet 1200",
+        "registerNo": "0015-1211",
+        "OID": "DIO00015FD8D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_44fe86ff.jpg"
   }
 }
