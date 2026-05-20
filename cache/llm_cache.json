@@ -86,5 +86,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_da9b5b9e.jpg"
+  },
+  "45f6f37f1cec7937216104d3a35a1445ecb2b7caedea74726c0f206aeb83f662": {
+    "first_seen": "2026-05-20T12:33:36.060222",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (АРМ) РАДАР в сборе",
+        "registerNo": "0890-2193",
+        "OID": "0003000502C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cc482c41.jpg"
   }
 }
