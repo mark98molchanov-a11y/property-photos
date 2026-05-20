@@ -5146,5 +5146,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9b3b8a8e.jpg"
+  },
+  "046835aab06c35a198849dc2ce3d7c18fbfeff500cbd395a38039a0135f62f05": {
+    "first_seen": "2026-05-20T14:20:18.728653",
+    "objects": [
+      {
+        "Naimenovanie": "Металлический шкаф для одежды",
+        "registerNo": "0894-1001",
+        "OID": "0003003D47AE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e7cc19ac.jpg"
   }
 }
