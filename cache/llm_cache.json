@@ -746,5 +746,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b4b4fe4a.jpg"
+  },
+  "6fbb35812b5db425fdc5355696c9397cf10df8c8c276e8be55744dedd774838e": {
+    "first_seen": "2026-05-20T12:43:34.695136",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник",
+        "registerNo": "0007-9008",
+        "OID": "DIO000093214"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_98c568a2.jpg"
   }
 }
