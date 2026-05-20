@@ -4552,5 +4552,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_48533d9d.jpg"
+  },
+  "e8100d6c6de66fb959613f48d33f720e941838570bbd997556886b644e5a1553": {
+    "first_seen": "2026-05-20T14:01:55.707264",
+    "objects": [
+      {
+        "Naimenovanie": "Дрель Hitachi",
+        "registerNo": "0012-4665",
+        "OID": "DIO0000AFDEE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0546711e.jpg"
+  },
+  "2d25257e31c46249996e842370eb339b5fe82571708dea6a4b973d9583f356cc": {
+    "first_seen": "2026-05-20T14:01:55.707346",
+    "objects": [
+      {
+        "Naimenovanie": "Дрель Hitachi",
+        "registerNo": "0012-4665",
+        "OID": "DIO0000AFDEE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_dd7db0e6.jpg"
   }
 }
