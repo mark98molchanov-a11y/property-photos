@@ -10360,5 +10360,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_43c49651.jpg"
+  },
+  "96debea1622969deaabf40f2c680b6d06593c85716e92739112b78dec81edcf2": {
+    "first_seen": "2026-05-20T16:28:25.562405",
+    "objects": [
+      {
+        "Naimenovanie": "Стол кухонный с раковиной",
+        "registerNo": "0004-1944",
+        "OID": "DIO00001C338"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ca10893a.jpg"
   }
 }
