@@ -724,5 +724,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0944d24f.jpg"
+  },
+  "f4f5031d82fcdab9ecf65adb849980e3c5d4850b76c75e5bcc03578b4ff22061": {
+    "first_seen": "2026-05-20T12:42:50.685969",
+    "objects": [
+      {
+        "Naimenovanie": "Топографическая карта (Ямальский, Надымский, Пуровский районы)",
+        "registerNo": "0008-7277",
+        "OID": "DIO0000931C2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f301826c.jpg"
+  },
+  "3ec06dada1445b5c089f304311a33dd7232c6a5fe7da5ab9a1f1382dcaad62f1": {
+    "first_seen": "2026-05-20T12:42:50.686028",
+    "objects": [
+      {
+        "Naimenovanie": "Топографическая карта (Ямальский, Надымский, Пуровский районы)",
+        "registerNo": "0008-7277",
+        "OID": "DIO0000931C2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b4b4fe4a.jpg"
   }
 }
