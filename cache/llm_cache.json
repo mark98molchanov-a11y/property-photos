@@ -8864,5 +8864,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_798722bb.jpg"
+  },
+  "e6ca41ccf7bc528f7a9dd171ce73eb026eb3139477cf9f285e4f9ca4e0dcfb3c": {
+    "first_seen": "2026-05-20T15:45:37.110509",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф материальный",
+        "registerNo": "0993-6624",
+        "OID": "0003038B49E0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_69d52611.jpg"
+  },
+  "aae7e82dd5df98e3af0a2ebe01f9f47ebdaabb4233020af2f09c0770aeb4e909": {
+    "first_seen": "2026-05-20T15:45:37.110601",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф материальный",
+        "registerNo": "0993-6624",
+        "OID": "0003038B49E0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d2a93a62.jpg"
   }
 }
