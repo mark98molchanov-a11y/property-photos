@@ -12945,5 +12945,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8e0f4983.jpg"
+  },
+  "8b5462f658d8eda396ee781d46c794035817b0e91ccfc89273d9d1e3ce8be7d2": {
+    "first_seen": "2026-05-20T17:20:49.662356",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать 2-ух спальная",
+        "registerNo": "0010-7135",
+        "OID": "DIO000055956"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d11e8ef1.jpg"
   }
 }
