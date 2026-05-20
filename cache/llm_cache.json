@@ -4321,5 +4321,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cf7ee467.jpg"
+  },
+  "97fc0e3ccd06b5a43e5954668de6c59517818b4eea4ee41abcedc712795592ff": {
+    "first_seen": "2026-05-20T13:57:45.753656",
+    "objects": [
+      {
+        "Naimenovanie": "Сканер HP ScanJet G3110",
+        "registerNo": "0010-8673",
+        "OID": "DIO0000AF335"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_24764726.jpg"
   }
 }
