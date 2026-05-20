@@ -14738,5 +14738,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1ae53bf1.jpg"
+  },
+  "7830c9a47a1903d45d1515ec8065bb6c78b08fc1f635f80e5afbdd1e2adf4b97": {
+    "first_seen": "2026-05-20T18:01:23.992634",
+    "objects": [
+      {
+        "Naimenovanie": "Машина стирально-отжимная",
+        "registerNo": "0016-2195",
+        "OID": "DIO00008244D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c81f4539.jpg"
+  },
+  "9acc8d47fceb1e4ce3292dae7f64425887d00c3a75d7322b68fb01bc39d102cd": {
+    "first_seen": "2026-05-20T18:01:23.992723",
+    "objects": [
+      {
+        "Naimenovanie": "Машина стирально-отжимная",
+        "registerNo": "0016-2195",
+        "OID": "DIO00008244D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_32fcd0f4.jpg"
+  },
+  "d5676fa26ab0e39d515144c424a64cb623f5390d35786d22f9c8a5cdbd2e3c55": {
+    "first_seen": "2026-05-20T18:01:23.992764",
+    "objects": [
+      {
+        "Naimenovanie": "Машина стирально-отжимная",
+        "registerNo": "0016-2195",
+        "OID": "DIO00008244D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4d1dbf8a.jpg"
   }
 }
