@@ -4013,5 +4013,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ab239b16.jpg"
+  },
+  "11a5b281ecc139a37e2c0957aff5d6d85c26eda5c50ddc6ee039ca99dd06e1db": {
+    "first_seen": "2026-05-20T13:51:54.909207",
+    "objects": [
+      {
+        "Naimenovanie": "Кушетка смотровая",
+        "registerNo": "0015-6465",
+        "OID": "DIO0000AD45E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7021e4a7.jpg"
+  },
+  "7af4b1f01771bd94afff6e6d34ed6870c57432ace12d5f01019883e1f07a594e": {
+    "first_seen": "2026-05-20T13:51:54.909276",
+    "objects": [
+      {
+        "Naimenovanie": "Кушетка смотровая",
+        "registerNo": "0015-6465",
+        "OID": "DIO0000AD45E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_967c45b9.jpg"
+  },
+  "a47798cef63b00fb320d8b2dc497f206464959a53827f19b1b0790fa03f7da1a": {
+    "first_seen": "2026-05-20T13:51:54.909317",
+    "objects": [
+      {
+        "Naimenovanie": "Кушетка смотровая",
+        "registerNo": "0015-6465",
+        "OID": "DIO0000AD45E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4fe45595.jpg"
   }
 }
