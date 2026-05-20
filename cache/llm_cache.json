@@ -2605,5 +2605,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_54538891.jpg"
+  },
+  "96034f97def6c1233e377857101a853578b0510f6ba2e1db484efad62519e76b": {
+    "first_seen": "2026-05-20T13:16:03.229817",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер в комплекте",
+        "registerNo": "0014-2213",
+        "OID": "DIO0000A12B5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_db92291e.jpg"
   }
 }
