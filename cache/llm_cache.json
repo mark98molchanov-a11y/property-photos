@@ -4948,5 +4948,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0cb6498a.jpg"
+  },
+  "2dec498a39a4411fccf631b6e0c2d4332dd9d318d8310565ff5b7f35b9facbf8": {
+    "first_seen": "2026-05-20T14:14:23.040849",
+    "objects": [
+      {
+        "Naimenovanie": "Столик прикроватный МСК 511М",
+        "registerNo": "0015-7467",
+        "OID": "DIO0000B3BDE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_10a3cd52.jpg"
+  },
+  "0e64fe6d13c7c290ead62d37a4a905981112c66cbcb8ba3cdcf13d3f4fddc01a": {
+    "first_seen": "2026-05-20T14:14:23.040919",
+    "objects": [
+      {
+        "Naimenovanie": "Столик прикроватный МСК 511М",
+        "registerNo": "0015-7467",
+        "OID": "DIO0000B3BDE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6360a26f.jpg"
   }
 }
