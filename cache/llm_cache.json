@@ -8237,5 +8237,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c5b49024.jpg"
+  },
+  "cdcd74353ac3b20792f26944d443872f843a33019166ea950c9016b7d44357a6": {
+    "first_seen": "2026-05-20T15:32:43.090768",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер",
+        "registerNo": "0015-3142",
+        "OID": "DIO0000CECDB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6b9e193b.jpg"
+  },
+  "a0f24a753334096055eb64658d85465de322a5d86e629c1a880f1f02324a8084": {
+    "first_seen": "2026-05-20T15:32:43.090839",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер",
+        "registerNo": "0015-3142",
+        "OID": "DIO0000CECDB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f8813935.jpg"
   }
 }
