@@ -8160,5 +8160,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f82b1f53.jpg"
+  },
+  "74e7c53c35539621b2ea0065de0c8599fe63ac6d31a2e3a44dfe29e1fcf1835f": {
+    "first_seen": "2026-05-20T15:29:49.529427",
+    "objects": [
+      {
+        "Naimenovanie": "Пылеулавливающий агрегат мощ. 1,1 кВт ПУ-1500",
+        "registerNo": "0956-6509",
+        "OID": "000301B1F473"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_52e30d5d.jpg"
+  },
+  "defc29a62c0e0e4a1220589aa5d3a5d5dd576ad6ef884071e3440db1e55b1183": {
+    "first_seen": "2026-05-20T15:29:49.529510",
+    "objects": [
+      {
+        "Naimenovanie": "Пылеулавливающий агрегат мощ. 1,1 кВт ПУ-1500",
+        "registerNo": "0956-6509",
+        "OID": "000301B1F473"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5cfa19f1.jpg"
   }
 }
