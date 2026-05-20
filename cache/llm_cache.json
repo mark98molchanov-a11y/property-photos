@@ -4189,5 +4189,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_040c99c6.jpg"
+  },
+  "29b5665527c1823fae72e751aac5300f290d3c1393ffce949c5811fb0c9710de": {
+    "first_seen": "2026-05-20T13:55:31.697180",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф универсальный ПГЛ Ш3-0,8",
+        "registerNo": "0015-7966",
+        "OID": "DIO00015694A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_15ef2e22.jpg"
+  },
+  "0afb8555887edb407e1c334bc31438a27296b99e0381428cdbbb9f80561ba859": {
+    "first_seen": "2026-05-20T13:55:31.697265",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф универсальный ПГЛ Ш3-0,8",
+        "registerNo": "0015-7966",
+        "OID": "DIO00015694A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cb5e72cb.jpg"
   }
 }
