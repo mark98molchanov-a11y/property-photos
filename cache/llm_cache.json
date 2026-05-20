@@ -1065,5 +1065,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_74c9260e.jpg"
+  },
+  "46f44976931aff5e6edd59ea4080828cc3f0443681eee913974360f2e0990fd2": {
+    "first_seen": "2026-05-20T12:50:04.534831",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор паровой ГК 100-3",
+        "registerNo": "0001-3775",
+        "OID": "DIO000129DF6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8ac3d221.jpg"
+  },
+  "65ec8abdfbca7497f6a64f085dc9e47c24911d61df2579c8260d21c9bb082042": {
+    "first_seen": "2026-05-20T12:50:04.534893",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор паровой ГК 100-3",
+        "registerNo": "0001-3775",
+        "OID": "DIO000129DF6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ebf2d7ec.jpg"
+  },
+  "b90c44a8332eb6bc0123b4560a3f061cdf04c020cb319744ff58555dc854cdff": {
+    "first_seen": "2026-05-20T12:50:04.534931",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор паровой ГК 100-3",
+        "registerNo": "0001-3775",
+        "OID": "DIO000129DF6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8c8bf690.jpg"
   }
 }
