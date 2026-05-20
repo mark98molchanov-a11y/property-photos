@@ -9821,5 +9821,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2ea9880b.png"
+  },
+  "543672653de487d7fc88a0eb1cf59e6202d2143bc05b3ff55673cc602d3b5883": {
+    "first_seen": "2026-05-20T16:12:33.589254",
+    "objects": [
+      {
+        "Naimenovanie": "Автоклав кассетный Statim 2000 S-cycle",
+        "registerNo": "0018-3010",
+        "OID": "DIO000181FCD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b72fde22.jpg"
+  },
+  "cf6fb6d53512129c938f682ca374d07a121ee4d256fa12a4a18b9e49e1cf15ef": {
+    "first_seen": "2026-05-20T16:12:33.589325",
+    "objects": [
+      {
+        "Naimenovanie": "Автоклав кассетный Statim 2000 S-cycle",
+        "registerNo": "0018-3010",
+        "OID": "DIO000181FCD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_164411d6.jpg"
   }
 }
