@@ -10217,5 +10217,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f27d73f5.jpg"
+  },
+  "cccd17ea6b8e79128adccd6f02d350b0c6bafcef3dd70ddd944c30c334346f27": {
+    "first_seen": "2026-05-20T16:23:48.957573",
+    "objects": [
+      {
+        "Naimenovanie": "Шприцевой дозатор",
+        "registerNo": "0017-7212",
+        "OID": "DIO000184955"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3a30e708.jpg"
+  },
+  "d1bc65186428ea6e7f285be21c82e37d4f3f79f4a292895bcd244a543b4e6669": {
+    "first_seen": "2026-05-20T16:23:48.957664",
+    "objects": [
+      {
+        "Naimenovanie": "Шприцевой дозатор",
+        "registerNo": "0017-7212",
+        "OID": "DIO000184955"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_62cb140c.jpg"
   }
 }
