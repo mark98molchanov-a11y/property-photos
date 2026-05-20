@@ -240,5 +240,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c80329b8.jpg"
+  },
+  "c7efb3af41f8b08bf09565ed8254d645856dae5be0f43554635cde22c482b36a": {
+    "first_seen": "2026-05-20T12:36:10.029209",
+    "objects": [
+      {
+        "Naimenovanie": "Набор инструментов",
+        "registerNo": "0012-4188",
+        "OID": "DIO00008A5D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c21863d0.jpg"
+  },
+  "859f8c60efcdc681b6642f53fc57a9665638db1a041149c4aaa7b6f499aadab6": {
+    "first_seen": "2026-05-20T12:36:10.029310",
+    "objects": [
+      {
+        "Naimenovanie": "Набор инструментов",
+        "registerNo": "0012-4188",
+        "OID": "DIO00008A5D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_87f858cf.jpg"
+  },
+  "0bcccb691aa9228dbe8a65bd467d01a73309ca2775692c79b4bd947f6ad732a2": {
+    "first_seen": "2026-05-20T12:36:10.029353",
+    "objects": [
+      {
+        "Naimenovanie": "Набор инструментов",
+        "registerNo": "0012-4188",
+        "OID": "DIO00008A5D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c56b557e.jpg"
   }
 }
