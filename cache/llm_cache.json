@@ -10085,5 +10085,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f70722de.jpg"
+  },
+  "5f1ab378b5882855ad09ccfa38bb4262f93cd1c9ff176fcfcae79efd9fd6dc00": {
+    "first_seen": "2026-05-20T16:19:59.963897",
+    "objects": [
+      {
+        "Naimenovanie": "Пила дисковая электрическая",
+        "registerNo": "0009-7860",
+        "OID": "DIO0000DBF06"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a2600897.jpg"
+  },
+  "74a090714c162ab947532632a11a46a89b5faac1df4a19105756a0dc83e816cb": {
+    "first_seen": "2026-05-20T16:19:59.963970",
+    "objects": [
+      {
+        "Naimenovanie": "Пила дисковая электрическая",
+        "registerNo": "0009-7860",
+        "OID": "DIO0000DBF06"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_195e557a.jpg"
   }
 }
