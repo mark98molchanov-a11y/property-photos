@@ -14045,5 +14045,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d3e8c404.jpg"
+  },
+  "c286b994a833ab7824e7fc032ce4ee357aa31c0e13734e5e0c1d51e6ac556a7a": {
+    "first_seen": "2026-05-20T17:44:37.171147",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь осветительный групповой",
+        "registerNo": "0009-2081",
+        "OID": "DIO0001A150D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_650746c7.jpg"
+  },
+  "019589836dba98ad817ce4e1c628aeca352fa733701757270a27d63306c7fdb7": {
+    "first_seen": "2026-05-20T17:44:37.171219",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь осветительный групповой",
+        "registerNo": "0009-2081",
+        "OID": "DIO0001A150D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f2e9287e.jpg"
   }
 }
