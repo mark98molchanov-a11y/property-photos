@@ -13935,5 +13935,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_538c5200.jpg"
+  },
+  "60a59d637d0527db889c7b9c61c27431852bd5c05fc216df5672c9c894e1a6f3": {
+    "first_seen": "2026-05-20T17:40:34.844459",
+    "objects": [
+      {
+        "Naimenovanie": "Центральный сервер IBM Mod. 7976KFG",
+        "registerNo": "0007-8253",
+        "OID": "DIO000075F5C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_05c441f9.jpg"
+  },
+  "cbd0be9dd12eb7039c51f06bb9fc7d925cfeea23aff92f08b086823c5d04b46f": {
+    "first_seen": "2026-05-20T17:40:34.844558",
+    "objects": [
+      {
+        "Naimenovanie": "Центральный сервер IBM Mod. 7976KFG",
+        "registerNo": "0007-8253",
+        "OID": "DIO000075F5C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0e704ac5.jpg"
   }
 }
