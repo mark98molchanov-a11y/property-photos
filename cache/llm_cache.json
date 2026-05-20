@@ -64,5 +64,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2cf36aa8.jpg"
+  },
+  "360906cf1a6e294a0f7f909802bdce0ea487ec81dd450c1beacc9eceafed1eb2": {
+    "first_seen": "2026-05-20T12:33:21.226777",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф",
+        "registerNo": "0015-6250",
+        "OID": "DIO000087FC7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_19116350.jpg"
+  },
+  "e76145c3a63fe10c678fcb217174a95a77f40c76bcdc1e84f99340d9e90265b6": {
+    "first_seen": "2026-05-20T12:33:21.226846",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф",
+        "registerNo": "0015-6250",
+        "OID": "DIO000087FC7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_da9b5b9e.jpg"
   }
 }
