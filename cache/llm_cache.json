@@ -438,5 +438,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9d62b243.jpg"
+  },
+  "6890a11ca86b0a7121c5fee7a694976ba69b082c09d9d4c5923b0f1c2a94f119": {
+    "first_seen": "2026-05-20T12:39:14.280233",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб ",
+        "registerNo": "0005-5503",
+        "OID": "DIO00011D062"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_352fe983.jpg"
+  },
+  "c8a81d1c9cdcdccd3dd5db4163594a69a32523ff940ce19fc5572fa6f829e701": {
+    "first_seen": "2026-05-20T12:39:14.280300",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб ",
+        "registerNo": "0005-5503",
+        "OID": "DIO00011D062"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_51c7dbe7.jpg"
+  },
+  "e5e43754af1409bac4876ce7e7781305df7d5e7e5a43579be3d6fb0b74261892": {
+    "first_seen": "2026-05-20T12:39:14.280341",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб ",
+        "registerNo": "0005-5503",
+        "OID": "DIO00011D062"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_36d79b2f.jpg"
   }
 }
