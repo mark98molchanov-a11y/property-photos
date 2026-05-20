@@ -889,5 +889,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fef93644.jpg"
+  },
+  "f7265ff14d1db859bc24cf08d09838ebe8090f097a5f661a0dcf7d7bdf7c168f": {
+    "first_seen": "2026-05-20T12:46:35.241543",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло",
+        "registerNo": "0007-1046",
+        "OID": "DIO0000941D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_47c4483c.jpg"
+  },
+  "955ee31b08b252170f08833f3bdf8288ea24bbb08995061fae9d9d6eb716b48c": {
+    "first_seen": "2026-05-20T12:46:35.241610",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло",
+        "registerNo": "0007-1046",
+        "OID": "DIO0000941D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_94d7a9cd.jpg"
+  },
+  "3510071dc54b9b3d36a95fdf5ce9cb41a3fade180ad1935b1304cf58c3ba0473": {
+    "first_seen": "2026-05-20T12:46:35.241647",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло",
+        "registerNo": "0007-1046",
+        "OID": "DIO0000941D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_71041b72.jpg"
   }
 }
