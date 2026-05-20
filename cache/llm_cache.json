@@ -3056,5 +3056,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3814f329.png"
+  },
+  "4b3abd884d36b5c2153d14b4aa3339e94bf3272742e8ede006b25c870e9a0bee": {
+    "first_seen": "2026-05-20T13:28:50.196723",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат УФО ОКМ-11",
+        "registerNo": "0015-5450",
+        "OID": "DIO0000A6C75"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f87bc0a6.jpg"
+  },
+  "88e73b4351163471624382aa391e6d9fcc47305f5951763778595f6e973fabdc": {
+    "first_seen": "2026-05-20T13:28:50.196814",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат УФО ОКМ-11",
+        "registerNo": "0015-5450",
+        "OID": "DIO0000A6C75"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_94c7bfa3.jpg"
   }
 }
