@@ -7797,5 +7797,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e9975c1f.jpg"
+  },
+  "09d49e901967c7ddc3613b9e754cba3ef3daa6287b8279a1ae971ac85eab5a81": {
+    "first_seen": "2026-05-20T15:24:16.579865",
+    "objects": [
+      {
+        "Naimenovanie": "Гастрофиброскоп",
+        "registerNo": "0017-9298",
+        "OID": "DIO0000C9E44"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2a0330eb.jpg"
+  },
+  "db2a8164c45bd7cca7d85e3fa150db1cb49a972e01af7176280bc2e4c9999b09": {
+    "first_seen": "2026-05-20T15:24:16.579939",
+    "objects": [
+      {
+        "Naimenovanie": "Гастрофиброскоп",
+        "registerNo": "0017-9298",
+        "OID": "DIO0000C9E44"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9769b0b3.jpg"
+  },
+  "b52467a6197b6f110be741aec0bbd085ccb99f0301e7577968f2c77ceb83a9c3": {
+    "first_seen": "2026-05-20T15:24:16.579981",
+    "objects": [
+      {
+        "Naimenovanie": "Гастрофиброскоп",
+        "registerNo": "0017-9298",
+        "OID": "DIO0000C9E44"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f1fe1928.jpg"
   }
 }
