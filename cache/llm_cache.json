@@ -11262,5 +11262,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b8f7e18f.jpg"
+  },
+  "6daae4cedf004d8850d57aa220695155e817c847dd7a9607e8fbe57eb8fb1da1": {
+    "first_seen": "2026-05-20T16:48:46.988112",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-03",
+        "registerNo": "0015-3417",
+        "OID": "DIO0000E3CB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_923493b7.jpg"
+  },
+  "e68d92730959d68332fe988ce7c3c92a9e57a93021e56c6344e361fb73921613": {
+    "first_seen": "2026-05-20T16:48:46.988185",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-03",
+        "registerNo": "0015-3417",
+        "OID": "DIO0000E3CB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4c224a59.jpg"
   }
 }
