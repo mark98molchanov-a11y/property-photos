@@ -6521,5 +6521,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_84503b7c.jpg"
+  },
+  "b30a26a0a625b0eadbd0d40a0d877159fb60709b97e44c4ae65a066e7c3cc105": {
+    "first_seen": "2026-05-20T14:55:57.502630",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф медицинский ШМ-1",
+        "registerNo": "0015-7923",
+        "OID": "DIO00016DBD7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4cda28c1.jpg"
+  },
+  "d683a8bf1b233b3bd026e6aa7f2c1de7fee2867924443d6158c0f3f2cdaf688c": {
+    "first_seen": "2026-05-20T14:55:57.502703",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф медицинский ШМ-1",
+        "registerNo": "0015-7923",
+        "OID": "DIO00016DBD7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1625d4f3.jpg"
+  },
+  "69374d7c330054664fec712ebf391406a1a3e9133652cfd82b046abd64d5fd8d": {
+    "first_seen": "2026-05-20T14:55:57.502743",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф медицинский ШМ-1",
+        "registerNo": "0015-7923",
+        "OID": "DIO00016DBD7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f8fcff41.jpg"
   }
 }
