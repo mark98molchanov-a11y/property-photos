@@ -4717,5 +4717,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e62af72b.jpg"
+  },
+  "65531f08e49e1c668ce5c2a69cf4201c23afb0bcbc452ad2037ecce2fba95803": {
+    "first_seen": "2026-05-20T14:08:55.306954",
+    "objects": [
+      {
+        "Naimenovanie": "Микроскоп Микмед-1",
+        "registerNo": "0018-9521",
+        "OID": "DIO0000B218F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9d634813.jpg"
+  },
+  "4e05ab9c2df2e115d96334a80754f9d6a8c1c8da1e1b0f0fe7b4d71bfa9ed870": {
+    "first_seen": "2026-05-20T14:08:55.307027",
+    "objects": [
+      {
+        "Naimenovanie": "Микроскоп Микмед-1",
+        "registerNo": "0018-9521",
+        "OID": "DIO0000B218F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cdbf3d67.jpg"
   }
 }
