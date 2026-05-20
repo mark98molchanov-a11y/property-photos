@@ -12208,5 +12208,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1da2967e.jpg"
+  },
+  "9e4cb3139dd2981e83c900cfe6c712d9e002c84785056c06c6e9a9cb427ea157": {
+    "first_seen": "2026-05-20T17:05:10.757141",
+    "objects": [
+      {
+        "Naimenovanie": "Стул (OF-19 для конференц-зала)",
+        "registerNo": "0001-5712",
+        "OID": "DIO000042294"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_77ae7f5b.jpg"
   }
 }
