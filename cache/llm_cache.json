@@ -2484,5 +2484,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_951d6876.jpg"
+  },
+  "551cda7c8b81aa8a72ce05baa53f49caf1ba81963429c0957c06b224ca72d8d7": {
+    "first_seen": "2026-05-20T13:12:20.250577",
+    "objects": [
+      {
+        "Naimenovanie": "Системный блок НР",
+        "registerNo": "0015-7183",
+        "OID": "DIO00009F227"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_fa0c7147.jpg"
+  },
+  "c96fab54d67dc3bf690d1a335b533e19438325bf100811bfc1d2e5f126da3aa7": {
+    "first_seen": "2026-05-20T13:12:20.250640",
+    "objects": [
+      {
+        "Naimenovanie": "Системный блок НР",
+        "registerNo": "0015-7183",
+        "OID": "DIO00009F227"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c053d16.jpg"
   }
 }
