@@ -1725,5 +1725,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e5d86485.jpg"
+  },
+  "5b699284c442324ba1c302a72100e95ed5818c2b5e929f20a194697cced03a11": {
+    "first_seen": "2026-05-20T13:03:38.911826",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба приставная 2-х дверная",
+        "registerNo": "0004-5113",
+        "OID": "DIO00013C5E8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3da7fa9e.jpg"
+  },
+  "ddee3786a4565385dce4fbfef56d89a050655053b37a1571350bbd0dae5d2885": {
+    "first_seen": "2026-05-20T13:03:38.911902",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба приставная 2-х дверная",
+        "registerNo": "0004-5113",
+        "OID": "DIO00013C5E8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a7107c05.jpg"
   }
 }
