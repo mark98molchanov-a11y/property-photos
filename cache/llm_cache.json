@@ -9194,5 +9194,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b7681f06.png"
+  },
+  "08b045ff9aea858bbe18d5fbf752529cb238be48e987d36dd79d6cd7e656391d": {
+    "first_seen": "2026-05-20T15:56:22.463363",
+    "objects": [
+      {
+        "Naimenovanie": "Канализационная насосная установка",
+        "registerNo": "1008-8572",
+        "OID": "000304EC15D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e7c6c0cf.jpg"
+  },
+  "1425558530813280e08ecd13f8585a71a9e303e0acfc4b714be2d3222d435c81": {
+    "first_seen": "2026-05-20T15:56:22.463429",
+    "objects": [
+      {
+        "Naimenovanie": "Канализационная насосная установка",
+        "registerNo": "1008-8572",
+        "OID": "000304EC15D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6ed78aca.jpg"
   }
 }
