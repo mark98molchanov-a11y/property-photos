@@ -12549,5 +12549,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3cc56435.jpg"
+  },
+  "b79cefb8aab26d4e24a608744a1f827064e0b4d5d8c20eb26469202ee29889da": {
+    "first_seen": "2026-05-20T17:12:23.622895",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф 4-х дверный с зеркалами \"Эрика темная\"",
+        "registerNo": "0013-6048",
+        "OID": "DIO0001971DF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9513d4c1.jpg"
+  },
+  "2ea691ea7cd6846e9e25b169cb228e795046586fbb22591a7a10045fa4487320": {
+    "first_seen": "2026-05-20T17:12:23.622965",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф 4-х дверный с зеркалами \"Эрика темная\"",
+        "registerNo": "0013-6048",
+        "OID": "DIO0001971DF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_208e1ace.jpg"
   }
 }
