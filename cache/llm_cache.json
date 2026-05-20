@@ -9568,5 +9568,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8a4a5792.jpg"
+  },
+  "7148b0c258947296e115714b465f8712eae7116957cd79baf80e44d29e872426": {
+    "first_seen": "2026-05-20T16:05:16.116377",
+    "objects": [
+      {
+        "Naimenovanie": "Витрина",
+        "registerNo": "0009-3688",
+        "OID": "DIO000180D8F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_24acca03.jpg"
   }
 }
