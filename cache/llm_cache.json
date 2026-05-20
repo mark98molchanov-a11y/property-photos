@@ -6125,5 +6125,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e7427f76.jpg"
+  },
+  "ceb039a0bfca7545140bad2f26c4b72cc67404af4d5db7ddaf9ef06cc7613845": {
+    "first_seen": "2026-05-20T14:42:35.544486",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба прикроватная",
+        "registerNo": "0015-7515",
+        "OID": "DIO0000BC155"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c4004b8.jpg"
+  },
+  "b5f89f9effca8ce0fa9fb5b224789efe72ac42dcb323ac2c6848d97498659fcf": {
+    "first_seen": "2026-05-20T14:42:35.544562",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба прикроватная",
+        "registerNo": "0015-7515",
+        "OID": "DIO0000BC155"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7515ec1e.jpg"
   }
 }
