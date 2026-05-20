@@ -5971,5 +5971,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bca890aa.jpg"
+  },
+  "7e221ed2b8f3043ef4fd43a4ce87c0c8d8fa6577f52a07659a5f50132611ae7e": {
+    "first_seen": "2026-05-20T14:40:07.876043",
+    "objects": [
+      {
+        "Naimenovanie": "Телефон Panasonic",
+        "registerNo": "0009-4448",
+        "OID": "DIO0000BB9B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_73b224b9.jpg"
   }
 }
