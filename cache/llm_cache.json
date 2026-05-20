@@ -8908,5 +8908,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7917ddb5.jpg"
+  },
+  "c9a193308fda5a2c26a2aa8530d1cda91782a02469c78f80af598811b9d5b55d": {
+    "first_seen": "2026-05-20T15:48:05.642282",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло",
+        "registerNo": "0993-6667",
+        "OID": "0003038B50CB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7a22b8e3.jpg"
   }
 }
