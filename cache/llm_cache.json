@@ -6620,5 +6620,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_9269e2ac.jpg"
+  },
+  "0fb5e429ab8228bad6db30c8e66c40eb97be028cb62a7a7f6e670ecd14db8b8f": {
+    "first_seen": "2026-05-20T14:57:25.169922",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка напольная",
+        "registerNo": "0020-3180",
+        "OID": "DIO0000C3F24"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_dde14866.jpg"
+  },
+  "cf1456c7d1900466baca9888164db7d6d5949119453f014575f561eff4d8cf9d": {
+    "first_seen": "2026-05-20T14:57:25.170000",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка напольная",
+        "registerNo": "0020-3180",
+        "OID": "DIO0000C3F24"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9f8ff342.jpg"
+  },
+  "9d7e1e9a9aa0db9088d4aa7f6738a17c1ea3f6125948ab7849239d3d1a9db95e": {
+    "first_seen": "2026-05-20T14:57:25.170059",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка напольная",
+        "registerNo": "0020-3180",
+        "OID": "DIO0000C3F24"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_206dc036.jpg"
   }
 }
