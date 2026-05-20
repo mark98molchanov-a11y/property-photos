@@ -9744,5 +9744,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_66cf89cd.jpg"
+  },
+  "deb40af4d2665f4be708cbf0a6a0638193eb72a5f1f32ef5b620e7112d1bc486": {
+    "first_seen": "2026-05-20T16:11:23.458682",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат рентгеновский",
+        "registerNo": "0017-8586",
+        "OID": "DIO000181F71"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a8926782.jpg"
+  },
+  "83b3604a9c09324c0472c25df2c1f64490387ea1c72c1753c6c74bcc0064b4b5": {
+    "first_seen": "2026-05-20T16:11:23.458750",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат рентгеновский",
+        "registerNo": "0017-8586",
+        "OID": "DIO000181F71"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_89ea596f.jpg"
+  },
+  "a8c31a5a615efdd5b7eef3ed81dc3f0b7a84f1f37a45fcf5dfe0b65a21fa7e29": {
+    "first_seen": "2026-05-20T16:11:23.458792",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат рентгеновский",
+        "registerNo": "0017-8586",
+        "OID": "DIO000181F71"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b631bb24.jpg"
   }
 }
