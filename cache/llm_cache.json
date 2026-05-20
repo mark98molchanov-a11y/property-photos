@@ -548,5 +548,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f357727c.jpg"
+  },
+  "a08871a217277170e1f4e0d61da4d15d20998e156748c59ce9488b4e170ac3a7": {
+    "first_seen": "2026-05-20T12:40:26.876764",
+    "objects": [
+      {
+        "Naimenovanie": "Миксер",
+        "registerNo": "0890-3789",
+        "OID": "00030014F04E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_95ecbd31.jpg"
+  },
+  "5cd802e9f97f40ea960ad8514d4bb845e39ba7036e1cdf0873e311209ca09632": {
+    "first_seen": "2026-05-20T12:40:26.876829",
+    "objects": [
+      {
+        "Naimenovanie": "Миксер",
+        "registerNo": "0890-3789",
+        "OID": "00030014F04E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f06cad08.jpg"
   }
 }
