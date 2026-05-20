@@ -4673,5 +4673,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5c827d8a.jpg"
+  },
+  "ddcee5fc4edb9ba16797087c6415fb052970844ac2264b5c4ac61f718070b7fe": {
+    "first_seen": "2026-05-20T14:07:32.898857",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив",
+        "registerNo": "0012-6791",
+        "OID": "DIO0000B0B89"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_75ed7a66.jpg"
+  },
+  "ed19843419c3dddccf6a28dcd02c73c9b2bcf2d482d1e51770a23988a3b04c44": {
+    "first_seen": "2026-05-20T14:07:32.898931",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив",
+        "registerNo": "0012-6791",
+        "OID": "DIO0000B0B89"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e8c48e6c.jpg"
+  },
+  "56ddb15fe8ff2681b9d507599300a2e7edceae7da9413038ac6ffeae72c00ed2": {
+    "first_seen": "2026-05-20T14:07:32.898971",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив",
+        "registerNo": "0012-6791",
+        "OID": "DIO0000B0B89"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_82ac7dcb.jpg"
   }
 }
