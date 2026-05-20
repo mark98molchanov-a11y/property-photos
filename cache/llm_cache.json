@@ -3980,5 +3980,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_afd1fab9.jpg"
+  },
+  "b4f9d7531cd27146c0daf3e6678051aeb5e6bd2b2e79bd28f99c9404e372430b": {
+    "first_seen": "2026-05-20T13:50:58.814357",
+    "objects": [
+      {
+        "Naimenovanie": "Весы медицинские электрические ВМ-150",
+        "registerNo": "0015-6214",
+        "OID": "DIO0000AD05C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_63797dc9.jpg"
+  },
+  "e2c28e64a36d08d8f633abb3ec2b3403e0837153af65d603c7aa8ba67385e115": {
+    "first_seen": "2026-05-20T13:50:58.814431",
+    "objects": [
+      {
+        "Naimenovanie": "Весы медицинские электрические ВМ-150",
+        "registerNo": "0015-6214",
+        "OID": "DIO0000AD05C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0200315f.jpg"
   }
 }
