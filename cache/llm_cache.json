@@ -14342,5 +14342,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_22e38b0a.png"
+  },
+  "5291e33934663b62bf2f0ac79d3addb72fa5ed41811de983c51f6c2ec56ada13": {
+    "first_seen": "2026-05-20T17:51:39.405121",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для одежды",
+        "registerNo": "0014-2432",
+        "OID": "DIO000108C46"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8f897d19.jpg"
+  },
+  "83a39094a54522887604abc664cae3a3fd55813f9d5fb7404fb55582df257e31": {
+    "first_seen": "2026-05-20T17:51:39.405205",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для одежды",
+        "registerNo": "0014-2432",
+        "OID": "DIO000108C46"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d9eae26f.jpg"
   }
 }
