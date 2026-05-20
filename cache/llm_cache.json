@@ -4640,5 +4640,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_07c4639a.jpg"
+  },
+  "ad46862a92232db6e1bcf74077e2c7bab97620e61fd9104bcca0891f72053cf8": {
+    "first_seen": "2026-05-20T14:06:01.357254",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Милта-Ф-8-01",
+        "registerNo": "0015-8895",
+        "OID": "DIO00015B47B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_939b94b0.jpg"
+  },
+  "7339cfcc16aeef045a78db78a92c4ad019a5d9b6f108494b180f3dd6f5d86efb": {
+    "first_seen": "2026-05-20T14:06:01.357336",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Милта-Ф-8-01",
+        "registerNo": "0015-8895",
+        "OID": "DIO00015B47B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b67391e3.jpg"
   }
 }
