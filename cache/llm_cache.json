@@ -1593,5 +1593,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_06ce8bc3.jpg"
+  },
+  "0f515826d5efa4e3da028229e91831f17acca7fd0c37b2dc3afc8e9b38d84235": {
+    "first_seen": "2026-05-20T13:00:59.294361",
+    "objects": [
+      {
+        "Naimenovanie": "Диван",
+        "registerNo": "0008-5898",
+        "OID": "DIO000139DE4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_dce101a4.jpg"
+  },
+  "61932ad7f7e9aa9502b3c6078d74b84aeba3a5e354a8c186a133d908a97ef3e2": {
+    "first_seen": "2026-05-20T13:00:59.294433",
+    "objects": [
+      {
+        "Naimenovanie": "Диван",
+        "registerNo": "0008-5898",
+        "OID": "DIO000139DE4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1f822d66.jpg"
   }
 }
