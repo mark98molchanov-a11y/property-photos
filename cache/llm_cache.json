@@ -1164,5 +1164,60 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_507d96fa.jpg"
+  },
+  "f332f64192578fc2b8e3b548b4729666c479bd1f0febb383d7591a39ee7f10fb": {
+    "first_seen": "2026-05-20T12:52:14.560273",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0005-4353",
+        "OID": "DIO00012C645"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ad297114.jpg"
+  },
+  "941e06c74e97b2f6beaa7aedd93b55acaccff1d232153f2c6e498b23000758dd": {
+    "first_seen": "2026-05-20T12:52:14.560343",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0005-4353",
+        "OID": "DIO00012C645"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f6c741ed.jpg"
+  },
+  "db2a78d24785917046b38332844984d1765e1bbbd0299311f8821cdb86a8ed93": {
+    "first_seen": "2026-05-20T12:52:14.560383",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0005-4353",
+        "OID": "DIO00012C645"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d52a2155.jpg"
+  },
+  "c7c393d00bda0d2bd4a0bf4753cc1f8fc4519a608c2c59d1af15c48508bf6c76": {
+    "first_seen": "2026-05-20T12:52:14.560419",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0005-4353",
+        "OID": "DIO00012C645"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e857f192.jpg"
+  },
+  "44994cc7b18a8f4ca3a2486884bd3ff85df8fab21e277ac9460e9f99ec6aaa99": {
+    "first_seen": "2026-05-20T12:52:14.560453",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0005-4353",
+        "OID": "DIO00012C645"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_556c089d.jpg"
   }
 }
