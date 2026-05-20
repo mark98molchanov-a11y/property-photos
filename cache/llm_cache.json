@@ -3287,5 +3287,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_13a2bf22.jpg"
+  },
+  "a25bd90fec86abf20a137acc6bf6a90d2b140a93f94cf3b8561de116a5348703": {
+    "first_seen": "2026-05-20T13:36:57.495217",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер HP",
+        "registerNo": "0891-5905",
+        "OID": "0003001C1793"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dcf73f66.jpg"
   }
 }
