@@ -6092,5 +6092,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a07b7fac.jpg"
+  },
+  "9a02f5304f420d66c5204618a5e75fb8131e26e4e531a37ce83280381267093b": {
+    "first_seen": "2026-05-20T14:42:14.417858",
+    "objects": [
+      {
+        "Naimenovanie": "Источник бесперебойного питания",
+        "registerNo": "0899-2353",
+        "OID": "0003010DB8E4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cabb0417.jpg"
+  },
+  "0e57eb39f0a06fb35e76a68a058b02e1bebbcf37894018da4600ac217d7db30d": {
+    "first_seen": "2026-05-20T14:42:14.417933",
+    "objects": [
+      {
+        "Naimenovanie": "Источник бесперебойного питания",
+        "registerNo": "0899-2353",
+        "OID": "0003010DB8E4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fea2d214.jpg"
+  },
+  "7faa558908fff9441c60128670eff1890b0ed6a6b8ac601bf53bea6d96c87816": {
+    "first_seen": "2026-05-20T14:42:14.417975",
+    "objects": [
+      {
+        "Naimenovanie": "Источник бесперебойного питания",
+        "registerNo": "0899-2353",
+        "OID": "0003010DB8E4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e7427f76.jpg"
   }
 }
