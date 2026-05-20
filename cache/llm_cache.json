@@ -7907,5 +7907,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_14ef812f.jpg"
+  },
+  "66428d5c9e2ee2e2d9d1d5772100f2174df79aafab338bb2aae20164891ba82d": {
+    "first_seen": "2026-05-20T15:26:50.071637",
+    "objects": [
+      {
+        "Naimenovanie": "Электрическая дрель",
+        "registerNo": "0009-1795",
+        "OID": "DIO0000CA761"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6516d624.jpg"
+  },
+  "04b2643cf292862bb72e819050231c0416606b0f700a7a3cc218fc80a6460cb6": {
+    "first_seen": "2026-05-20T15:26:50.071699",
+    "objects": [
+      {
+        "Naimenovanie": "Электрическая дрель",
+        "registerNo": "0009-1795",
+        "OID": "DIO0000CA761"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_caacb29d.jpg"
   }
 }
