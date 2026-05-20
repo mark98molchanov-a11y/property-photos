@@ -12076,5 +12076,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_223009f7.png"
+  },
+  "888da1eba8c5beda651a0e5149cb19ae4bccd671e45158da3612e8f729a59d0a": {
+    "first_seen": "2026-05-20T17:02:47.332936",
+    "objects": [
+      {
+        "Naimenovanie": "Автомагнитола МР 3 СОНИ СДХ-Р 3350",
+        "registerNo": "0009-1856",
+        "OID": "DIO000195486"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e9b56d06.jpg"
+  },
+  "a15c6e4aaf1646de36ee61220ea9b2f3266ed99c0640e5645760bc0642f4a324": {
+    "first_seen": "2026-05-20T17:02:47.333014",
+    "objects": [
+      {
+        "Naimenovanie": "Автомагнитола МР 3 СОНИ СДХ-Р 3350",
+        "registerNo": "0009-1856",
+        "OID": "DIO000195486"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e560d667.jpg"
   }
 }
