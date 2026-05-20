@@ -6653,5 +6653,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_206dc036.jpg"
+  },
+  "a9c1d4415c75e8a089c7e95d4cbf61139ab873fa2c53ac21d801b7332bfa1f3a": {
+    "first_seen": "2026-05-20T14:57:47.358657",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло Престиж",
+        "registerNo": "0017-2840",
+        "OID": "DIO00016E600"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e9d67f8c.jpg"
+  },
+  "95c30b2ec542cdeef017817f516a7904984db9eaed697c5cbf7cf340fbf9fc5f": {
+    "first_seen": "2026-05-20T14:57:47.358734",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло Престиж",
+        "registerNo": "0017-2840",
+        "OID": "DIO00016E600"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5a509f14.jpg"
   }
 }
