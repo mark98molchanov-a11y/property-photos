@@ -8545,5 +8545,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5df1452d.png"
+  },
+  "142cc4392678796eabeabd55715f87fe8cc71cd18dc5e5237926e21de7e2bf3b": {
+    "first_seen": "2026-05-20T15:39:05.949314",
+    "objects": [
+      {
+        "Naimenovanie": "Шприцевой насос с микропроцессорным контролем",
+        "registerNo": "0019-7510",
+        "OID": "DIO0000D0B68"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d0cff5d1.jpg"
   }
 }
