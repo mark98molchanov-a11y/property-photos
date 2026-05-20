@@ -5608,5 +5608,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e08a1450.jpg"
+  },
+  "7dcf83107ee63825707eabf6500fa7a5f68c722c9881e93c7778c82c76350bed": {
+    "first_seen": "2026-05-20T14:31:24.395917",
+    "objects": [
+      {
+        "Naimenovanie": "Экран рентгенозащитный двухсекционный глухой",
+        "registerNo": "0896-3050",
+        "OID": "000300EB0ACC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4f87f0c7.jpg"
   }
 }
