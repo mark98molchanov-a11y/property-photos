@@ -13385,5 +13385,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_13c0ce82.jpg"
+  },
+  "3479143b8092fe7204e323bed16174ab190671c9992e90112710678decccff74": {
+    "first_seen": "2026-05-20T17:29:43.389995",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор МАИТ-02 Данко с сенсорным экраном",
+        "registerNo": "0018-9821",
+        "OID": "DIO00019C992"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fbf74bee.jpg"
   }
 }
