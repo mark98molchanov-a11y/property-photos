@@ -1516,5 +1516,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8cc16414.jpg"
+  },
+  "b71e829e87a8592884f42b40fcbf82a049bf9504da6b2f3b23daf5a946fb9fd6": {
+    "first_seen": "2026-05-20T12:58:14.454197",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP 255 G7",
+        "registerNo": "0890-6905",
+        "OID": "000300162E0D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c68b9369.jpg"
+  },
+  "16ff49927b5f9565ba17efa185bffa3234a08e4850f7869d4075496167fb8107": {
+    "first_seen": "2026-05-20T12:58:14.454268",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP 255 G7",
+        "registerNo": "0890-6905",
+        "OID": "000300162E0D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3bffc505.jpg"
   }
 }
