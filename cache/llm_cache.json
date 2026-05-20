@@ -3507,5 +3507,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bdb860e2.png"
+  },
+  "26f18ac0f0cab4b7872d9584ba2d836425bf6e263c6750b47a366262a14338ac": {
+    "first_seen": "2026-05-20T13:42:49.985874",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель",
+        "registerNo": "0892-1249",
+        "OID": "0003002097EF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7391a4e6.jpg"
+  },
+  "8e7062871b5f7e79c3bfe5d6b71bdc71b6f845104ec093ff44835d5a6831dd38": {
+    "first_seen": "2026-05-20T13:42:49.985951",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель",
+        "registerNo": "0892-1249",
+        "OID": "0003002097EF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6aa55a66.jpg"
   }
 }
