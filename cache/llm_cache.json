@@ -2990,5 +2990,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0ae2cab9.jpg"
+  },
+  "2d3837026ec9046478d03f69dc7edab1aab734abd88d170f43f294cd1a41b6a1": {
+    "first_seen": "2026-05-20T13:26:23.742883",
+    "objects": [
+      {
+        "Naimenovanie": "Насос перистальтический Инфозумат",
+        "registerNo": "0015-5466",
+        "OID": "DIO0000A3C76"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_858d3d7e.png"
+  },
+  "0cd492154b6f01c10b496871382d99153040860547269ed5a8eddb139e437ccb": {
+    "first_seen": "2026-05-20T13:26:23.742975",
+    "objects": [
+      {
+        "Naimenovanie": "Насос перистальтический Инфозумат",
+        "registerNo": "0015-5466",
+        "OID": "DIO0000A3C76"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f903401b.png"
+  },
+  "e59bdcf73476e155f61091612d0752b3041b514cd83652ec4ade491b8024f90d": {
+    "first_seen": "2026-05-20T13:26:23.743020",
+    "objects": [
+      {
+        "Naimenovanie": "Насос перистальтический Инфозумат",
+        "registerNo": "0015-5466",
+        "OID": "DIO0000A3C76"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2df067f4.png"
   }
 }
