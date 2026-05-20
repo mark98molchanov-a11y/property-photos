@@ -3210,5 +3210,49 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3462cf4a.jpg"
+  },
+  "f65804eae7c391705d85511bbdbbe930010e05ecf6990b17fab016ab563ad9ab": {
+    "first_seen": "2026-05-20T13:35:26.996415",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное",
+        "registerNo": "0891-5853",
+        "OID": "0003001C15E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_df828aa0.jpg"
+  },
+  "e15c74574cdc5d45284c2c40498bf73d2435797b59ee9c234e1c19c19a91b257": {
+    "first_seen": "2026-05-20T13:35:26.996507",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное",
+        "registerNo": "0891-5853",
+        "OID": "0003001C15E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_9ee4d054.jpg"
+  },
+  "a35d37b650ebe6a182a3d7ec8f5873d5de87d562ca93247a9ae9738324cc0331": {
+    "first_seen": "2026-05-20T13:35:26.996555",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное",
+        "registerNo": "0891-5853",
+        "OID": "0003001C15E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2a5c84f0.jpg"
+  },
+  "687a21dca1da3d9a50ebbc382b729f39115344aa0b70da212d3f1d599e2a2f0b": {
+    "first_seen": "2026-05-20T13:35:26.996598",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное",
+        "registerNo": "0891-5853",
+        "OID": "0003001C15E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_294b3448.jpg"
   }
 }
