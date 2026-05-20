@@ -14782,5 +14782,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f9534581.png"
+  },
+  "e15dd9498982fff40e1e261b5e4363373e9ddd169c698d3f759cecdc4998a8cf": {
+    "first_seen": "2026-05-20T18:02:27.611131",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Samsung R55",
+        "registerNo": "0007-5475",
+        "OID": "DIO00008257D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e8dc04ce.jpg"
+  },
+  "4a13146e0ae6fe0bfcc9365bbf1e8ab3ecc733478264a100c48e2b90b9f0ef63": {
+    "first_seen": "2026-05-20T18:02:27.611204",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Samsung R55",
+        "registerNo": "0007-5475",
+        "OID": "DIO00008257D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ffd199ec.jpg"
+  },
+  "7d499221b8bb350560c8ade971cb0ea70cbfc240d680daa72d2e72b1923516c1": {
+    "first_seen": "2026-05-20T18:02:27.611245",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Samsung R55",
+        "registerNo": "0007-5475",
+        "OID": "DIO00008257D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3b5723de.jpg"
   }
 }
