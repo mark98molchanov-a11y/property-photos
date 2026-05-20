@@ -2297,5 +2297,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_defafc64.jpg"
+  },
+  "0b4c98ef816245902bce568b8794fc91ac7570f2a07c77deb99ca94b60b5bfab": {
+    "first_seen": "2026-05-20T13:09:28.547838",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное ",
+        "registerNo": "0890-7779",
+        "OID": "000300167F41"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6cfc6939.jpg"
+  },
+  "8ce10be51b79b9d3578033c3876a201a24a9032a995d499cfd1ee962b071e4b4": {
+    "first_seen": "2026-05-20T13:09:28.547904",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное ",
+        "registerNo": "0890-7779",
+        "OID": "000300167F41"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_86cf1697.jpg"
   }
 }
