@@ -5487,5 +5487,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_779ab02d.jpg"
+  },
+  "67f1704ff1a04c64889b1b3cb7d7dcf572ff84477320df4b1ee87d63ef339ea7": {
+    "first_seen": "2026-05-20T14:29:14.763710",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное",
+        "registerNo": "0014-2405",
+        "OID": "DIO000168187"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9cf3d990.webp"
+  },
+  "3e4390a955db706d6d310e79dc3918fba77e2bdae38e3778d0b6da109ab96ce6": {
+    "first_seen": "2026-05-20T14:29:14.763796",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное",
+        "registerNo": "0014-2405",
+        "OID": "DIO000168187"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_91db36e7.webp"
+  },
+  "56c07391683c851471784af6051e21f80aaa0377147c38b4d97ac8dec91a27a7": {
+    "first_seen": "2026-05-20T14:29:14.763842",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное",
+        "registerNo": "0014-2405",
+        "OID": "DIO000168187"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_506a0e79.webp"
   }
 }
