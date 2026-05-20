@@ -3254,5 +3254,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_294b3448.jpg"
+  },
+  "e6c0abf9716da41bd822401d813cb78d1d19cdc01eedff2c36c9debcfd492c05": {
+    "first_seen": "2026-05-20T13:36:16.982110",
+    "objects": [
+      {
+        "Naimenovanie": "Стенд",
+        "registerNo": "0009-5158",
+        "OID": "DIO00014C638"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2bccbb6b.jpg"
+  },
+  "d1997b171e137a222794eee3b95925353d157b70c04dc1c2ed5c57b2a3085690": {
+    "first_seen": "2026-05-20T13:36:16.982169",
+    "objects": [
+      {
+        "Naimenovanie": "Стенд",
+        "registerNo": "0009-5158",
+        "OID": "DIO00014C638"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_96dab939.jpg"
   }
 }
