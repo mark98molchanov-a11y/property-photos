@@ -14419,5 +14419,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_70feced5.png"
+  },
+  "2e8f180c14e89086efdc03f03541c5279a847dcf9438651fcb8b716bcf50ff03": {
+    "first_seen": "2026-05-20T17:53:11.766099",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло рабочее",
+        "registerNo": "0020-4909",
+        "OID": "DIO0001A55CF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4b95fce2.jpg"
+  },
+  "50d361e13d2eac1751a5b66d5b44ce5ef459f6910c5bbf50097217b02d1cb9b1": {
+    "first_seen": "2026-05-20T17:53:11.766156",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло рабочее",
+        "registerNo": "0020-4909",
+        "OID": "DIO0001A55CF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a60e9dae.jpg"
   }
 }
