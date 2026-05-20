@@ -3595,5 +3595,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_12fb9030.jpg"
+  },
+  "72865a27a57d8645b2e84b0ee8967c1afd807dc12c1b2ecad4f7048aba99612f": {
+    "first_seen": "2026-05-20T13:45:37.484216",
+    "objects": [
+      {
+        "Naimenovanie": "Наконечник угловой",
+        "registerNo": "0892-4018",
+        "OID": "000300223BDD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b035cf53.jpg"
+  },
+  "67233ce70b3c93fe2606b11a127f9dc1856847ace1540407b374b6cbe1fb4410": {
+    "first_seen": "2026-05-20T13:45:37.484291",
+    "objects": [
+      {
+        "Naimenovanie": "Наконечник угловой",
+        "registerNo": "0892-4018",
+        "OID": "000300223BDD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_64ae4e98.jpg"
   }
 }
