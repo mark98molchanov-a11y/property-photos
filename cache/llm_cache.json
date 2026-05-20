@@ -4838,5 +4838,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e3db8a3c.jpg"
+  },
+  "67f3431ede36f1173939f76071dd0d159b771087b7dd3750a1730601063bb727": {
+    "first_seen": "2026-05-20T14:11:45.832202",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор для первичной диагностики Microlux",
+        "registerNo": "0018-3178",
+        "OID": "DIO0000B38FB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_29886dd8.jpg"
+  },
+  "26c269bca6eab384926f92a8234934b76c11fc3bfecb054e6dc87974a244eabb": {
+    "first_seen": "2026-05-20T14:11:45.832288",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор для первичной диагностики Microlux",
+        "registerNo": "0018-3178",
+        "OID": "DIO0000B38FB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0df69eea.jpg"
   }
 }
