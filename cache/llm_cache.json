@@ -12670,5 +12670,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4adb04d3.jpg"
+  },
+  "44d9c4f452e02ceaf72aeb01d0af61641632e8e6ab2165ec03cec4580faddd8f": {
+    "first_seen": "2026-05-20T17:15:45.847440",
+    "objects": [
+      {
+        "Naimenovanie": "Фильтрационная система",
+        "registerNo": "0000-3088",
+        "OID": "DIO00004E3B2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_487cc4e2.png"
+  },
+  "117f32f3dfe4e7e2b21751eec593a104ee612ce42de2fa80dc7dfe0e4e3a1fad": {
+    "first_seen": "2026-05-20T17:15:45.847537",
+    "objects": [
+      {
+        "Naimenovanie": "Фильтрационная система",
+        "registerNo": "0000-3088",
+        "OID": "DIO00004E3B2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0b3124c1.png"
+  },
+  "f093dcb576f2e48bcbe06fa5f1f7f931abe82c7e6fe35a185ee368c761faf0a8": {
+    "first_seen": "2026-05-20T17:15:45.847583",
+    "objects": [
+      {
+        "Naimenovanie": "Фильтрационная система",
+        "registerNo": "0000-3088",
+        "OID": "DIO00004E3B2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a1a2318e.png"
   }
 }
