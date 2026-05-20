@@ -12582,5 +12582,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_688329ce.jpg"
+  },
+  "088bbf0542daf86236034bc0f497bc97c26510b4cbda53bb3f28b200ec0812f0": {
+    "first_seen": "2026-05-20T17:13:44.885485",
+    "objects": [
+      {
+        "Naimenovanie": "Палатная консоль жизнеобеспечения",
+        "registerNo": "0015-6476",
+        "OID": "DIO0001972B4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7ae11b57.png"
+  },
+  "d83eafb5acc9fae5d0d4d508ff7046f55008f8abc2f3b4346626e141dcf5f82e": {
+    "first_seen": "2026-05-20T17:13:44.885562",
+    "objects": [
+      {
+        "Naimenovanie": "Палатная консоль жизнеобеспечения",
+        "registerNo": "0015-6476",
+        "OID": "DIO0001972B4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e5cb42a2.png"
   }
 }
