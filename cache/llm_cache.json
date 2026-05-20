@@ -11152,5 +11152,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_51534a58.png"
+  },
+  "a2317f8a62b8321c43296f375e871662fe99666e6685890ec5470ad939ffdcac": {
+    "first_seen": "2026-05-20T16:46:44.594517",
+    "objects": [
+      {
+        "Naimenovanie": "Стол комплект",
+        "registerNo": "0000-4649",
+        "OID": "DIO000023143"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b1d4cd7d.jpg"
+  },
+  "5895771b4c5d00c74d739f9122c359831314ea589b39b7a50fdb9b67ab300d7f": {
+    "first_seen": "2026-05-20T16:46:44.594641",
+    "objects": [
+      {
+        "Naimenovanie": "Стол комплект",
+        "registerNo": "0000-4649",
+        "OID": "DIO000023143"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ede321bd.jpg"
   }
 }
