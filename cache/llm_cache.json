@@ -12472,5 +12472,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7e4719da.png"
+  },
+  "76d6b61ac1f61cca6c93d59346dede5bb211050ab70762e7d3bd74055689ee26": {
+    "first_seen": "2026-05-20T17:11:26.436440",
+    "objects": [
+      {
+        "Naimenovanie": "Устройство автоматическое поромывающее устройство для 96-луночных микропланшетов Вошер PW40",
+        "registerNo": "0017-7255",
+        "OID": "DIO000197058"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1ceaf204.jpg"
+  },
+  "5d27ca5009c5a27286ab6238035f5fba6e2ba7bc88f1d627201f7bd01ca9f62e": {
+    "first_seen": "2026-05-20T17:11:26.436690",
+    "objects": [
+      {
+        "Naimenovanie": "Устройство автоматическое поромывающее устройство для 96-луночных микропланшетов Вошер PW40",
+        "registerNo": "0017-7255",
+        "OID": "DIO000197058"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3fab4909.jpg"
   }
 }
