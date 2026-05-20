@@ -10107,5 +10107,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_195e557a.jpg"
+  },
+  "b55addf6679b3b0b2168d53f45dd51dda90a11cae5b6d2142ec0001969fa1d95": {
+    "first_seen": "2026-05-20T16:20:57.411419",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор Филипс",
+        "registerNo": "0020-0214",
+        "OID": "DIO0000DC5C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_589d2501.jpg"
+  },
+  "4790e674eb2bc583044aab41812e24c5d44814aaa96b067cab8ed15f66aca953": {
+    "first_seen": "2026-05-20T16:20:57.411511",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор Филипс",
+        "registerNo": "0020-0214",
+        "OID": "DIO0000DC5C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c0360153.jpg"
+  },
+  "0ee9b2abbb9e1577ec5efc6ab61077f3a695a1daf0d446c161d2f700c2ea4530": {
+    "first_seen": "2026-05-20T16:20:57.411564",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор Филипс",
+        "registerNo": "0020-0214",
+        "OID": "DIO0000DC5C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_53783e20.jpg"
   }
 }
