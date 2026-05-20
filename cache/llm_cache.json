@@ -3144,5 +3144,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_58114c05.jpg"
+  },
+  "0807e613681848c70447762ff8a98a79ffe28c5175d74ed682265618c0dfb9c5": {
+    "first_seen": "2026-05-20T13:32:48.485319",
+    "objects": [
+      {
+        "Naimenovanie": "ИБП UPS 1000 VA",
+        "registerNo": "0009-6277",
+        "OID": "DIO00014B99B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_db544ffb.jpg"
   }
 }
