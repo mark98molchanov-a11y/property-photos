@@ -372,5 +372,60 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b31bfeb1.jpg"
+  },
+  "97042c36e14d7afa6a1d1d1541ef22cc6ba5d7e34d072ca079b55135f2aaeee6": {
+    "first_seen": "2026-05-20T12:38:19.945233",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб",
+        "registerNo": "0005-5500",
+        "OID": "DIO00011C9F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_56418815.jpg"
+  },
+  "f5908afe608062297eec6dae8c0560d06e6c1cc2ec23b7a00daed6a7af3ed768": {
+    "first_seen": "2026-05-20T12:38:19.945306",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб",
+        "registerNo": "0005-5500",
+        "OID": "DIO00011C9F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_56b7fdd9.jpg"
+  },
+  "7f14a478ad0d9144647dfd3187018f998180cef190e08056024fef55fc508af9": {
+    "first_seen": "2026-05-20T12:38:19.945351",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб",
+        "registerNo": "0005-5500",
+        "OID": "DIO00011C9F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e6e17aa6.jpg"
+  },
+  "0faa2f496f6f0b34c2babde38a68db931eda8cdf1f7e2c2a415dc724684cef4e": {
+    "first_seen": "2026-05-20T12:38:19.945393",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб",
+        "registerNo": "0005-5500",
+        "OID": "DIO00011C9F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d6ef9d82.jpg"
+  },
+  "e35a45e36d12191745caf7b901a60788e1f5121f25a627095d321ae9194f76af": {
+    "first_seen": "2026-05-20T12:38:19.945432",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб",
+        "registerNo": "0005-5500",
+        "OID": "DIO00011C9F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_84c84f31.jpg"
   }
 }
