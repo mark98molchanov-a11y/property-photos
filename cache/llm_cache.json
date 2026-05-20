@@ -8215,5 +8215,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_472b4ab1.jpg"
+  },
+  "e87894287a896d4a1f49d4099e9a9852176760695ec5a1ee0f17cf0849153452": {
+    "first_seen": "2026-05-20T15:32:19.235569",
+    "objects": [
+      {
+        "Naimenovanie": "Паровой стерилизатор стеривал 6612-2",
+        "registerNo": "0015-6319",
+        "OID": "DIO0001795BB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_494d96b8.jpg"
+  },
+  "9b955ef71288189dcd45fb3e32fd2f31f296ea380d7b33f2cbc9b0a7553cf9ec": {
+    "first_seen": "2026-05-20T15:32:19.235649",
+    "objects": [
+      {
+        "Naimenovanie": "Паровой стерилизатор стеривал 6612-2",
+        "registerNo": "0015-6319",
+        "OID": "DIO0001795BB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c5b49024.jpg"
   }
 }
