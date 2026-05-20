@@ -8413,5 +8413,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_82811a31.jpg"
+  },
+  "e731fc83c09a446b8dc5bcd5392ef0320166fac9a2d0884c829f69e1ff34ae43": {
+    "first_seen": "2026-05-20T15:36:07.209932",
+    "objects": [
+      {
+        "Naimenovanie": "Стол руководителя",
+        "registerNo": "0985-3648",
+        "OID": "000302C25474"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4eada3ff.jpg"
+  },
+  "d681ca8de01df85d47debdf9e3e3e58e9a5082974c1548d22429c95ea8ba6063": {
+    "first_seen": "2026-05-20T15:36:07.209999",
+    "objects": [
+      {
+        "Naimenovanie": "Стол руководителя",
+        "registerNo": "0985-3648",
+        "OID": "000302C25474"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d4b8c638.jpg"
   }
 }
