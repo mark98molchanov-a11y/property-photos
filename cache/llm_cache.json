@@ -284,5 +284,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7e5f45f7.jpg"
+  },
+  "5bdb3c3dc5770ff48a651e040ab26e1fc168a3620a67b52d023518b24ab18de8": {
+    "first_seen": "2026-05-20T10:13:58.897002",
+    "objects": [
+      {
+        "Naimenovanie": "Корзина для мусора",
+        "registerNo": "0039-9857",
+        "OID": "DIO00030D69A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2758d390.jpg"
   }
 }
