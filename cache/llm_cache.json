@@ -2473,5 +2473,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2bcbe48b.jpg"
+  },
+  "c730db89b4f7cd731584d4a627dbb83058d48e9e941068ae97c2d222ebc42711": {
+    "first_seen": "2026-05-20T13:11:43.914632",
+    "objects": [
+      {
+        "Naimenovanie": "Станок сверлильный",
+        "registerNo": "0890-8043",
+        "OID": "00030016859E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_951d6876.jpg"
   }
 }
