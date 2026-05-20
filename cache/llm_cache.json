@@ -11944,5 +11944,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0fa4dd14.jpg"
+  },
+  "723173023284ccc1992b7a34d4bb7787e9237dc0ec78b0b04193ca45b5f0e633": {
+    "first_seen": "2026-05-20T17:00:27.635957",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель рециркулятор Кристалл-3",
+        "registerNo": "0015-6843",
+        "OID": "DIO0000E8FA9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_041385be.jpg"
+  },
+  "52964a73495df041290fe03ace29dc3765870d6f34dd7c658d8844cdc96a3699": {
+    "first_seen": "2026-05-20T17:00:27.636052",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель рециркулятор Кристалл-3",
+        "registerNo": "0015-6843",
+        "OID": "DIO0000E8FA9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0db2c8cc.jpg"
   }
 }
