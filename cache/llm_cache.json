@@ -1340,5 +1340,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8f2e3626.jpg"
+  },
+  "b447f866fb2d96dbee7bec9df5da709b278a821e5576888860fcdcfe9388542e": {
+    "first_seen": "2026-05-20T12:56:08.034645",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ",
+        "registerNo": "0005-5621",
+        "OID": "DIO000136CEA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e345a0cb.jpg"
+  },
+  "44f352f727af9290416cbfcb39bfe51926ea928a7d01f243accb51add9a1e22e": {
+    "first_seen": "2026-05-20T12:56:08.034721",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ",
+        "registerNo": "0005-5621",
+        "OID": "DIO000136CEA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4e4cac0b.jpg"
+  },
+  "ed16a070cfa5ee462fddc51926a9272c5a345a5e11bdcd5f933386b85ebcc6dc": {
+    "first_seen": "2026-05-20T12:56:08.034766",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ",
+        "registerNo": "0005-5621",
+        "OID": "DIO000136CEA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fc8ccea0.jpg"
   }
 }
