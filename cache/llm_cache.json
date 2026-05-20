@@ -7060,5 +7060,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4b65fa72.png"
+  },
+  "8fd4672674d013fc04785f07c86550e7bfec08036cfd814908ee8fa3d8373821": {
+    "first_seen": "2026-05-20T15:07:20.370392",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (моноблок)",
+        "registerNo": "0946-5866",
+        "OID": "0003013C853B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a0e42dfe.jpg"
   }
 }
