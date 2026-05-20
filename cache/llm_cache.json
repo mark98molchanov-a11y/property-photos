@@ -5861,5 +5861,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5649d1fd.jpg"
+  },
+  "7f6bd09ce413d3c11929cb02d26ce7c5538a32ca2448ecc399c541e15541d20f": {
+    "first_seen": "2026-05-20T14:37:08.566036",
+    "objects": [
+      {
+        "Naimenovanie": "Перфузор Компакт",
+        "registerNo": "0015-4895",
+        "OID": "DIO00016B6DB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4e22beca.png"
+  },
+  "f18b62151b8dc3bed58f91a66faa3724cd2c851c25c95925c1dcad51b757a20b": {
+    "first_seen": "2026-05-20T14:37:08.566118",
+    "objects": [
+      {
+        "Naimenovanie": "Перфузор Компакт",
+        "registerNo": "0015-4895",
+        "OID": "DIO00016B6DB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e04b9907.png"
   }
 }
