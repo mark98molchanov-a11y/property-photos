@@ -11812,5 +11812,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b034a88a.png"
+  },
+  "12d7df07412ad41e3eaedfe9bcda5f99a9be1d5c71c6648770c809a10c99ae7f": {
+    "first_seen": "2026-05-20T16:58:58.690844",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник STINOL",
+        "registerNo": "0001-4127",
+        "OID": "DIO0000366CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_9cc0b6e9.jpg"
+  },
+  "16a8092b99f0aa7c627f05388b7fcbaafe70be02325af4fe572640e17214f811": {
+    "first_seen": "2026-05-20T16:58:58.690925",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник STINOL",
+        "registerNo": "0001-4127",
+        "OID": "DIO0000366CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cb000c37.jpg"
   }
 }
