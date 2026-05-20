@@ -10415,5 +10415,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2efa4018.jpg"
+  },
+  "d3a7dbadeade46d5f2177c198b268497ce26180f94fcca4c0bf688aa55deccb8": {
+    "first_seen": "2026-05-20T16:29:55.556514",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для ручной вентиляции новорожденных",
+        "registerNo": "0015-7523",
+        "OID": "DIO0000DF3FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3b95e6e2.jpg"
+  },
+  "bbb668fc738fa2ffcec22885c0acf5ccdfcd389163880498bc6d24211bb6499b": {
+    "first_seen": "2026-05-20T16:29:55.556592",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для ручной вентиляции новорожденных",
+        "registerNo": "0015-7523",
+        "OID": "DIO0000DF3FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ac9a676b.jpg"
+  },
+  "1385608c376835142a6ef1f3b4c8c557af3c308b9e4d0d453c6900cba1687cd7": {
+    "first_seen": "2026-05-20T16:29:55.556633",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для ручной вентиляции новорожденных",
+        "registerNo": "0015-7523",
+        "OID": "DIO0000DF3FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d587ec9d.jpg"
   }
 }
