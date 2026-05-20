@@ -273,5 +273,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c56b557e.jpg"
+  },
+  "de94e0ce99a222659c4d29c2da5b60972b26c1a0ea4b248efde8a156db9edd72": {
+    "first_seen": "2026-05-20T12:36:38.926057",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель ОБП-450",
+        "registerNo": "0001-3872",
+        "OID": "DIO00011C0D0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c5062123.jpg"
   }
 }
