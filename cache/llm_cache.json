@@ -306,5 +306,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2d3d74fa.jpg"
+  },
+  "b2538435ed80fa36b71153164265e4af42b7fa31e6410238c0ebf3928b944786": {
+    "first_seen": "2026-05-20T10:20:39.061030",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель-рециркулятор воздуха ",
+        "registerNo": "0890-1280",
+        "OID": "00030004CB42"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_9de98818.jpg"
+  },
+  "71358a11fdd5441e6ff64ca99f053823a92ce8bfc85ade72ec46dad98bdd5820": {
+    "first_seen": "2026-05-20T10:20:39.061112",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель-рециркулятор воздуха ",
+        "registerNo": "0890-1280",
+        "OID": "00030004CB42"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_241dcdfb.jpg"
   }
 }
