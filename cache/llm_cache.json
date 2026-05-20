@@ -1318,5 +1318,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_45840a37.jpg"
+  },
+  "2f53bd3bd8a99e542fca0147c14e206036b7e224ac12fcf2d8cf3c55f4ba6691": {
+    "first_seen": "2026-05-20T12:55:18.963690",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для неинвазивного определения степени фиброза печени FibroScan 502 с ультразвуковыми датчиками",
+        "registerNo": "0013-3575",
+        "OID": "DIO0000982BF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b0f97984.jpg"
+  },
+  "c5dd4666b766233ed2b3a1ee5e6e2f7147d0683220c6010a180edfb6cca1c7c5": {
+    "first_seen": "2026-05-20T12:55:18.963764",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для неинвазивного определения степени фиброза печени FibroScan 502 с ультразвуковыми датчиками",
+        "registerNo": "0013-3575",
+        "OID": "DIO0000982BF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8f2e3626.jpg"
   }
 }
