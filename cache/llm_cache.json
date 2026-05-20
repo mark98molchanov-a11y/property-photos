@@ -2792,5 +2792,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_eb07b5d1.jpg"
+  },
+  "ec2c35fe4aaec615afd6300d5cf0caedf33057ad70fae300e0d71ab8b8e3cf35": {
+    "first_seen": "2026-05-20T13:20:52.692119",
+    "objects": [
+      {
+        "Naimenovanie": "Пила отрезная дисковая",
+        "registerNo": "0890-8157",
+        "OID": "0003001689FB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b30b64a9.jpg"
   }
 }
