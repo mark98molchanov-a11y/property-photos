@@ -12164,5 +12164,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a9e3c8a5.jpg"
+  },
+  "4465b520ce48b11249f84b494c8acbc4469da7d2efc077b46df3f11ec15369cd": {
+    "first_seen": "2026-05-20T17:04:22.548699",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель бактерицидный, передвижной ОБНП 2",
+        "registerNo": "0001-3867",
+        "OID": "DIO0000410C4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_56457ed5.jpg"
+  },
+  "ca86adef90ae7a94222d8efc5f99ab13f28597145a33f03962550523dd286989": {
+    "first_seen": "2026-05-20T17:04:22.548766",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель бактерицидный, передвижной ОБНП 2",
+        "registerNo": "0001-3867",
+        "OID": "DIO0000410C4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_679fdac3.jpg"
   }
 }
