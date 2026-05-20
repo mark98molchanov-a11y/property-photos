@@ -361,5 +361,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e635bcd7.jpg"
+  },
+  "78aa16448eadf6f4a725f0e4dd6b2b89e07a9a1294535063a12621b79bef5f2d": {
+    "first_seen": "2026-05-20T12:37:50.194378",
+    "objects": [
+      {
+        "Naimenovanie": "Блок бесперебойного питания",
+        "registerNo": "0013-8259",
+        "OID": "DIO00008D719"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b31bfeb1.jpg"
   }
 }
