@@ -7489,5 +7489,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_edf12934.jpg"
+  },
+  "1fb088a5c0805a51ed903043876f2cc6d122b28ebbdfc816b76d89d28014e188": {
+    "first_seen": "2026-05-20T15:17:28.048672",
+    "objects": [
+      {
+        "Naimenovanie": "Стол письменный",
+        "registerNo": "0954-6119",
+        "OID": "0003019B36D5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_72392496.jpg"
+  },
+  "427ce5f6d3a8edbee89837cf9ef3a628aa991a4cc310546e49ffca5d5c6d6bfb": {
+    "first_seen": "2026-05-20T15:17:28.048749",
+    "objects": [
+      {
+        "Naimenovanie": "Стол письменный",
+        "registerNo": "0954-6119",
+        "OID": "0003019B36D5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_832477d4.jpg"
+  },
+  "7597bb18be19fe22bfef698e8987eb5019cec79cb884abb5a0623ed16c8585ec": {
+    "first_seen": "2026-05-20T15:17:28.048846",
+    "objects": [
+      {
+        "Naimenovanie": "Стол письменный",
+        "registerNo": "0954-6119",
+        "OID": "0003019B36D5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_41638816.jpg"
   }
 }
