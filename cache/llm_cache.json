@@ -757,5 +757,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_98c568a2.jpg"
+  },
+  "67dd96207a45f42b6a182b146ddaa6cb6edd40d47569f84034f696abed3caf27": {
+    "first_seen": "2026-05-20T12:43:42.023200",
+    "objects": [
+      {
+        "Naimenovanie": "Станок заточный",
+        "registerNo": "0004-9339",
+        "OID": "DIO0001223D3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4d0c856a.jpg"
+  },
+  "89614c9b16d7cdc560eddcde83f8a9d0a08c6bc7cf48218f9890b1ea01563185": {
+    "first_seen": "2026-05-20T12:43:42.023302",
+    "objects": [
+      {
+        "Naimenovanie": "Станок заточный",
+        "registerNo": "0004-9339",
+        "OID": "DIO0001223D3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7d88c2c5.jpg"
   }
 }
