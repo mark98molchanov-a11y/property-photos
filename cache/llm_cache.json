@@ -8721,5 +8721,16 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_302d7cd3.jpg"
+  },
+  "edba796f1bfec35bc70dd19829788f129fda2c1b61881f0bbc7e947b8d7331a4": {
+    "first_seen": "2026-05-20T15:43:14.684022",
+    "objects": [
+      {
+        "Naimenovanie": "Видеокамера DH-IPCHFW2221RP-VFS-IRE6",
+        "registerNo": "0991-8548",
+        "OID": "00030362A1BD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d6a39da3.jpg"
   }
 }
