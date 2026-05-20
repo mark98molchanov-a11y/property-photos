@@ -8688,5 +8688,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_34bd8625.jpg"
+  },
+  "a298868ad332b91e55e909248cf15bd92fff29542ab167780d0ea6c34ffbb94d": {
+    "first_seen": "2026-05-20T15:41:54.074053",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (Автоматизированное рабочее место)",
+        "registerNo": "0019-2103",
+        "OID": "DIO0000D1199"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_04733f3c.jpg"
+  },
+  "3f921f941693a9a4cf4f87ffb6c6aed3afabeadaf6405403f8fe715e5abfeb6f": {
+    "first_seen": "2026-05-20T15:41:54.074120",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (Автоматизированное рабочее место)",
+        "registerNo": "0019-2103",
+        "OID": "DIO0000D1199"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_92cb6904.jpg"
+  },
+  "b0e2ec44e02d203005a6676a0b140d53c7708315ff1ca2af7d467f7a285593e4": {
+    "first_seen": "2026-05-20T15:41:54.074162",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (Автоматизированное рабочее место)",
+        "registerNo": "0019-2103",
+        "OID": "DIO0000D1199"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_302d7cd3.jpg"
   }
 }
