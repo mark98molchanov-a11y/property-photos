@@ -1560,5 +1560,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_afe83281.jpg"
+  },
+  "a6c71aeb06fedcc14ac68f7146fca824164ca648421ac865ccee591fe30997c6": {
+    "first_seen": "2026-05-20T13:00:41.379541",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Acer",
+        "registerNo": "0890-7660",
+        "OID": "0003001642B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3b6c3018.jpg"
+  },
+  "81e1fff923a8d807ac3b9a22c5148b690965e08bc730f20247e26e1e6ea3c8aa": {
+    "first_seen": "2026-05-20T13:00:41.379625",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Acer",
+        "registerNo": "0890-7660",
+        "OID": "0003001642B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_19fdb6b1.jpg"
+  },
+  "c0b0de3c574b701b46d9baad0ef2174997ff29be2b6dacf4f522b77a268bd569": {
+    "first_seen": "2026-05-20T13:00:41.379667",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Acer",
+        "registerNo": "0890-7660",
+        "OID": "0003001642B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_06ce8bc3.jpg"
   }
 }
