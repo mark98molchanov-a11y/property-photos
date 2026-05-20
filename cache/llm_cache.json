@@ -9898,5 +9898,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4362ea58.jpg"
+  },
+  "e273cbbd26fffb509bc8b939f663771bb07b72194cd91c5c851b2d1ebd29ff34": {
+    "first_seen": "2026-05-20T16:15:00.040485",
+    "objects": [
+      {
+        "Naimenovanie": "Приемник GPS.к комплектации: приемник Maxor GGDT. GPS L1+L2 без антенны, запись во внутреннюю память  16Мб, встроенная антенна MarAnt.ПО",
+        "registerNo": "0007-0807",
+        "OID": "DIO00018265C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1cb7ff34.jpg"
+  },
+  "5c27fdbf82abd7c66810b1e2aa970d69ff62bcd03dee9f5f21f9f391d0d8b521": {
+    "first_seen": "2026-05-20T16:15:00.040551",
+    "objects": [
+      {
+        "Naimenovanie": "Приемник GPS.к комплектации: приемник Maxor GGDT. GPS L1+L2 без антенны, запись во внутреннюю память  16Мб, встроенная антенна MarAnt.ПО",
+        "registerNo": "0007-0807",
+        "OID": "DIO00018265C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cfa53b74.jpg"
   }
 }
