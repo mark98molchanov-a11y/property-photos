@@ -13308,5 +13308,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_28865346.jpg"
+  },
+  "2e97a0f35882744146f40f77464999138617fe99a43b689598396a91937fbfe1": {
+    "first_seen": "2026-05-20T17:27:02.690635",
+    "objects": [
+      {
+        "Naimenovanie": "Счетчик СГ",
+        "registerNo": "0001-4031",
+        "OID": "DIO0000F5B80"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_88fd3a67.jpg"
+  },
+  "8c5a0d5b0690027069057fb7241b5fe7f7a2de29093bb5e8aaaac77f5f42915e": {
+    "first_seen": "2026-05-20T17:27:02.690698",
+    "objects": [
+      {
+        "Naimenovanie": "Счетчик СГ",
+        "registerNo": "0001-4031",
+        "OID": "DIO0000F5B80"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a732649e.jpg"
   }
 }
