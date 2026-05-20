@@ -15013,5 +15013,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_389b270d.png"
+  },
+  "b8db340596e374a421cda03b71dc3cde8096e13dbd72261ab41f1daf5cf2e98a": {
+    "first_seen": "2026-05-20T18:10:03.119251",
+    "objects": [
+      {
+        "Naimenovanie": "Мойка",
+        "registerNo": "0014-7751",
+        "OID": "DIO0001ABC05"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_412acab9.jpg"
+  },
+  "fd8d7dde91dd2fb67f60f13e3e39e6d85cb8674d3395f0bf2dcad712e26e7589": {
+    "first_seen": "2026-05-20T18:10:03.119489",
+    "objects": [
+      {
+        "Naimenovanie": "Мойка",
+        "registerNo": "0014-7751",
+        "OID": "DIO0001ABC05"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e65444d6.jpg"
+  },
+  "c6161ec07038aed94f8dfe4d59b6b44ad76f1c8f74c08af1efdbb7db7576a048": {
+    "first_seen": "2026-05-20T18:10:03.119538",
+    "objects": [
+      {
+        "Naimenovanie": "Мойка",
+        "registerNo": "0014-7751",
+        "OID": "DIO0001ABC05"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_207e57b9.jpg"
   }
 }
