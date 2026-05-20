@@ -13275,5 +13275,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_73870451.jpg"
+  },
+  "dfa5b798b11f2bcc097b5625f067eb85149d18b7ceaacebd7c28ba0cc1542c60": {
+    "first_seen": "2026-05-20T17:25:41.065671",
+    "objects": [
+      {
+        "Naimenovanie": "Неготоскоп VELOPEX LP 100",
+        "registerNo": "0018-3137",
+        "OID": "DIO00019BB18"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3ba8a060.jpg"
+  },
+  "80840cdbdf4de225195031984d6cc648be2edb0ec22de4adde917ddd2aaa172c": {
+    "first_seen": "2026-05-20T17:25:41.065749",
+    "objects": [
+      {
+        "Naimenovanie": "Неготоскоп VELOPEX LP 100",
+        "registerNo": "0018-3137",
+        "OID": "DIO00019BB18"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9e0ccaad.jpg"
   }
 }
