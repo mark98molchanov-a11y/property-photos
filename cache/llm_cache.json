@@ -10591,5 +10591,38 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7232546a.jpg"
+  },
+  "578797468f1b7d390aee9649c7c590736a4596b7e75fde8086c5ca838fe8426a": {
+    "first_seen": "2026-05-20T16:35:01.222743",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка платформенная",
+        "registerNo": "0004-9597",
+        "OID": "DIO00018877C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3696870d.jpg"
+  },
+  "e0a07b4caa7efd57d7dd4626cff7a59c2c63accf799ef82942e2263394ad9c65": {
+    "first_seen": "2026-05-20T16:35:01.222821",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка платформенная",
+        "registerNo": "0004-9597",
+        "OID": "DIO00018877C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0309e6b3.jpg"
+  },
+  "2426786fe056c7f1be9d1d48f2892c36c712d7e9842eca835eb9fc373356259a": {
+    "first_seen": "2026-05-20T16:35:01.222863",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка платформенная",
+        "registerNo": "0004-9597",
+        "OID": "DIO00018877C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_33ffb643.jpg"
   }
 }
