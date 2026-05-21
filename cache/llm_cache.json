@@ -20084,5 +20084,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_594e5e0a.jpg"
+  },
+  "86212eb2535aca523c018434ccc0a22f4e1467b7a0d93c257228555f8620d5cc": {
+    "first_seen": "2026-05-21T17:04:05.852184",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор ET.CV3RE.D13",
+        "registerNo": "0011-6935",
+        "OID": "DIO0001B467C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3436f1c3.jpg"
+  },
+  "5f1abd46d2a9657d56917451ec910f6ff633311059fb699eb9fbc95f48eb5ad1": {
+    "first_seen": "2026-05-21T17:04:05.852239",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор ET.CV3RE.D13",
+        "registerNo": "0011-6935",
+        "OID": "DIO0001B467C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_17d9abe9.jpg"
   }
 }
