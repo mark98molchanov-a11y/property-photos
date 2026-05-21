@@ -20117,5 +20117,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9a3c101f.jpg"
+  },
+  "7353b1d8cfdddb1322787613f9892f150a98956d135e14e90cc23294b2340431": {
+    "first_seen": "2026-05-21T16:27:32.153572",
+    "objects": [
+      {
+        "Naimenovanie": "Котел КПЭМ-100\\9 Т",
+        "registerNo": "0028-9142",
+        "OID": "DIO00026F2CC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4163a275.jpg"
+  },
+  "6befef0edb9c3dd6692e3ef4f21cc7f9f67d318c97549f09e455bb0d3daba2a7": {
+    "first_seen": "2026-05-21T16:27:32.153641",
+    "objects": [
+      {
+        "Naimenovanie": "Котел КПЭМ-100\\9 Т",
+        "registerNo": "0028-9142",
+        "OID": "DIO00026F2CC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3af0680a.jpg"
   }
 }
