@@ -20139,5 +20139,27 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a525c7d8.png"
+  },
+  "4a84240047d383506f9b4c70b110249a841b5fb893071e84af2870f7cbcf3644": {
+    "first_seen": "2026-05-21T17:40:20.461631",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР Lazer 107r",
+        "registerNo": "0891-9527",
+        "OID": "000300201054"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ff38b14c.jpg"
+  },
+  "556155f6ad133682bebfab6a93cf8753a79e44f9c7dc4b427b458b6f07891974": {
+    "first_seen": "2026-05-21T17:40:20.461687",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР Lazer 107r",
+        "registerNo": "0891-9527",
+        "OID": "000300201054"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_587f7ca8.jpg"
   }
 }
