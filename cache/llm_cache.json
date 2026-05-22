@@ -634,5 +634,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b1c31e52.jpg",
     "source_folder": "photos2"
+  },
+  "da03d96ad30ddc635f5d98bd805ef28875c03ce5bae9944e2a56699d4304458e": {
+    "first_seen": "2026-05-22T20:30:47.384646",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь осветительный",
+        "registerNo": "0009-2080",
+        "OID": "DIO0000919AA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c7f930fc.jpg",
+    "source_folder": "photos2"
+  },
+  "72033c3433a40f9a370c5360d9b09bc727f8ca2a10b3a1d48d6abe56e58af841": {
+    "first_seen": "2026-05-22T20:30:47.384737",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь осветительный",
+        "registerNo": "0009-2080",
+        "OID": "DIO0000919AA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_bbe894ca.jpg",
+    "source_folder": "photos2"
   }
 }
