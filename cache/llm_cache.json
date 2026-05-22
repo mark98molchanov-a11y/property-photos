@@ -5506,5 +5506,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_71b1256c.jpg",
     "source_folder": "photos"
+  },
+  "7c528e185d1ede59be5cd4cdb2408d37074ca00adffbff4f8e0a14d05527e2a0": {
+    "first_seen": "2026-05-22T21:27:30.206264",
+    "objects": [
+      {
+        "Naimenovanie": "Некоспрей-аппарат для дезинфекции помещений",
+        "registerNo": "0018-3141",
+        "OID": "DIO0000AC0D7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e87203ff.jpg",
+    "source_folder": "photos2"
+  },
+  "978a59acd0b64554fde7a330c4a85dd360a052082fc9d1531bc0f498dee50ccd": {
+    "first_seen": "2026-05-22T21:27:30.206352",
+    "objects": [
+      {
+        "Naimenovanie": "Некоспрей-аппарат для дезинфекции помещений",
+        "registerNo": "0018-3141",
+        "OID": "DIO0000AC0D7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c551226.jpg",
+    "source_folder": "photos2"
   }
 }
