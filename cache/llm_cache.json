@@ -20686,5 +20686,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dfeefb8a.jpg",
     "source_folder": "photos"
+  },
+  "2b65208082537414c8d322c97f30493c2593792fbdc6b9538ee1377346492f46": {
+    "first_seen": "2026-05-23T00:51:19.678221",
+    "objects": [
+      {
+        "Naimenovanie": "Полка секционная",
+        "registerNo": "0009-2233",
+        "OID": "DIO0001AD77B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c4bb34a5.jpg",
+    "source_folder": "photos3"
   }
 }
