@@ -5902,5 +5902,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_26cc6868.jpg",
     "source_folder": "photos"
+  },
+  "6b37ee71d0124f534e32faec5f76101cdd13f79f9e30ccf2bb157fe5d53e132d": {
+    "first_seen": "2026-05-22T21:31:45.404962",
+    "objects": [
+      {
+        "Naimenovanie": "Биохимический анализатор",
+        "registerNo": "0015-4826",
+        "OID": "DIO0000ADBB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_287abc8d.png",
+    "source_folder": "photos2"
+  },
+  "32586ca52b2eed033b56aa3feb992f43c36cd2b22b5748d162515dc48873089a": {
+    "first_seen": "2026-05-22T21:31:45.405031",
+    "objects": [
+      {
+        "Naimenovanie": "Биохимический анализатор",
+        "registerNo": "0015-4826",
+        "OID": "DIO0000ADBB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9470b7a0.png",
+    "source_folder": "photos2"
+  },
+  "79f38fc83c490118e963129bf25c36c6e0559bf62417fa705f1f7df591e0e825": {
+    "first_seen": "2026-05-22T21:31:45.405072",
+    "objects": [
+      {
+        "Naimenovanie": "Биохимический анализатор",
+        "registerNo": "0015-4826",
+        "OID": "DIO0000ADBB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6aa60c3b.png",
+    "source_folder": "photos2"
   }
 }
