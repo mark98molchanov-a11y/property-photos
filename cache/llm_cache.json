@@ -13210,5 +13210,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0d270b16.jpg",
     "source_folder": "photos3"
+  },
+  "6a98883299a73eddb941474c93730b1100ee217ec89b48672f0260d1c980d792": {
+    "first_seen": "2026-05-22T23:16:16.654786",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат рентгеновский стоматологический \"IntraOs 70\"",
+        "registerNo": "0018-3044",
+        "OID": "DIO0000D97F0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1a9fbc5b.jpg",
+    "source_folder": "photos2"
   }
 }
