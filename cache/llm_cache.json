@@ -1702,5 +1702,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_41d1037b.jpg",
     "source_folder": "photos"
+  },
+  "867393adcacb5a73419761070d6224ff61cb338d80889e63179c24594cb09e33": {
+    "first_seen": "2026-05-22T20:41:19.997210",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать одинарная 04.113.01 04.113.01",
+        "registerNo": "0010-1608",
+        "OID": "DIO0000962DA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_af4a8a56.jpg",
+    "source_folder": "photos2"
+  },
+  "e73e9db7e50f24465962d6e7ec853fec64d2e6a0db988324134ba1cec47b8a33": {
+    "first_seen": "2026-05-22T20:41:19.997288",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать одинарная 04.113.01 04.113.01",
+        "registerNo": "0010-1608",
+        "OID": "DIO0000962DA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_31c74a26.jpg",
+    "source_folder": "photos2"
+  },
+  "71886d4204c19a459025e9cab2cc14f17db821efd56a1a2d2c491f3c4fb13008": {
+    "first_seen": "2026-05-22T20:41:19.997332",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать одинарная 04.113.01 04.113.01",
+        "registerNo": "0010-1608",
+        "OID": "DIO0000962DA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_28304c3b.jpg",
+    "source_folder": "photos2"
   }
 }
