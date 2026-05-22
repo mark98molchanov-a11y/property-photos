@@ -2182,5 +2182,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0d3bae37.jpg",
     "source_folder": "photos"
+  },
+  "41b37d6c8f61323681ee0097916a333f966302ee091dc7af017a627af7dd7af9": {
+    "first_seen": "2026-05-22T20:47:28.661103",
+    "objects": [
+      {
+        "Naimenovanie": "Система наблюдения",
+        "registerNo": "0005-5196",
+        "OID": "DIO00014487D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_37c63c1c.jpg",
+    "source_folder": "photos3"
+  },
+  "a2729f609aa0e99c04e8ec8185fa46b38337ea3ecfcdc299e8b190ab0503c569": {
+    "first_seen": "2026-05-22T20:47:28.661183",
+    "objects": [
+      {
+        "Naimenovanie": "Система наблюдения",
+        "registerNo": "0005-5196",
+        "OID": "DIO00014487D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_97a0bcef.jpg",
+    "source_folder": "photos3"
   }
 }
