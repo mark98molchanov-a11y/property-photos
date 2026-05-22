@@ -9130,5 +9130,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d1886b83.jpg",
     "source_folder": "photos"
+  },
+  "c168361bc2c377b8cfeec85e62b55fa3e3114869b2dd38532f5ef723b87cffab": {
+    "first_seen": "2026-05-22T22:21:46.184839",
+    "objects": [
+      {
+        "Naimenovanie": "Система компьютерной реставрации \"Cerec\"",
+        "registerNo": "0018-3192",
+        "OID": "DIO0000C568B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_356ac981.jpg",
+    "source_folder": "photos2"
+  },
+  "cc0277fbf0d9884fbbe582621d49f58c2e974b88879a59468dcd31a0e40e8948": {
+    "first_seen": "2026-05-22T22:21:46.184905",
+    "objects": [
+      {
+        "Naimenovanie": "Система компьютерной реставрации \"Cerec\"",
+        "registerNo": "0018-3192",
+        "OID": "DIO0000C568B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7b85b3b0.jpg",
+    "source_folder": "photos2"
   }
 }
