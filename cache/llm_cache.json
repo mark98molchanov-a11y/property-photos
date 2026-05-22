@@ -6346,5 +6346,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_dff89c4e.jpg",
     "source_folder": "photos3"
+  },
+  "2afc51ae1cc5acac5183c94161e73782b19d054018ee7978db811d240db07f7b": {
+    "first_seen": "2026-05-22T21:38:42.955555",
+    "objects": [
+      {
+        "Naimenovanie": "Комплекс для многосуточного мониторирования ЭКГ (по Холтеру) и АД \"Кардиотехника-07\"",
+        "registerNo": "0893-8849",
+        "OID": "0003003B1C4B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d6205d20.jpg",
+    "source_folder": "photos"
   }
 }
