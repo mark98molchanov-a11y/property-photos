@@ -22390,5 +22390,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7610a87e.jpg",
     "source_folder": "photos"
+  },
+  "95f1754525ff0c7efa5f34ba4c8720cd97ff5443da5d4dd9ebb7e12cca8511be": {
+    "first_seen": "2026-05-23T01:14:06.953906",
+    "objects": [
+      {
+        "Naimenovanie": "Стол палатный",
+        "registerNo": "0001-4422",
+        "OID": "DIO00011C43D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b62690d9.jpg",
+    "source_folder": "photos2"
+  },
+  "5a74f036cabf738cc4f3fd152b60a8d62435a6b707be138bddfcd35c62402e50": {
+    "first_seen": "2026-05-23T01:14:06.953977",
+    "objects": [
+      {
+        "Naimenovanie": "Стол палатный",
+        "registerNo": "0001-4422",
+        "OID": "DIO00011C43D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_85e9ee97.jpg",
+    "source_folder": "photos2"
   }
 }
