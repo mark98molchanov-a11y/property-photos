@@ -3982,5 +3982,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_552f5301.jpg",
     "source_folder": "photos3"
+  },
+  "1fb59f159e42000c860278806dff8caad55fa7a34902d4c2229a652766028003": {
+    "first_seen": "2026-05-22T21:10:02.098794",
+    "objects": [
+      {
+        "Naimenovanie": "Системный блок",
+        "registerNo": "0891-5932",
+        "OID": "0003001C24E9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_82b7380c.jpg",
+    "source_folder": "photos"
   }
 }
