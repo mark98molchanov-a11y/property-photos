@@ -2314,5 +2314,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c228f573.jpg",
     "source_folder": "photos"
+  },
+  "6d88757f2dd22f52117837d422a1757975d3be8d2b0c4816a82c53ff52243b57": {
+    "first_seen": "2026-05-22T20:48:12.916872",
+    "objects": [
+      {
+        "Naimenovanie": "Проектор",
+        "registerNo": "0015-0234",
+        "OID": "DIO000144DC6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_aca1b7d3.jpg",
+    "source_folder": "photos3"
   }
 }
