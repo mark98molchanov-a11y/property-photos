@@ -2722,5 +2722,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a9a6b1ad.jpg",
     "source_folder": "photos"
+  },
+  "d879e4915b9cb136a3117e91538a7f1d3387194e0e5cb5a90e9ab5ddccf90f2d": {
+    "first_seen": "2026-05-22T20:52:11.596062",
+    "objects": [
+      {
+        "Naimenovanie": "Трибуна",
+        "registerNo": "0006-7403",
+        "OID": "DIO00014B1FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8366d311.jpg",
+    "source_folder": "photos3"
   }
 }
