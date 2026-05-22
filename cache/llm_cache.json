@@ -14374,5 +14374,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_50f3de1c.jpg",
     "source_folder": "photos2"
+  },
+  "cdeb281bb6dd2a3d42de2091cd0397e165db565c1a31b90a9ad641f3e92a0c7b": {
+    "first_seen": "2026-05-22T23:30:14.154177",
+    "objects": [
+      {
+        "Naimenovanie": "Щипцы биопсийные для гибкой эндоскопии",
+        "registerNo": "1012-3121",
+        "OID": "000305B5300D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_381f162c.jpg",
+    "source_folder": "photos"
   }
 }
