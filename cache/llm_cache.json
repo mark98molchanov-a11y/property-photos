@@ -11062,5 +11062,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f0867490.jpg",
     "source_folder": "photos2"
+  },
+  "395525b1e353256e512e91a49a7455707c171076116f6da91d330c303a3270fe": {
+    "first_seen": "2026-05-22T22:44:40.235173",
+    "objects": [
+      {
+        "Naimenovanie": "Муляж головы СКАД-1",
+        "registerNo": "0956-6505",
+        "OID": "000301B1F457"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_db2f083a.jpg",
+    "source_folder": "photos"
   }
 }
