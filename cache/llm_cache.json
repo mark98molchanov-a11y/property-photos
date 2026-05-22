@@ -19342,5 +19342,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_65271bfc.jpg",
     "source_folder": "photos"
+  },
+  "fb4a8e26277505de4fed0cffb3716456fada26c1549ae315fa982f539e0a20fa": {
+    "first_seen": "2026-05-23T00:34:10.318798",
+    "objects": [
+      {
+        "Naimenovanie": "Столик инструментальный",
+        "registerNo": "0017-2130",
+        "OID": "DIO0001A6092"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_65aba40d.jpg",
+    "source_folder": "photos3"
   }
 }
