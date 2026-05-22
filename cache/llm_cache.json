@@ -8146,5 +8146,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_337ce0a9.jpg",
     "source_folder": "photos"
+  },
+  "64de2cb7a6ced45f038a10e3958ca038577a21b8f5a0b5103e53e364dc45ad7a": {
+    "first_seen": "2026-05-22T22:06:00.514980",
+    "objects": [
+      {
+        "Naimenovanie": "Лампа щелевая ЩЛ-2Б",
+        "registerNo": "0019-7582",
+        "OID": "DIO000171B85"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_78053bd8.jpg",
+    "source_folder": "photos3"
+  },
+  "9714dc5ae84b4284d0fe09513a5f8684c983d09827a09831f9a9b5615255e01f": {
+    "first_seen": "2026-05-22T22:06:00.515065",
+    "objects": [
+      {
+        "Naimenovanie": "Лампа щелевая ЩЛ-2Б",
+        "registerNo": "0019-7582",
+        "OID": "DIO000171B85"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_506aec00.jpg",
+    "source_folder": "photos3"
+  },
+  "ee32c39a6a83f59d788255dd9525439b051e5af2119ec3e562b44391717949cd": {
+    "first_seen": "2026-05-22T22:06:00.515106",
+    "objects": [
+      {
+        "Naimenovanie": "Лампа щелевая ЩЛ-2Б",
+        "registerNo": "0019-7582",
+        "OID": "DIO000171B85"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_06b7d6e0.jpg",
+    "source_folder": "photos3"
   }
 }
