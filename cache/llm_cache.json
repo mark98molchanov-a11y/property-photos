@@ -20890,5 +20890,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_71efbd90.jpg",
     "source_folder": "photos3"
+  },
+  "f218626a605f3f271b45d0f104668dd64d23fbe5eec819a96b830b88058d8052": {
+    "first_seen": "2026-05-23T00:54:22.719575",
+    "objects": [
+      {
+        "Naimenovanie": "Штандарт Министра обороны",
+        "registerNo": "0005-7195",
+        "OID": "DIO0000761EE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c0ebf828.jpg",
+    "source_folder": "photos"
   }
 }
