@@ -15610,5 +15610,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_65e19e61.png",
     "source_folder": "photos3"
+  },
+  "10534975f4dceda5dffa68e1be0e958ea4e1670c12e606f6566eb2bc66b051d2": {
+    "first_seen": "2026-05-22T23:47:34.742650",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для одежды, малый, с замком",
+        "registerNo": "0020-1612",
+        "OID": "DIO0000E2AB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9ebc092c.jpg",
+    "source_folder": "photos2"
+  },
+  "6765d89315a6caeafabc789d2f32e438fdb23e9605207fcb0b1df656a4889034": {
+    "first_seen": "2026-05-22T23:47:34.742726",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для одежды, малый, с замком",
+        "registerNo": "0020-1612",
+        "OID": "DIO0000E2AB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ac3df14d.jpg",
+    "source_folder": "photos2"
   }
 }
