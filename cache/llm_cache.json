@@ -15262,5 +15262,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fe1c96b1.jpg",
     "source_folder": "photos3"
+  },
+  "f39ab649cf21781e72ff8886df704802ffcfb35b961568c710a61403635794b1": {
+    "first_seen": "2026-05-22T23:43:21.327060",
+    "objects": [
+      {
+        "Naimenovanie": "Ультразвуковая ванна",
+        "registerNo": "0015-0451",
+        "OID": "DIO0000E112C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_579fc774.jpg",
+    "source_folder": "photos2"
+  },
+  "cb1bea068ba11bbfa7d0b604ba2603cc2131a5386b869753cec5f159c086a2a7": {
+    "first_seen": "2026-05-22T23:43:21.327141",
+    "objects": [
+      {
+        "Naimenovanie": "Ультразвуковая ванна",
+        "registerNo": "0015-0451",
+        "OID": "DIO0000E112C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_373869f1.jpg",
+    "source_folder": "photos2"
   }
 }
