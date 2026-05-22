@@ -12058,5 +12058,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1c83a08b.png",
     "source_folder": "photos"
+  },
+  "6fcbe0791046b8082be869577e603756ccf5c2976299d3db889597a32b8ebe2f": {
+    "first_seen": "2026-05-22T22:56:25.348844",
+    "objects": [
+      {
+        "Naimenovanie": "Ингалятор-небулайзер",
+        "registerNo": "0015-8918",
+        "OID": "DIO000181794"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_490304d5.jpg",
+    "source_folder": "photos3"
+  },
+  "90d50588c7ed1325f3b188846c16e9de35c12e38d1ecae8913f2bdbce71a5fc2": {
+    "first_seen": "2026-05-22T22:56:25.348943",
+    "objects": [
+      {
+        "Naimenovanie": "Ингалятор-небулайзер",
+        "registerNo": "0015-8918",
+        "OID": "DIO000181794"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c81247a4.jpg",
+    "source_folder": "photos3"
   }
 }
