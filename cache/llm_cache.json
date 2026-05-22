@@ -5002,5 +5002,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ded9abba.jpg",
     "source_folder": "photos"
+  },
+  "90abee466a26b147664bbfb894a7e82d76dc777aaa1a810fc00c7250d55506b5": {
+    "first_seen": "2026-05-22T21:22:36.105712",
+    "objects": [
+      {
+        "Naimenovanie": "Модуль биологической очистки \"FIL DEAU-3000\"",
+        "registerNo": "0019-4018",
+        "OID": "DIO0000AA56A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3f8f3842.jpg",
+    "source_folder": "photos2"
+  },
+  "4d26785d702bc07f437362fe027aacdda934f0673c8fbc4ef8be3864ae56bdbe": {
+    "first_seen": "2026-05-22T21:22:36.105802",
+    "objects": [
+      {
+        "Naimenovanie": "Модуль биологической очистки \"FIL DEAU-3000\"",
+        "registerNo": "0019-4018",
+        "OID": "DIO0000AA56A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c93ef15d.jpg",
+    "source_folder": "photos2"
+  },
+  "199ab90e460f2962d12cc35b92ca827cdb453bf49be8e6afb3a3e7e96daf282b": {
+    "first_seen": "2026-05-22T21:22:36.105846",
+    "objects": [
+      {
+        "Naimenovanie": "Модуль биологической очистки \"FIL DEAU-3000\"",
+        "registerNo": "0019-4018",
+        "OID": "DIO0000AA56A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_09c396be.jpg",
+    "source_folder": "photos2"
+  },
+  "e186abbc2ad171a221887794fb9e7fa0c6d297cb8390e8b8ddec8fe73132b2e6": {
+    "first_seen": "2026-05-22T21:22:36.105885",
+    "objects": [
+      {
+        "Naimenovanie": "Модуль биологической очистки \"FIL DEAU-3000\"",
+        "registerNo": "0019-4018",
+        "OID": "DIO0000AA56A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f16118af.jpg",
+    "source_folder": "photos2"
   }
 }
