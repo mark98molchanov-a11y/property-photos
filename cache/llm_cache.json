@@ -6718,5 +6718,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_088d5cb5.jpg",
     "source_folder": "photos3"
+  },
+  "e95e530a848e0d005780921c3ced6eb81a7d271ab4c147f7a274ae05697c374d": {
+    "first_seen": "2026-05-22T21:44:20.903913",
+    "objects": [
+      {
+        "Naimenovanie": "Емкость для вывоза жидких бытовых отходов",
+        "registerNo": "0014-1174",
+        "OID": "DIO0000B3B6B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cd627c6b.jpg",
+    "source_folder": "photos2"
+  },
+  "3e51b9d7ec1ea169dd05e78aa03488426aeb4cc352aa27d32d21b69a60bfbd0c": {
+    "first_seen": "2026-05-22T21:44:20.903995",
+    "objects": [
+      {
+        "Naimenovanie": "Емкость для вывоза жидких бытовых отходов",
+        "registerNo": "0014-1174",
+        "OID": "DIO0000B3B6B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2533c993.jpg",
+    "source_folder": "photos2"
   }
 }
