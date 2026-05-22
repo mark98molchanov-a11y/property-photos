@@ -9586,5 +9586,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dfda6456.jpg",
     "source_folder": "photos"
+  },
+  "4b5bf631e2da9fe198cdcd24c49dfddf0879466d79703e8847a162ccd0f61f21": {
+    "first_seen": "2026-05-22T22:26:42.032084",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба",
+        "registerNo": "0016-5194",
+        "OID": "DIO0000C6D43"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2fecf426.jpg",
+    "source_folder": "photos2"
+  },
+  "249fb013d5c6d1101262e6075d06f4db4c4f0173c31f8cd3df23d372388fd4e5": {
+    "first_seen": "2026-05-22T22:26:42.032172",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба",
+        "registerNo": "0016-5194",
+        "OID": "DIO0000C6D43"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_44e6e2e1.jpg",
+    "source_folder": "photos2"
   }
 }
