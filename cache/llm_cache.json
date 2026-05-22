@@ -9982,5 +9982,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2f7d3235.jpg",
     "source_folder": "photos2"
+  },
+  "fc228388536a775c784f8408c166a03b869a1cc4d98dff645205924efd11f0db": {
+    "first_seen": "2026-05-22T22:31:20.671942",
+    "objects": [
+      {
+        "Naimenovanie": "Плита электрическая",
+        "registerNo": "0953-0411",
+        "OID": "0003016A8FE5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5fe2c210.jpg",
+    "source_folder": "photos"
   }
 }
