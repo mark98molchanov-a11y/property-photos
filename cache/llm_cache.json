@@ -21658,5 +21658,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fa4275c1.jpg",
     "source_folder": "photos3"
+  },
+  "f65d08b9009b9864d260f4ccd85ad836347f92ddeff19a133a42073bd41aa2f0": {
+    "first_seen": "2026-05-23T01:03:18.821010",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник \"Индезит\"",
+        "registerNo": "0001-3928",
+        "OID": "DIO000111E06"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_65d71580.jpg",
+    "source_folder": "photos2"
+  },
+  "3939cb8dc61c018a9cd8cd6d8baa826ca411b8e142a3c04220253ab03de6e942": {
+    "first_seen": "2026-05-23T01:03:18.821096",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник \"Индезит\"",
+        "registerNo": "0001-3928",
+        "OID": "DIO000111E06"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4158ed6e.jpg",
+    "source_folder": "photos2"
+  },
+  "82c3baf4ee372b871fdfbffd373f9151c651e2df14a8880cfe9f8bde650b8a4e": {
+    "first_seen": "2026-05-23T01:03:18.821138",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник \"Индезит\"",
+        "registerNo": "0001-3928",
+        "OID": "DIO000111E06"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d1943a78.jpg",
+    "source_folder": "photos2"
   }
 }
