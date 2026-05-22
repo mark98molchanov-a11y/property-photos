@@ -20302,5 +20302,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ad0d3bac.jpg",
     "source_folder": "photos2"
+  },
+  "08afd1d990ab6f34c81fb24cf8edb57d572d605ff2c826d000e1d688e36282f2": {
+    "first_seen": "2026-05-23T00:47:17.654676",
+    "objects": [
+      {
+        "Naimenovanie": "Весы медицинские ВЭМ-150",
+        "registerNo": "0017-9197",
+        "OID": "DIO0001AC202"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3aba49c7.jpg",
+    "source_folder": "photos3"
   }
 }
