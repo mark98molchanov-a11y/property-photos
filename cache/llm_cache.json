@@ -19030,5 +19030,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0c8f5916.jpg",
     "source_folder": "photos"
+  },
+  "2e05350c02f47a167d9e7135c16ca8c3fb6e1aee7e2f32543f53a2322728f5fe": {
+    "first_seen": "2026-05-23T00:31:25.457023",
+    "objects": [
+      {
+        "Naimenovanie": "Овощерезка МПР-350М-02",
+        "registerNo": "0005-1543",
+        "OID": "DIO0000FB5CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7be4bea6.jpg",
+    "source_folder": "photos2"
+  },
+  "bcefd9abb8e53910919d8a239da3223b6ddb3c70b2fa676477a5a31da7752c95": {
+    "first_seen": "2026-05-23T00:31:25.457170",
+    "objects": [
+      {
+        "Naimenovanie": "Овощерезка МПР-350М-02",
+        "registerNo": "0005-1543",
+        "OID": "DIO0000FB5CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_fe278dcb.jpg",
+    "source_folder": "photos2"
+  },
+  "5193b00fd4b12ebd8338bab137fe80dff2650fa12ac7db4f42f5ded49d8e5e3b": {
+    "first_seen": "2026-05-23T00:31:25.457223",
+    "objects": [
+      {
+        "Naimenovanie": "Овощерезка МПР-350М-02",
+        "registerNo": "0005-1543",
+        "OID": "DIO0000FB5CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4042ac38.jpg",
+    "source_folder": "photos2"
+  },
+  "7ca73dfaf531504efe96dbd3f6a571369f3b227bbc189074fa6adea0c3af8315": {
+    "first_seen": "2026-05-23T00:31:25.457268",
+    "objects": [
+      {
+        "Naimenovanie": "Овощерезка МПР-350М-02",
+        "registerNo": "0005-1543",
+        "OID": "DIO0000FB5CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_16b9cb35.jpg",
+    "source_folder": "photos2"
   }
 }
