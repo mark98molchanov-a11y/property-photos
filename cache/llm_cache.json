@@ -3694,5 +3694,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1cee7709.jpg",
     "source_folder": "photos2"
+  },
+  "ace95d9b27fe4a2bd463e2a2a91e7db18c372480018eb8aaf2b38c20abf52ff8": {
+    "first_seen": "2026-05-22T21:06:27.775189",
+    "objects": [
+      {
+        "Naimenovanie": "Сигнально-громкоговорящая установка сгу-120 мп",
+        "registerNo": "0009-2036",
+        "OID": "DIO000157E19"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2d7ef694.jpg",
+    "source_folder": "photos3"
+  },
+  "cb517371c5e345c34495d3df8a04e4cd7bee580ed1322b56bdcbc24c404744a0": {
+    "first_seen": "2026-05-22T21:06:27.775268",
+    "objects": [
+      {
+        "Naimenovanie": "Сигнально-громкоговорящая установка сгу-120 мп",
+        "registerNo": "0009-2036",
+        "OID": "DIO000157E19"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5e89f08d.jpg",
+    "source_folder": "photos3"
   }
 }
