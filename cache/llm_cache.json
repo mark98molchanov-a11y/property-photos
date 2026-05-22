@@ -5602,5 +5602,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a38d7e27.jpg",
     "source_folder": "photos"
+  },
+  "e3addd523dcd09b1abcc27ab471b6b4d6738ca5965c23af28c4a3a5318acea1d": {
+    "first_seen": "2026-05-22T21:28:16.081149",
+    "objects": [
+      {
+        "Naimenovanie": "Геральдическая композиция \"Орел в венке\"",
+        "registerNo": "0005-7098",
+        "OID": "DIO0000AC753"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_63a6e2cc.jpg",
+    "source_folder": "photos2"
   }
 }
