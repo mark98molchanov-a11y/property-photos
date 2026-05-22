@@ -18946,5 +18946,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_76a02d5f.jpg",
     "source_folder": "photos2"
+  },
+  "41c9a3f6b9a42b63064d2c9580a9349b914515f4649fa966f391af5aab599292": {
+    "first_seen": "2026-05-23T00:30:01.276292",
+    "objects": [
+      {
+        "Naimenovanie": "Профессиональная сумка",
+        "registerNo": "0017-4472",
+        "OID": "DIO0001A490E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d29e921b.jpg",
+    "source_folder": "photos3"
+  },
+  "794e24aad298fe605ab2066c56623c5e61adba61109d7dc33d88e35d405035db": {
+    "first_seen": "2026-05-23T00:30:01.276376",
+    "objects": [
+      {
+        "Naimenovanie": "Профессиональная сумка",
+        "registerNo": "0017-4472",
+        "OID": "DIO0001A490E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a7edc08a.png",
+    "source_folder": "photos3"
   }
 }
