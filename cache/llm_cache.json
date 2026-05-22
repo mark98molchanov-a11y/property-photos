@@ -11482,5 +11482,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_397c005a.jpg",
     "source_folder": "photos"
+  },
+  "d1b31e0f01afbecebe899e41638542b706c05e2aa88f51097ba2f0bdbee38b08": {
+    "first_seen": "2026-05-22T22:49:12.531811",
+    "objects": [
+      {
+        "Naimenovanie": "Инфузионный насос",
+        "registerNo": "0015-5892",
+        "OID": "DIO00017F2B8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_950e4d2a.jpg",
+    "source_folder": "photos3"
+  },
+  "037771cf62bc4201d12308e3d2097e214b8694436055cd9c15993e4e7a5e5353": {
+    "first_seen": "2026-05-22T22:49:12.531890",
+    "objects": [
+      {
+        "Naimenovanie": "Инфузионный насос",
+        "registerNo": "0015-5892",
+        "OID": "DIO00017F2B8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0cc0d298.jpg",
+    "source_folder": "photos3"
+  },
+  "4a0b253607da0db2dd7b0ccb48e7e470274512c0bd0c581df28ae79dc294c3f6": {
+    "first_seen": "2026-05-22T22:49:12.531934",
+    "objects": [
+      {
+        "Naimenovanie": "Инфузионный насос",
+        "registerNo": "0015-5892",
+        "OID": "DIO00017F2B8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_dd26e921.jpg",
+    "source_folder": "photos3"
   }
 }
