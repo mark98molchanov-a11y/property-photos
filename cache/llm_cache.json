@@ -21178,5 +21178,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a1e64793.webp",
     "source_folder": "photos3"
+  },
+  "89f0dbe6c807ff90f216b13cf605cebbfcef229064847e4ef29f8778fe09ee14": {
+    "first_seen": "2026-05-23T00:58:07.464428",
+    "objects": [
+      {
+        "Naimenovanie": "Ковер",
+        "registerNo": "0017-4908",
+        "OID": "DIO00010D38E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4c75a28e.png",
+    "source_folder": "photos2"
   }
 }
