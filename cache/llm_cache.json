@@ -12670,5 +12670,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a44a5857.jpg",
     "source_folder": "photos3"
+  },
+  "46bf5c66427c9092233bdbf33db68ce12a0a7008dfeb45ad2766c4234a681df9": {
+    "first_seen": "2026-05-22T23:07:35.312974",
+    "objects": [
+      {
+        "Naimenovanie": "Стул врача RONDO Castellini",
+        "registerNo": "0020-2257",
+        "OID": "DIO0000D5303"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3d1ed800.jpg",
+    "source_folder": "photos2"
   }
 }
