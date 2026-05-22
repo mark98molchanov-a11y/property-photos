@@ -22270,5 +22270,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_20785a49.jpg",
     "source_folder": "photos2"
+  },
+  "e21e1a46c71cafad9b3b57c1e5047f719746cc4b1c8d918d18cc4e099699e362": {
+    "first_seen": "2026-05-23T01:12:24.354432",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для хирургии и имплантологии Surgic-X, физиодиспансер",
+        "registerNo": "0018-3037",
+        "OID": "DIO0001B1A1E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4704f4c7.jpg",
+    "source_folder": "photos3"
+  },
+  "6a36ba6173ec4fdc8a41dd3bd4c1662aad2faa01f94277d8bbb32b29bbbde625": {
+    "first_seen": "2026-05-23T01:12:24.354544",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для хирургии и имплантологии Surgic-X, физиодиспансер",
+        "registerNo": "0018-3037",
+        "OID": "DIO0001B1A1E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e695a7cc.jpg",
+    "source_folder": "photos3"
   }
 }
