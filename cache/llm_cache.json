@@ -1510,5 +1510,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c9f0098.jpg",
     "source_folder": "photos2"
+  },
+  "f301145385f95b0332d5dfe22ceb2eb27e89e8a71ac3281e5e40fc1ab2ce7f2d": {
+    "first_seen": "2026-05-22T20:39:37.623904",
+    "objects": [
+      {
+        "Naimenovanie": "Стационарный кондиционер FUJITSU ASY24R/AOY24R",
+        "registerNo": "0006-5670",
+        "OID": "DIO00013E7FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_90971866.jpg",
+    "source_folder": "photos3"
+  },
+  "c841fcd10a50a78d79dc379ee4f6203339f934b2f97bbe866c33c2676f4f4973": {
+    "first_seen": "2026-05-22T20:39:37.623986",
+    "objects": [
+      {
+        "Naimenovanie": "Стационарный кондиционер FUJITSU ASY24R/AOY24R",
+        "registerNo": "0006-5670",
+        "OID": "DIO00013E7FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_820f1423.jpg",
+    "source_folder": "photos3"
   }
 }
