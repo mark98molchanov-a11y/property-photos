@@ -21814,5 +21814,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_53c881b5.png",
     "source_folder": "photos3"
+  },
+  "10e0750464c420801387c6bb59bacf7aec2c9e61944cffd47ead73ab6bb3da08": {
+    "first_seen": "2026-05-23T01:05:09.733829",
+    "objects": [
+      {
+        "Naimenovanie": "Фиброоптическая система для фототерапии",
+        "registerNo": "0019-6180",
+        "OID": "DIO0001134C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8db64325.jpg",
+    "source_folder": "photos2"
+  },
+  "14ca44edc02b58d485ccbbd8513aeddae1b3f2040028090a496b23f320e4df90": {
+    "first_seen": "2026-05-23T01:05:09.733903",
+    "objects": [
+      {
+        "Naimenovanie": "Фиброоптическая система для фототерапии",
+        "registerNo": "0019-6180",
+        "OID": "DIO0001134C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_57a126fe.jpg",
+    "source_folder": "photos2"
+  },
+  "fdceba078e25bc0258a9348b4afa68a10756c8880daf9197d0a5588d2776bc5a": {
+    "first_seen": "2026-05-23T01:05:09.733946",
+    "objects": [
+      {
+        "Naimenovanie": "Фиброоптическая система для фототерапии",
+        "registerNo": "0019-6180",
+        "OID": "DIO0001134C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_21430bce.jpg",
+    "source_folder": "photos2"
   }
 }
