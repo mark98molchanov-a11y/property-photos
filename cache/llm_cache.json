@@ -20134,5 +20134,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3673a560.jpg",
     "source_folder": "photos2"
+  },
+  "8206f79804efbc1ec47de35c724e741dfa3b3b29be11f3deee4209b53d915054": {
+    "first_seen": "2026-05-23T00:44:25.046605",
+    "objects": [
+      {
+        "Naimenovanie": "Штандарт главнокомандующего",
+        "registerNo": "0005-7194",
+        "OID": "DIO000069935"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_99b9285d.jpg",
+    "source_folder": "photos"
   }
 }
