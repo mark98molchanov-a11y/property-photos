@@ -15070,5 +15070,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_db3bf4e6.jpg",
     "source_folder": "photos3"
+  },
+  "43c2ba74e14e99c48b69f6a70af1f1bbe322a35b51a48378863b6705adaa295c": {
+    "first_seen": "2026-05-22T23:39:43.175229",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь аккумуляторный АЗС",
+        "registerNo": "0009-4449",
+        "OID": "DIO0000E0027"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3c9c3fd7.jpg",
+    "source_folder": "photos2"
+  },
+  "3e74946593df38381a1ec21a98181e250736a41cc0e934e8749a15243c5e3ea2": {
+    "first_seen": "2026-05-22T23:39:43.175305",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь аккумуляторный АЗС",
+        "registerNo": "0009-4449",
+        "OID": "DIO0000E0027"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_01bf557d.jpg",
+    "source_folder": "photos2"
   }
 }
