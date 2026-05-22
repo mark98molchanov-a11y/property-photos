@@ -21286,5 +21286,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4adeae25.jpg",
     "source_folder": "photos3"
+  },
+  "a6df100f42dfa69556ac947e71171d692aad359326c5fd7a5165cc7e0be640e6": {
+    "first_seen": "2026-05-23T00:58:59.083571",
+    "objects": [
+      {
+        "Naimenovanie": "Ротамикс",
+        "registerNo": "0015-5960",
+        "OID": "DIO00010D5BB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_46f4547d.png",
+    "source_folder": "photos2"
+  },
+  "380b82fde8e5e7923aa56542890ee2ad33af011aae75a29117935fb5c92a9e5e": {
+    "first_seen": "2026-05-23T00:58:59.083654",
+    "objects": [
+      {
+        "Naimenovanie": "Ротамикс",
+        "registerNo": "0015-5960",
+        "OID": "DIO00010D5BB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_fdd6edaf.png",
+    "source_folder": "photos2"
   }
 }
