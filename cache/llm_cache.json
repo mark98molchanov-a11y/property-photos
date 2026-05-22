@@ -20038,5 +20038,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c0536074.jpg",
     "source_folder": "photos"
+  },
+  "54a86e8f1dbcf07cafc8dbaa5de064c917f04ebe3c9a4f79e80800adcdd261b3": {
+    "first_seen": "2026-05-23T00:43:40.347773",
+    "objects": [
+      {
+        "Naimenovanie": "Устройство для прошивки документов Yunger M168",
+        "registerNo": "0012-3179",
+        "OID": "DIO0001AB0D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5f092f49.jpg",
+    "source_folder": "photos3"
+  },
+  "8d64658872e9a4da0c4bcf284c16da40baeab77dc341213e61cb398bce1d575a": {
+    "first_seen": "2026-05-23T00:43:40.347855",
+    "objects": [
+      {
+        "Naimenovanie": "Устройство для прошивки документов Yunger M168",
+        "registerNo": "0012-3179",
+        "OID": "DIO0001AB0D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ef700385.jpg",
+    "source_folder": "photos3"
+  },
+  "6b227e505d35fc4a8c6ff358d3cd433299f9a877e016acb6aa09b60a1b9d9fbc": {
+    "first_seen": "2026-05-23T00:43:40.347898",
+    "objects": [
+      {
+        "Naimenovanie": "Устройство для прошивки документов Yunger M168",
+        "registerNo": "0012-3179",
+        "OID": "DIO0001AB0D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f37600f3.jpg",
+    "source_folder": "photos3"
   }
 }
