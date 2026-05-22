@@ -6058,5 +6058,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e76d70e3.jpg",
     "source_folder": "photos2"
+  },
+  "9ba9c234b9df0299306837036176be5283f4dde37a7eac92f8cfdf26c7c98342": {
+    "first_seen": "2026-05-22T21:35:13.404848",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат искусственной вентиляции легких",
+        "registerNo": "0020-2855",
+        "OID": "DIO0001698F2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b4e65473.jpg",
+    "source_folder": "photos3"
+  },
+  "e2cb78949afa7345d3b7e27cef1c10c536feb413b654d1296018f6ca00654836": {
+    "first_seen": "2026-05-22T21:35:13.404924",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат искусственной вентиляции легких",
+        "registerNo": "0020-2855",
+        "OID": "DIO0001698F2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7d856a83.jpg",
+    "source_folder": "photos3"
   }
 }
