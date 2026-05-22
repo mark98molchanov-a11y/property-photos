@@ -19162,5 +19162,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_20f68d12.jpg",
     "source_folder": "photos3"
+  },
+  "ba25b39a9175c8ae7cd61b183c964fd1fb0d2f1682c37742ab78cce97ff41c1e": {
+    "first_seen": "2026-05-23T00:32:57.066199",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф высокий со стеклом  (СВК)",
+        "registerNo": "0004-0116",
+        "OID": "DIO000052727"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_81508815.jpg",
+    "source_folder": "photos"
+  },
+  "2890db33a043a0992eee33d17892ec31f2730465bf378d459d8c9ccdf20f3af0": {
+    "first_seen": "2026-05-23T00:32:57.066275",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф высокий со стеклом  (СВК)",
+        "registerNo": "0004-0116",
+        "OID": "DIO000052727"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8323d225.jpg",
+    "source_folder": "photos"
+  },
+  "a9950cf57519fcdcd88bfbb4d79d538fb970f5fbc1cfac51c01121008b1ffb0d": {
+    "first_seen": "2026-05-23T00:32:57.066317",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф высокий со стеклом  (СВК)",
+        "registerNo": "0004-0116",
+        "OID": "DIO000052727"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_eff2ad5b.jpg",
+    "source_folder": "photos"
+  },
+  "3ed8693691cb281e9ec812eb953ddb9e75bf75b49a1ce49748c75db244ce852c": {
+    "first_seen": "2026-05-23T00:32:57.066356",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф высокий со стеклом  (СВК)",
+        "registerNo": "0004-0116",
+        "OID": "DIO000052727"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2d24e096.jpg",
+    "source_folder": "photos"
   }
 }
