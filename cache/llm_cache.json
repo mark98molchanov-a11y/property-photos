@@ -3334,5 +3334,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3f0425f3.jpg",
     "source_folder": "photos3"
+  },
+  "966e1e3de30859a0d6df543fba6912538a4f5afb78dbc53d82018c15302a19f2": {
+    "first_seen": "2026-05-22T21:01:32.990814",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка напольная",
+        "registerNo": "0891-0248",
+        "OID": "000300191645"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c0941822.jpg",
+    "source_folder": "photos"
+  },
+  "18b39cb1c5dbf43d710746c7a72aea2d91d09159bf736585d4fa328cc7c39db5": {
+    "first_seen": "2026-05-22T21:01:32.990898",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка напольная",
+        "registerNo": "0891-0248",
+        "OID": "000300191645"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e221a819.jpg",
+    "source_folder": "photos"
   }
 }
