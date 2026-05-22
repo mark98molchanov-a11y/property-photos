@@ -5326,5 +5326,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5b21c3e0.jpg",
     "source_folder": "photos3"
+  },
+  "908950c7902691ca34f79e469df38aa94cd0408b25406cccb16d98f2296957e2": {
+    "first_seen": "2026-05-22T21:25:43.373565",
+    "objects": [
+      {
+        "Naimenovanie": "Гидрокинетический лазер Millennium",
+        "registerNo": "0018-3061",
+        "OID": "DIO0000AC081"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e8fe801b.jpg",
+    "source_folder": "photos2"
   }
 }
