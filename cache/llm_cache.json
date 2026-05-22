@@ -22006,5 +22006,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ae386e19.jpg",
     "source_folder": "photos"
+  },
+  "4b8b7acd2b980cefe5d0ab14f1265ed3d3f0a3b61d8e146dd5fd768bc1d10e8d": {
+    "first_seen": "2026-05-23T01:08:46.098907",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Impland Center 3-х функциональный хирургический с автоматической подачей раствора",
+        "registerNo": "0018-3034",
+        "OID": "DIO0001157E1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e02b2936.jpg",
+    "source_folder": "photos2"
+  },
+  "2dbb0cd528b4ca257d332d6736c456fba5ebdc81d5c84ab1dee465832714ee88": {
+    "first_seen": "2026-05-23T01:08:46.099034",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Impland Center 3-х функциональный хирургический с автоматической подачей раствора",
+        "registerNo": "0018-3034",
+        "OID": "DIO0001157E1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5f442529.jpg",
+    "source_folder": "photos2"
+  },
+  "41298f43284978fed790d08fabe784eb43fc1719d314e6af38470a2f308a4edd": {
+    "first_seen": "2026-05-23T01:08:46.099081",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Impland Center 3-х функциональный хирургический с автоматической подачей раствора",
+        "registerNo": "0018-3034",
+        "OID": "DIO0001157E1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_19d23ee9.jpg",
+    "source_folder": "photos2"
   }
 }
