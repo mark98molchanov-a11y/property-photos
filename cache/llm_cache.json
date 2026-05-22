@@ -526,5 +526,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7926c4ed.jpg",
     "source_folder": "photos"
+  },
+  "93bb0d465aaa3109a8d75c962c67e01df0f03c02d402b362430d9c0db3afadeb": {
+    "first_seen": "2026-05-22T20:28:52.184226",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф пожарный ШПК-315 НОК",
+        "registerNo": "0009-6640",
+        "OID": "DIO00013B615"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ff35f996.png",
+    "source_folder": "photos3"
   }
 }
