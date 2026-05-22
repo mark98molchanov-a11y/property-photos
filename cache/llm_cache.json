@@ -17650,5 +17650,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a7e38fff.jpg",
     "source_folder": "photos3"
+  },
+  "d8f52bc91d4aa0ab4ecc89eecd5dd8bcb046d5fdeaec0673a75a42bd26b697c0": {
+    "first_seen": "2026-05-23T00:15:26.291292",
+    "objects": [
+      {
+        "Naimenovanie": "Морозильная камера \"Ардо\"",
+        "registerNo": "0001-3926",
+        "OID": "DIO000037946"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0c3b5889.jpg",
+    "source_folder": "photos"
+  },
+  "0a2b09558be10c38b9cc844ab1eb7db4afe940ab4c655cae88e8f7f77fb38bad": {
+    "first_seen": "2026-05-23T00:15:26.291371",
+    "objects": [
+      {
+        "Naimenovanie": "Морозильная камера \"Ардо\"",
+        "registerNo": "0001-3926",
+        "OID": "DIO000037946"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f82013b1.jpg",
+    "source_folder": "photos"
+  },
+  "17f632ac4e107ba036c610500a1c558907e663934ed601609118037e3f6a42ea": {
+    "first_seen": "2026-05-23T00:15:26.291411",
+    "objects": [
+      {
+        "Naimenovanie": "Морозильная камера \"Ардо\"",
+        "registerNo": "0001-3926",
+        "OID": "DIO000037946"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4b9c9d6e.jpg",
+    "source_folder": "photos"
   }
 }
