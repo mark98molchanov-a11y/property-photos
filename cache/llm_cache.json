@@ -9778,5 +9778,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d659699a.jpg",
     "source_folder": "photos3"
+  },
+  "a7f0595825da04ed70c879bf6fdbff5950cb2acfa34796e08ac9dd048d4b48c3": {
+    "first_seen": "2026-05-22T22:29:05.140242",
+    "objects": [
+      {
+        "Naimenovanie": "Скамья тренировочная универсальная",
+        "registerNo": "0935-7858",
+        "OID": "0003012EFF1C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_844479cc.jpg",
+    "source_folder": "photos"
   }
 }
