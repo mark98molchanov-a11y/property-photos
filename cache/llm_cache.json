@@ -11950,5 +11950,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d136e34d.jpg",
     "source_folder": "photos3"
+  },
+  "69f48e501bd961294b83b0680a31ddc604d339635d2977b9d8bc67e8c5ae02fd": {
+    "first_seen": "2026-05-22T22:55:15.445819",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук",
+        "registerNo": "0989-7864",
+        "OID": "0003032429A1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e5b626b1.jpg",
+    "source_folder": "photos"
   }
 }
