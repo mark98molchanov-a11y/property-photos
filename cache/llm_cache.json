@@ -6202,5 +6202,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_78465ea3.jpg",
     "source_folder": "photos3"
+  },
+  "b8b417c1113c2abb243a3c1c344fda6c3be15c83a1bd578464404f8f17dcc7ce": {
+    "first_seen": "2026-05-22T21:37:11.563885",
+    "objects": [
+      {
+        "Naimenovanie": "Насос ЭЦВ",
+        "registerNo": "0893-7511",
+        "OID": "0003003A13CC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0c19dbe0.jpg",
+    "source_folder": "photos"
   }
 }
