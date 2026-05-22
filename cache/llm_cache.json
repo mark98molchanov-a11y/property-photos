@@ -13126,5 +13126,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7bbb4a4f.jpg",
     "source_folder": "photos3"
+  },
+  "33ec00a255c5d93f5adcbcee27fce80c73443242a3e3ca7f922b6035aff387ff": {
+    "first_seen": "2026-05-22T23:15:16.913889",
+    "objects": [
+      {
+        "Naimenovanie": "Шприцевой насос",
+        "registerNo": "0019-7463",
+        "OID": "DIO0000D94A6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8ace628a.jpg",
+    "source_folder": "photos2"
+  },
+  "4d730da0706f4e4edb2e6ba3448e1e11f8c48f4522015c6f083c55c984534528": {
+    "first_seen": "2026-05-22T23:15:16.913977",
+    "objects": [
+      {
+        "Naimenovanie": "Шприцевой насос",
+        "registerNo": "0019-7463",
+        "OID": "DIO0000D94A6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_75f9e610.jpg",
+    "source_folder": "photos2"
+  },
+  "9069307acd7c101ed120cc46e02eb647caa4789847b4938f4c4fd777f97f311d": {
+    "first_seen": "2026-05-22T23:15:16.914015",
+    "objects": [
+      {
+        "Naimenovanie": "Шприцевой насос",
+        "registerNo": "0019-7463",
+        "OID": "DIO0000D94A6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_97b1037c.jpg",
+    "source_folder": "photos2"
   }
 }
