@@ -13870,5 +13870,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e5242172.jpg",
     "source_folder": "photos3"
+  },
+  "8fde02511ac3140f87aae4afa14178842d3c38e2151703f4cea7cdad0136931f": {
+    "first_seen": "2026-05-22T23:24:27.628283",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор ГП-40",
+        "registerNo": "0019-4468",
+        "OID": "DIO0000DB085"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ee0998c9.jpg",
+    "source_folder": "photos2"
+  },
+  "5f623cd947884fd033d7b5f5a26e5eb88075fa3518c022348a79a63246c02333": {
+    "first_seen": "2026-05-22T23:24:27.628370",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор ГП-40",
+        "registerNo": "0019-4468",
+        "OID": "DIO0000DB085"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ed68d562.jpg",
+    "source_folder": "photos2"
+  },
+  "0055e80daaa1c56dfff9798b44e43b52fc61ecc2f57a4833d748ae53517d63d2": {
+    "first_seen": "2026-05-22T23:24:27.628414",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор ГП-40",
+        "registerNo": "0019-4468",
+        "OID": "DIO0000DB085"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_44e30b5e.jpg",
+    "source_folder": "photos2"
   }
 }
