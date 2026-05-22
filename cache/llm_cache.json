@@ -8914,5 +8914,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3c4a27ef.jpg",
     "source_folder": "photos2"
+  },
+  "14d1b58dad76c2043a0fe9bfd6a7f4c66af79b854d56794477d9ba85ce6906f3": {
+    "first_seen": "2026-05-22T22:18:03.061824",
+    "objects": [
+      {
+        "Naimenovanie": "Установка для электрохимического синтеза СТЭЛ-60-03-АНК",
+        "registerNo": "0019-6118",
+        "OID": "DIO000176BA6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cd087c03.jpg",
+    "source_folder": "photos3"
+  },
+  "6bf96dad88ed3e698ce85d524c7d2d5e70b5a56bb3c65fe6d147ce0e35a6e07e": {
+    "first_seen": "2026-05-22T22:18:03.061902",
+    "objects": [
+      {
+        "Naimenovanie": "Установка для электрохимического синтеза СТЭЛ-60-03-АНК",
+        "registerNo": "0019-6118",
+        "OID": "DIO000176BA6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3b7d8c43.jpg",
+    "source_folder": "photos3"
   }
 }
