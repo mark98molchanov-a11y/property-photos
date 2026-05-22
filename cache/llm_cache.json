@@ -3094,5 +3094,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_469cea9a.jpg",
     "source_folder": "photos2"
+  },
+  "7773d55d8ab05e30b9a0571458c6dedd260f8fbf53428579ac267039c5135283": {
+    "first_seen": "2026-05-22T20:57:40.154622",
+    "objects": [
+      {
+        "Naimenovanie": "Стиральная машина ",
+        "registerNo": "0890-8044",
+        "OID": "0003001685A3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ab5288e6.jpg",
+    "source_folder": "photos"
   }
 }
