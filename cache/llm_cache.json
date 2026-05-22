@@ -21934,5 +21934,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_37d3f5ce.jpg",
     "source_folder": "photos2"
+  },
+  "039a82cb61cff1d099bec3f83d2dbe1de80633e0b23facf9962ca92b6dcf35d8": {
+    "first_seen": "2026-05-23T01:06:55.881342",
+    "objects": [
+      {
+        "Naimenovanie": "Базовый блок KX-TDA30RU",
+        "registerNo": "0011-6896",
+        "OID": "DIO0001B090D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_34838ff3.jpg",
+    "source_folder": "photos3"
   }
 }
