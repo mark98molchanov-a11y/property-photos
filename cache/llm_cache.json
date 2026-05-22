@@ -1018,5 +1018,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_67929cc8.jpg",
     "source_folder": "photos"
+  },
+  "d69d4c43a8dd50e890ede3a3fa051ffb064aadaabd0c043b4a41d34281253913": {
+    "first_seen": "2026-05-22T20:35:25.539140",
+    "objects": [
+      {
+        "Naimenovanie": "Картина",
+        "registerNo": "0007-1015",
+        "OID": "DIO0000932F8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_03369db0.jpg",
+    "source_folder": "photos2"
+  },
+  "2b385e3590e5060f54e2c9c9f20ed9bd2e500a9e41aa3e697e821c5360c9340a": {
+    "first_seen": "2026-05-22T20:35:25.539240",
+    "objects": [
+      {
+        "Naimenovanie": "Картина",
+        "registerNo": "0007-1015",
+        "OID": "DIO0000932F8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_73dda8c5.jpg",
+    "source_folder": "photos2"
+  },
+  "86296f500f392d0f36d581dc70d7c8fcd4e1db550e753ef296b77017b65ff3af": {
+    "first_seen": "2026-05-22T20:35:25.539287",
+    "objects": [
+      {
+        "Naimenovanie": "Картина",
+        "registerNo": "0007-1015",
+        "OID": "DIO0000932F8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9fda0873.jpg",
+    "source_folder": "photos2"
+  },
+  "f087b69b893d5fa6feff465f898febd863806dc21a1e8dc182053cc65ac20b80": {
+    "first_seen": "2026-05-22T20:35:25.539329",
+    "objects": [
+      {
+        "Naimenovanie": "Картина",
+        "registerNo": "0007-1015",
+        "OID": "DIO0000932F8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6a53e7be.jpg",
+    "source_folder": "photos2"
+  },
+  "83103f9173d138842f964dc36952b89b23885f0f42f796abd6663b1a443799a5": {
+    "first_seen": "2026-05-22T20:35:25.539375",
+    "objects": [
+      {
+        "Naimenovanie": "Картина",
+        "registerNo": "0007-1015",
+        "OID": "DIO0000932F8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_742fe51d.jpg",
+    "source_folder": "photos2"
   }
 }
