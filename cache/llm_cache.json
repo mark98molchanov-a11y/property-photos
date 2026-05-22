@@ -20902,5 +20902,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c0ebf828.jpg",
     "source_folder": "photos"
+  },
+  "eec7080ed9b1b2bc92bc7f1d889a1782bd6053ff0b1634d7ab309663f4395a4d": {
+    "first_seen": "2026-05-23T00:54:47.892516",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для гидроэлектрофореза HYDROFOR",
+        "registerNo": "0018-3038",
+        "OID": "DIO00010BA96"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_932c9b48.jpg",
+    "source_folder": "photos2"
+  },
+  "cf50e2192dfbd8ad4037e4b2a6aedbacd6882bb0899a6ffd6d54eadab49ba865": {
+    "first_seen": "2026-05-23T00:54:47.892600",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для гидроэлектрофореза HYDROFOR",
+        "registerNo": "0018-3038",
+        "OID": "DIO00010BA96"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_05e736af.jpg",
+    "source_folder": "photos2"
   }
 }
