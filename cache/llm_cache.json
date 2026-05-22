@@ -10462,5 +10462,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f518d750.jpg",
     "source_folder": "photos"
+  },
+  "9f3202873480bc4351a0981e7d9c46fadf5f1c6c63afa135361820b0c281e004": {
+    "first_seen": "2026-05-22T22:37:52.329100",
+    "objects": [
+      {
+        "Naimenovanie": "Установка стоматологическая PERFORMER 111",
+        "registerNo": "0019-5242",
+        "OID": "DIO0000CAD7C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2df22407.jpg",
+    "source_folder": "photos2"
+  },
+  "fb88f450d8dba3fc187ebf6496b5f5298fafb5214129c50cabeeaf70ef81663c": {
+    "first_seen": "2026-05-22T22:37:52.329183",
+    "objects": [
+      {
+        "Naimenovanie": "Установка стоматологическая PERFORMER 111",
+        "registerNo": "0019-5242",
+        "OID": "DIO0000CAD7C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_26e88278.jpg",
+    "source_folder": "photos2"
+  },
+  "9dec6a11c19b54d05f319bbb7c06dd3122783661fec3b21d842ebbf28881333e": {
+    "first_seen": "2026-05-22T22:37:52.329224",
+    "objects": [
+      {
+        "Naimenovanie": "Установка стоматологическая PERFORMER 111",
+        "registerNo": "0019-5242",
+        "OID": "DIO0000CAD7C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8e682354.jpg",
+    "source_folder": "photos2"
   }
 }
