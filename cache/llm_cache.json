@@ -9958,5 +9958,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_aa3963ae.png",
     "source_folder": "photos3"
+  },
+  "2a942f603457ca4737e000dcf3429b07b502325a61761e7219e66773fe230cfa": {
+    "first_seen": "2026-05-22T22:31:04.576597",
+    "objects": [
+      {
+        "Naimenovanie": "Мобильный АРМ (на основе планшетных компьютеров) \"Samsung\"",
+        "registerNo": "0020-1218",
+        "OID": "DIO0000C918B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_03cd8bf2.jpg",
+    "source_folder": "photos2"
+  },
+  "3bc935cb969153580412193b8963a3d77e24c01f1f769556c59a8406e4ddeffd": {
+    "first_seen": "2026-05-22T22:31:04.576668",
+    "objects": [
+      {
+        "Naimenovanie": "Мобильный АРМ (на основе планшетных компьютеров) \"Samsung\"",
+        "registerNo": "0020-1218",
+        "OID": "DIO0000C918B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2f7d3235.jpg",
+    "source_folder": "photos2"
   }
 }
