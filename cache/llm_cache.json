@@ -15658,5 +15658,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9d7438d6.jpg",
     "source_folder": "photos3"
+  },
+  "21fd7be7888b4c02d40f7fd87e091f4e8a0032f35809de81ea6b3134b3d907a1": {
+    "first_seen": "2026-05-22T23:49:30.864024",
+    "objects": [
+      {
+        "Naimenovanie": "Скамья",
+        "registerNo": "0004-1898",
+        "OID": "DIO00001C3A1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f533a096.jpg",
+    "source_folder": "photos"
   }
 }
