@@ -18910,5 +18910,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_bb364f81.png",
     "source_folder": "photos"
+  },
+  "41d5208d1248bd475d7d45ce54968f4147335fcf0b05d3752f14c48cfdd1fd82": {
+    "first_seen": "2026-05-23T00:29:33.449462",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для бумаг (СВК)",
+        "registerNo": "0004-0117",
+        "OID": "DIO0000F9726"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e8b01f9d.jpg",
+    "source_folder": "photos2"
+  },
+  "deedd8834320e6923fdab09367f1ce60b5c9a7fcfc2bb57170a0578b11a858a0": {
+    "first_seen": "2026-05-23T00:29:33.449593",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для бумаг (СВК)",
+        "registerNo": "0004-0117",
+        "OID": "DIO0000F9726"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e031756f.jpg",
+    "source_folder": "photos2"
+  },
+  "398d5df08b2997c532565c873d83989210930d9ea8b0b9c6875bfed2ea8e1973": {
+    "first_seen": "2026-05-23T00:29:33.449638",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для бумаг (СВК)",
+        "registerNo": "0004-0117",
+        "OID": "DIO0000F9726"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_76a02d5f.jpg",
+    "source_folder": "photos2"
   }
 }
