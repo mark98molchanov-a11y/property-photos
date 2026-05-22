@@ -8950,5 +8950,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_da39b4bd.jpg",
     "source_folder": "photos2"
+  },
+  "dcf3e6fbe6872be4a08dc813dd229392499a305380e537e212797704c2bf7720": {
+    "first_seen": "2026-05-22T22:18:36.424746",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло руководителя Бюрократ",
+        "registerNo": "0899-7615",
+        "OID": "0003011F026F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_53b7c4f3.png",
+    "source_folder": "photos"
   }
 }
