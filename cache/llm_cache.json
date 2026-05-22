@@ -16882,5 +16882,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_92f12de6.jpg",
     "source_folder": "photos"
+  },
+  "86bd820984696d5c508a3d5bf6960a6eeb97596589fc90c9a943f9df96a899fa": {
+    "first_seen": "2026-05-23T00:06:57.916378",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель рециркулятор Дезар-4",
+        "registerNo": "0019-0695",
+        "OID": "DIO00019C60A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f201024f.jpg",
+    "source_folder": "photos3"
+  },
+  "3161bfc2211eb389787026c8c7c809d4207dcfa912ee0fd21889c51807a8e2a2": {
+    "first_seen": "2026-05-23T00:06:57.916461",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель рециркулятор Дезар-4",
+        "registerNo": "0019-0695",
+        "OID": "DIO00019C60A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c6e33880.jpg",
+    "source_folder": "photos3"
+  },
+  "480885c1bc3a8d3d66cc3aa5c6136e38a7c187571cc26a0dd3b191360ecdc2cd": {
+    "first_seen": "2026-05-23T00:06:57.916522",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель рециркулятор Дезар-4",
+        "registerNo": "0019-0695",
+        "OID": "DIO00019C60A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cb4b294a.jpg",
+    "source_folder": "photos3"
   }
 }
