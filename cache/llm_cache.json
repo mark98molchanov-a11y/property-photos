@@ -14602,5 +14602,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cd546f4d.jpg",
     "source_folder": "photos2"
+  },
+  "a7216a80c826bfdf617830d6231dcd89e9f6ce477b900cf09e7a3315f7764d74": {
+    "first_seen": "2026-05-22T23:33:29.228416",
+    "objects": [
+      {
+        "Naimenovanie": "Стиральная машина LG",
+        "registerNo": "1012-3297",
+        "OID": "000305B75172"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7d1dfe43.png",
+    "source_folder": "photos"
   }
 }
