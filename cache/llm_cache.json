@@ -5530,5 +5530,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c551226.jpg",
     "source_folder": "photos2"
+  },
+  "9ba0b1c2a6c6685f11b140666b0b0f8e311fd91a7b5b670bc9574d5aed8f9b70": {
+    "first_seen": "2026-05-22T21:27:48.592578",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат",
+        "registerNo": "0015-6128",
+        "OID": "DIO0001654E7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_20612aba.jpg",
+    "source_folder": "photos3"
   }
 }
