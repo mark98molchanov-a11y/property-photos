@@ -3382,5 +3382,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f19dea22.png",
     "source_folder": "photos3"
+  },
+  "f7a3e45d6754e8add73e2fce32a831aacfce00f2eaf8eeca991c02ac5d7bef46": {
+    "first_seen": "2026-05-22T21:02:22.475461",
+    "objects": [
+      {
+        "Naimenovanie": "Автоматизированное рабочее место HP",
+        "registerNo": "0891-2313",
+        "OID": "00030019C6D5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b3e3bdb8.jpg",
+    "source_folder": "photos"
+  },
+  "b9372646c19167014c495b0f3f8eecb01214ff4bba1dc2c95f1b136a59d4fc1b": {
+    "first_seen": "2026-05-22T21:02:22.475561",
+    "objects": [
+      {
+        "Naimenovanie": "Автоматизированное рабочее место HP",
+        "registerNo": "0891-2313",
+        "OID": "00030019C6D5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2386ce94.jpg",
+    "source_folder": "photos"
   }
 }
