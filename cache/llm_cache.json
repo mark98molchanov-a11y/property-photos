@@ -1294,5 +1294,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_40c84e7c.jpg",
     "source_folder": "photos2"
+  },
+  "521bd604793d5d9315090a9c7ed95e9c3e009d4c2e82d94a3bd58518969c970b": {
+    "first_seen": "2026-05-22T20:37:43.067640",
+    "objects": [
+      {
+        "Naimenovanie": "Рециркулятор воздуха ультрафиолетовый бактерицидный «ИСТОК-БРИЗ 120»",
+        "registerNo": "0890-5370",
+        "OID": "00030015E4D8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a5104b23.jpg",
+    "source_folder": "photos"
+  },
+  "f767741fec639c52bde13686a80d531c3471769f416e0fb06e0094119f4f48b2": {
+    "first_seen": "2026-05-22T20:37:43.067728",
+    "objects": [
+      {
+        "Naimenovanie": "Рециркулятор воздуха ультрафиолетовый бактерицидный «ИСТОК-БРИЗ 120»",
+        "registerNo": "0890-5370",
+        "OID": "00030015E4D8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6e06aa5d.jpg",
+    "source_folder": "photos"
+  },
+  "ed9c3a753f2f1436300e9f90b03757ef5567d67bd4c88bba90ba0b38a50b625d": {
+    "first_seen": "2026-05-22T20:37:43.067769",
+    "objects": [
+      {
+        "Naimenovanie": "Рециркулятор воздуха ультрафиолетовый бактерицидный «ИСТОК-БРИЗ 120»",
+        "registerNo": "0890-5370",
+        "OID": "00030015E4D8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_501a4bea.jpg",
+    "source_folder": "photos"
   }
 }
