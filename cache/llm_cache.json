@@ -13174,5 +13174,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8603e47e.jpg",
     "source_folder": "photos"
+  },
+  "6104aa52840dbc43b632707ee3e1fd0c369cfdc000bb23c13eab4f10f032c7bf": {
+    "first_seen": "2026-05-22T23:16:13.307128",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив DELL/EMC AX4-5f 10х146Gb SAS 15K; Expansion Soft, допонительный комплект блоков питания (основной и резервный).",
+        "registerNo": "0009-9294",
+        "OID": "DIO00018535D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_da194480.jpg",
+    "source_folder": "photos3"
+  },
+  "75db87a40dab4c1a14c1880dd96b62422ac9a58326b0667dded4aa1e8104f96f": {
+    "first_seen": "2026-05-22T23:16:13.307208",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив DELL/EMC AX4-5f 10х146Gb SAS 15K; Expansion Soft, допонительный комплект блоков питания (основной и резервный).",
+        "registerNo": "0009-9294",
+        "OID": "DIO00018535D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_69bf4573.jpg",
+    "source_folder": "photos3"
+  },
+  "4dac8fe7adc33ba2cb7fe6b053c65005cab08ce956d2a3022fdc20cfa448d7e8": {
+    "first_seen": "2026-05-22T23:16:13.307251",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив DELL/EMC AX4-5f 10х146Gb SAS 15K; Expansion Soft, допонительный комплект блоков питания (основной и резервный).",
+        "registerNo": "0009-9294",
+        "OID": "DIO00018535D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0d270b16.jpg",
+    "source_folder": "photos3"
   }
 }
