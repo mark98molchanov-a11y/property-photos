@@ -2938,5 +2938,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b522298f.jpg",
     "source_folder": "photos3"
+  },
+  "6b2b283203f866d76fdd5af885a09af5924af2071bf383133718b2bbee76038d": {
+    "first_seen": "2026-05-22T20:54:42.898313",
+    "objects": [
+      {
+        "Naimenovanie": "Микроволновая печь",
+        "registerNo": "0890-8031",
+        "OID": "00030016852C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_328d299a.png",
+    "source_folder": "photos"
+  },
+  "d439dfdda7635580ce1c743d615510f309c5388f388c8823761e9010edb63212": {
+    "first_seen": "2026-05-22T20:54:42.898391",
+    "objects": [
+      {
+        "Naimenovanie": "Микроволновая печь",
+        "registerNo": "0890-8031",
+        "OID": "00030016852C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_00dc74bb.png",
+    "source_folder": "photos"
   }
 }
