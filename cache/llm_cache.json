@@ -20782,5 +20782,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5ba3b1c1.jpg",
     "source_folder": "photos3"
+  },
+  "dc90dbaeb634637d700d703585d448a1d5fff405e8c0a78006f4054df35fe60a": {
+    "first_seen": "2026-05-23T00:53:35.948787",
+    "objects": [
+      {
+        "Naimenovanie": "Отсос медицинский вакуумный ATMOS C 451",
+        "registerNo": "0019-1505",
+        "OID": "DIO00010B9A8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_342eae79.jpg",
+    "source_folder": "photos2"
+  },
+  "57535c9cedeb80c7e5f326aadc565bfd55481482320f4e86c738b149ae4dd5e0": {
+    "first_seen": "2026-05-23T00:53:35.948868",
+    "objects": [
+      {
+        "Naimenovanie": "Отсос медицинский вакуумный ATMOS C 451",
+        "registerNo": "0019-1505",
+        "OID": "DIO00010B9A8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_90f62941.jpg",
+    "source_folder": "photos2"
   }
 }
