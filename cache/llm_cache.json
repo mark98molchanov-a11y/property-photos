@@ -4150,5 +4150,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b5128c43.png",
     "source_folder": "photos2"
+  },
+  "e938ae15b514c88648e60549ee27ecd50c6391a6f4ca15be187f04e5b9d563c8": {
+    "first_seen": "2026-05-22T21:12:09.295967",
+    "objects": [
+      {
+        "Naimenovanie": "Многофункциональное устройство (МФУ) Epson L8180",
+        "registerNo": "0891-8088",
+        "OID": "0003001F6E25"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_bc6ebb78.jpg",
+    "source_folder": "photos"
+  },
+  "8b62024df6e164d9cfdf6bfb6333843da4d941726f134f2da7aa6a601a133310": {
+    "first_seen": "2026-05-22T21:12:09.296050",
+    "objects": [
+      {
+        "Naimenovanie": "Многофункциональное устройство (МФУ) Epson L8180",
+        "registerNo": "0891-8088",
+        "OID": "0003001F6E25"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_470632b0.jpg",
+    "source_folder": "photos"
   }
 }
