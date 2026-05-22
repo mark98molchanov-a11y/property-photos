@@ -6898,5 +6898,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3acf8070.jpg",
     "source_folder": "photos"
+  },
+  "9e5dfd6e9ddb6d6ef6106dd3b099dc4f5590eb2981ffaa5c1ae6dd7fe07ec3a5": {
+    "first_seen": "2026-05-22T21:47:12.433512",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка-стойка медицинская",
+        "registerNo": "0019-5461",
+        "OID": "DIO0000B5273"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ba1f08f9.jpg",
+    "source_folder": "photos2"
+  },
+  "1041021350c57b32e784031c25d983871ee52ccdfdfb26e5b24a60e313682613": {
+    "first_seen": "2026-05-22T21:47:12.433629",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка-стойка медицинская",
+        "registerNo": "0019-5461",
+        "OID": "DIO0000B5273"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4bc7b590.jpg",
+    "source_folder": "photos2"
+  },
+  "5fa5d59abe6c6630eb57d32b31efa0fb8cb65b18df75fcf6a8ed19e237a7efb4": {
+    "first_seen": "2026-05-22T21:47:12.433672",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка-стойка медицинская",
+        "registerNo": "0019-5461",
+        "OID": "DIO0000B5273"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_19aaa5ab.jpg",
+    "source_folder": "photos2"
   }
 }
