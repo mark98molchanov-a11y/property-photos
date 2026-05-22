@@ -22846,5 +22846,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d8058033.jpg",
     "source_folder": "photos3"
+  },
+  "f3caed5bce8039f44d8def4764a8800fbf50696ddbd7ea7ca84841ed6edb12c6": {
+    "first_seen": "2026-05-23T01:18:51.705617",
+    "objects": [
+      {
+        "Naimenovanie": "Стеллаж угловой",
+        "registerNo": "0020-1611",
+        "OID": "DIO00008770C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8548c58c.jpg",
+    "source_folder": "photos"
+  },
+  "71bd418f68e775e7934e22cf4ec4866cf2142904040f3153bdba10271e048ca3": {
+    "first_seen": "2026-05-23T01:18:51.705697",
+    "objects": [
+      {
+        "Naimenovanie": "Стеллаж угловой",
+        "registerNo": "0020-1611",
+        "OID": "DIO00008770C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_11024a4f.jpg",
+    "source_folder": "photos"
   }
 }
