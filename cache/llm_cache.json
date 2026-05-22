@@ -16738,5 +16738,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f290a5ee.jpg",
     "source_folder": "photos2"
+  },
+  "c49b072dccd02e131aa2bf9cb6598cab9e8e10fd5ee7814507dc75fce790f00e": {
+    "first_seen": "2026-05-23T00:05:25.283302",
+    "objects": [
+      {
+        "Naimenovanie": "Дым-машина Genius",
+        "registerNo": "0009-3697",
+        "OID": "DIO00019B5E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_00445b5f.jpg",
+    "source_folder": "photos3"
   }
 }
