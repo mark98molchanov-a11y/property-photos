@@ -10270,5 +10270,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7fb4f469.jpg",
     "source_folder": "photos2"
+  },
+  "73dbec44e7658ccd2dfbadf19462e9628e1c09ced1efedaa7812a3492c37d734": {
+    "first_seen": "2026-05-22T22:35:00.976871",
+    "objects": [
+      {
+        "Naimenovanie": "Набор ключей",
+        "registerNo": "0953-0422",
+        "OID": "0003016A90D4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_461acbfa.png",
+    "source_folder": "photos"
   }
 }
