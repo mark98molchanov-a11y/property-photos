@@ -22810,5 +22810,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9b25542f.jpg",
     "source_folder": "photos2"
+  },
+  "d11b682af4911aa06e1425274bba333a10eb4e2e1b8be4f3c09a1c7d9ad03544": {
+    "first_seen": "2026-05-23T01:18:29.704874",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер",
+        "registerNo": "0015-3336",
+        "OID": "DIO0001B312C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a5428050.jpg",
+    "source_folder": "photos3"
+  },
+  "131af23c7a43544a989b1ae342da8e1ce343ba4b847125b71a5321b962a1c651": {
+    "first_seen": "2026-05-23T01:18:29.704952",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер",
+        "registerNo": "0015-3336",
+        "OID": "DIO0001B312C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_127e5967.jpg",
+    "source_folder": "photos3"
+  },
+  "0f8c3f8b695ead27a8e02bd18fb0e6fc4315db3614d3ea4f30c70e26773f1db5": {
+    "first_seen": "2026-05-23T01:18:29.704996",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер",
+        "registerNo": "0015-3336",
+        "OID": "DIO0001B312C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d8058033.jpg",
+    "source_folder": "photos3"
   }
 }
