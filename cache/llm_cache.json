@@ -622,5 +622,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_75813516.jpg",
     "source_folder": "photos"
+  },
+  "11216742b2949d99d34b8798b8fa55896f4bccd3ccd4c973d734f520d4b48e45": {
+    "first_seen": "2026-05-22T20:29:59.436657",
+    "objects": [
+      {
+        "Naimenovanie": "Дезинфекционная камера",
+        "registerNo": "0007-7688",
+        "OID": "DIO00008F23D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b1c31e52.jpg",
+    "source_folder": "photos2"
   }
 }
