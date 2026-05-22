@@ -1570,5 +1570,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_349b99fa.jpg",
     "source_folder": "photos2"
+  },
+  "bfe0d663e0d29845fc7cba6cbe1d24d92582401f64cfe898de2b2d5a3aa56c4f": {
+    "first_seen": "2026-05-22T20:39:57.900573",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер Ricoh SP C261DNw",
+        "registerNo": "0890-6602",
+        "OID": "000300162489"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8ff863f7.jpg",
+    "source_folder": "photos"
+  },
+  "b4b6d2f0667b7e08f9f8037fb51e903fc9b0c52ba75487b3bcc31ad3557bca38": {
+    "first_seen": "2026-05-22T20:39:57.900652",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер Ricoh SP C261DNw",
+        "registerNo": "0890-6602",
+        "OID": "000300162489"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4e79808e.jpg",
+    "source_folder": "photos"
+  },
+  "2da5aad631441277622b4ee39d4cb9584548b7cea379f467ed7a5d2c0ef54993": {
+    "first_seen": "2026-05-22T20:39:57.900694",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер Ricoh SP C261DNw",
+        "registerNo": "0890-6602",
+        "OID": "000300162489"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1ab2065e.jpg",
+    "source_folder": "photos"
+  },
+  "db81eb882d5136550c9aa6a294a41fe564d40f9b60206f2f1d97d696c3925b93": {
+    "first_seen": "2026-05-22T20:39:57.900733",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер Ricoh SP C261DNw",
+        "registerNo": "0890-6602",
+        "OID": "000300162489"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ef6ea9b6.jpg",
+    "source_folder": "photos"
   }
 }
