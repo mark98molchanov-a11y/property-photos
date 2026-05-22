@@ -16582,5 +16582,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_56497149.jpg",
     "source_folder": "photos2"
+  },
+  "b01fdb3c6315d6fc7ed7b1684a8b75104e6c3f01c774aaa6af838fef0f833403": {
+    "first_seen": "2026-05-23T00:03:41.047483",
+    "objects": [
+      {
+        "Naimenovanie": "Насос перистальтический Инфозумат В-Враун",
+        "registerNo": "0015-4960",
+        "OID": "DIO00019B33F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_44eb3b56.png",
+    "source_folder": "photos3"
+  },
+  "ee57c594c4e1378a153073c9a59a11de34c8f536b3aba95b9fb479ce36036e4f": {
+    "first_seen": "2026-05-23T00:03:41.047563",
+    "objects": [
+      {
+        "Naimenovanie": "Насос перистальтический Инфозумат В-Враун",
+        "registerNo": "0015-4960",
+        "OID": "DIO00019B33F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_08f9aed2.png",
+    "source_folder": "photos3"
+  },
+  "d6c13afd5f179a0f368aad1d5e2db7f1112ef7ade58c4b0692beb2837da929e4": {
+    "first_seen": "2026-05-23T00:03:41.047603",
+    "objects": [
+      {
+        "Naimenovanie": "Насос перистальтический Инфозумат В-Враун",
+        "registerNo": "0015-4960",
+        "OID": "DIO00019B33F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d27b3ae3.png",
+    "source_folder": "photos3"
   }
 }
