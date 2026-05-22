@@ -21466,5 +21466,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e32b2e6c.png",
     "source_folder": "photos"
+  },
+  "47112df8cd3582365ed1a94da3266ad0bb6d743071fc9268eba908f1f8b74e92": {
+    "first_seen": "2026-05-23T01:01:31.613445",
+    "objects": [
+      {
+        "Naimenovanie": "Каландр гладильный",
+        "registerNo": "0000-2677",
+        "OID": "DIO00010FC1C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_412bf748.webp",
+    "source_folder": "photos2"
+  },
+  "6a5c78ffb42703b8aa9b62fa35ca2703b2db2b6ecd10378358e6c2de0ce6b8ac": {
+    "first_seen": "2026-05-23T01:01:31.613569",
+    "objects": [
+      {
+        "Naimenovanie": "Каландр гладильный",
+        "registerNo": "0000-2677",
+        "OID": "DIO00010FC1C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cd9ff4df.webp",
+    "source_folder": "photos2"
+  },
+  "133c66fef2835e6662c8f95e8b34db1f4df87913879671d6462c29b41d6119c6": {
+    "first_seen": "2026-05-23T01:01:31.613610",
+    "objects": [
+      {
+        "Naimenovanie": "Каландр гладильный",
+        "registerNo": "0000-2677",
+        "OID": "DIO00010FC1C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3b54a811.webp",
+    "source_folder": "photos2"
   }
 }
