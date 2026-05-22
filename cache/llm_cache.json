@@ -12298,5 +12298,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ebc80fd7.jpg",
     "source_folder": "photos3"
+  },
+  "3cea843542225724dcd571140e35c9da233ed49e3979f8f980a07c0bc74a6345": {
+    "first_seen": "2026-05-22T23:01:26.963865",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для сахарной ваты TWISTER",
+        "registerNo": "0011-1572",
+        "OID": "DIO0000D38BE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5e232662.jpg",
+    "source_folder": "photos2"
+  },
+  "36f3f763b72a231ffeda99ad2a6577fd055b16b415815a55f7dc89595c93023f": {
+    "first_seen": "2026-05-22T23:01:26.963983",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для сахарной ваты TWISTER",
+        "registerNo": "0011-1572",
+        "OID": "DIO0000D38BE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_db7461dc.jpg",
+    "source_folder": "photos2"
+  },
+  "99636dfd57dfe86ad7a74afba688235561aac3fbffeef3581d9baac114f6b2e7": {
+    "first_seen": "2026-05-22T23:01:26.964032",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для сахарной ваты TWISTER",
+        "registerNo": "0011-1572",
+        "OID": "DIO0000D38BE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e831adcd.jpg",
+    "source_folder": "photos2"
   }
 }
