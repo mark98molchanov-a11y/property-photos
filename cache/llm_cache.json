@@ -15526,5 +15526,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f9dbcb1e.jpg",
     "source_folder": "photos"
+  },
+  "fbb2f83209ced9cf1208f86086047e310a353d73392d7f3f1d41a45dd2bd5f55": {
+    "first_seen": "2026-05-22T23:46:26.111675",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ИВЛ \"Микровент\"",
+        "registerNo": "0020-2849",
+        "OID": "DIO0001959CE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_521a33bb.jpg",
+    "source_folder": "photos3"
+  },
+  "70277c6a87033f43ab21d65e3ab7118d9038e2c55598cffdf7f4e78041937dcb": {
+    "first_seen": "2026-05-22T23:46:26.111752",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ИВЛ \"Микровент\"",
+        "registerNo": "0020-2849",
+        "OID": "DIO0001959CE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_787a9d0e.jpg",
+    "source_folder": "photos3"
+  },
+  "ee0188f87c18cac7d50ab969e89f3dc74c287100aa090edcb02696ea9be018e2": {
+    "first_seen": "2026-05-22T23:46:26.111794",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ИВЛ \"Микровент\"",
+        "registerNo": "0020-2849",
+        "OID": "DIO0001959CE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9ae5b232.jpg",
+    "source_folder": "photos3"
+  },
+  "0a0bc1073d64fde2540ac62dcb66602772edb8a4db494e936fe87d4428fa7b56": {
+    "first_seen": "2026-05-22T23:46:26.111832",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ИВЛ \"Микровент\"",
+        "registerNo": "0020-2849",
+        "OID": "DIO0001959CE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_77c0b2e6.jpg",
+    "source_folder": "photos3"
   }
 }
