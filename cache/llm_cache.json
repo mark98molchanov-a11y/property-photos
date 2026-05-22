@@ -10498,5 +10498,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8e682354.jpg",
     "source_folder": "photos2"
+  },
+  "a787e7c2b6ae8188bc92e27cbbf3e6f61daef4f50b3c0f007881b68aef6b5f92": {
+    "first_seen": "2026-05-22T22:38:40.350885",
+    "objects": [
+      {
+        "Naimenovanie": "Верстак ШП 17-03-две тумбы с 6-ю ящиками",
+        "registerNo": "0956-6484",
+        "OID": "000301B1F3C4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f587305b.jpg",
+    "source_folder": "photos"
   }
 }
