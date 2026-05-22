@@ -16714,5 +16714,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6a00db77.png",
     "source_folder": "photos3"
+  },
+  "fb183e272fa29752b456fdbd9ccecfa89f466f1efefa54b9b297f7d24654521a": {
+    "first_seen": "2026-05-23T00:05:15.492036",
+    "objects": [
+      {
+        "Naimenovanie": "Гастроскоп гибкий",
+        "registerNo": "0012-7978",
+        "OID": "DIO0000EBEFA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_028f3cd3.jpg",
+    "source_folder": "photos2"
+  },
+  "4704ce2a795994183665347db95033a651e835e7b8c7b3c1e19cd00ee5a4ab77": {
+    "first_seen": "2026-05-23T00:05:15.492107",
+    "objects": [
+      {
+        "Naimenovanie": "Гастроскоп гибкий",
+        "registerNo": "0012-7978",
+        "OID": "DIO0000EBEFA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f290a5ee.jpg",
+    "source_folder": "photos2"
   }
 }
