@@ -13666,5 +13666,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_eb174ab7.jpg",
     "source_folder": "photos"
+  },
+  "2a643f4b4cbbaf0b31bfec6e66127eb90ee371bb94366c94b36b81966b0a9eac": {
+    "first_seen": "2026-05-22T23:22:26.800695",
+    "objects": [
+      {
+        "Naimenovanie": "Блин под два древка",
+        "registerNo": "0018-5042",
+        "OID": "DIO0000DA58E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f5d058ba.jpg",
+    "source_folder": "photos2"
+  },
+  "9e3cc23c554c3eacefcfe8e6ba89e89700067b460b17ddfbb6cb4ed101ea7660": {
+    "first_seen": "2026-05-22T23:22:26.800774",
+    "objects": [
+      {
+        "Naimenovanie": "Блин под два древка",
+        "registerNo": "0018-5042",
+        "OID": "DIO0000DA58E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1389b20e.jpg",
+    "source_folder": "photos2"
+  },
+  "192cdebc6b0c2a8bab2c40f0e5f0a3aadfbbfb74f2a686c74c9cf5006a0f1232": {
+    "first_seen": "2026-05-22T23:22:26.800813",
+    "objects": [
+      {
+        "Naimenovanie": "Блин под два древка",
+        "registerNo": "0018-5042",
+        "OID": "DIO0000DA58E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_220a573f.jpg",
+    "source_folder": "photos2"
   }
 }
