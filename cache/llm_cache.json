@@ -6550,5 +6550,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_377b6dff.png",
     "source_folder": "photos3"
+  },
+  "2cd1ad9ae66737720452b524ef98ddbb028c75556580c49846700ed7f01580e7": {
+    "first_seen": "2026-05-22T21:41:32.969430",
+    "objects": [
+      {
+        "Naimenovanie": "Делектор Допплер фетальный",
+        "registerNo": "0015-7837",
+        "OID": "DIO0000B2BEB"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_57acaa50.jpg",
+    "source_folder": "photos2"
   }
 }
