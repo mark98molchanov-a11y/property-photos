@@ -2062,5 +2062,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d95b11b5.jpg",
     "source_folder": "photos3"
+  },
+  "20aece6de8879014c121a0fe43992000aa36b806ecf1a79f18b1264e97736743": {
+    "first_seen": "2026-05-22T20:45:19.895444",
+    "objects": [
+      {
+        "Naimenovanie": "Электростанция KIPOR IG1000s",
+        "registerNo": "0019-8105",
+        "OID": "DIO000098DB0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a78d3c5e.jpg",
+    "source_folder": "photos2"
   }
 }
