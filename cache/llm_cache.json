@@ -2050,5 +2050,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e84d4049.jpg",
     "source_folder": "photos"
+  },
+  "09f3983c32a81ce2ce5e6af18042d236a02ed48683fb439b8c7bb3d641904178": {
+    "first_seen": "2026-05-22T20:45:09.254339",
+    "objects": [
+      {
+        "Naimenovanie": "Стенд \"Присяга\"",
+        "registerNo": "0005-7152",
+        "OID": "DIO0001423C2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d95b11b5.jpg",
+    "source_folder": "photos3"
   }
 }
