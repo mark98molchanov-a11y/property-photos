@@ -7366,5 +7366,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c51dc8af.jpg",
     "source_folder": "photos3"
+  },
+  "bb6a7da97b4f5c6dcb928faf9d492b1449038166b40fb40293f1ba5269c447d8": {
+    "first_seen": "2026-05-22T21:53:42.609108",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф универсальный",
+        "registerNo": "0016-3858",
+        "OID": "DIO00016D942"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_19398e1e.png",
+    "source_folder": "photos3"
+  },
+  "df8e6c259e606e209979084e8b3acdfedf531a316fccd40f46ae16083e1bf4b8": {
+    "first_seen": "2026-05-22T21:53:42.609175",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф универсальный",
+        "registerNo": "0016-3858",
+        "OID": "DIO00016D942"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d08c5e67.png",
+    "source_folder": "photos3"
   }
 }
