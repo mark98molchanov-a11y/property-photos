@@ -274,5 +274,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9c96d2f2.jpg",
     "source_folder": "photos3"
+  },
+  "43a5a463797d9b4e571a661751091cb0367d419e73ec62e00291cbf9e7afb585": {
+    "first_seen": "2026-05-22T20:26:26.527876",
+    "objects": [
+      {
+        "Naimenovanie": "Дрель-шуруповерт",
+        "registerNo": "0890-3757",
+        "OID": "00030014EF50"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_faab7f0b.jpg",
+    "source_folder": "photos"
   }
 }
