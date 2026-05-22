@@ -10978,5 +10978,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c40b955e.jpg",
     "source_folder": "photos"
+  },
+  "ef897ce7a46b39e35ed92c862c418c266cbaf4c309967ba924625b2fc28c55d8": {
+    "first_seen": "2026-05-22T22:43:42.583394",
+    "objects": [
+      {
+        "Naimenovanie": "Автоклав ",
+        "registerNo": "0015-0442",
+        "OID": "DIO0000CF875"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d6233ea6.jpg",
+    "source_folder": "photos2"
   }
 }
