@@ -15334,5 +15334,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a947357e.jpg",
     "source_folder": "photos3"
+  },
+  "d491eee87196089c17368f230a9de76cc295936808f0704484337238ef379435": {
+    "first_seen": "2026-05-22T23:44:12.969163",
+    "objects": [
+      {
+        "Naimenovanie": "Волюметрический инфузионный насос",
+        "registerNo": "0015-5920",
+        "OID": "DIO0000E1A04"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_aa2e87eb.png",
+    "source_folder": "photos2"
+  },
+  "10baf789f97aff1ba2c4490991b1f16eb89dc009beb9452f9ba8dfe7fb17dff1": {
+    "first_seen": "2026-05-22T23:44:12.969242",
+    "objects": [
+      {
+        "Naimenovanie": "Волюметрический инфузионный насос",
+        "registerNo": "0015-5920",
+        "OID": "DIO0000E1A04"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_39a471a1.png",
+    "source_folder": "photos2"
+  },
+  "a755dfae24da6f3e5e2f790174247e0b57a987a6ec23e25b5a796b9a8eeeed91": {
+    "first_seen": "2026-05-22T23:44:12.969286",
+    "objects": [
+      {
+        "Naimenovanie": "Волюметрический инфузионный насос",
+        "registerNo": "0015-5920",
+        "OID": "DIO0000E1A04"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c4140b7f.png",
+    "source_folder": "photos2"
   }
 }
