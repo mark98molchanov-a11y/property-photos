@@ -20698,5 +20698,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c4bb34a5.jpg",
     "source_folder": "photos3"
+  },
+  "28c2323281f0a8a4bf3b03d498f64c848531dc9a93fb107ddcb04241cc4cf818": {
+    "first_seen": "2026-05-23T00:51:59.874676",
+    "objects": [
+      {
+        "Naimenovanie": "Насос пожарный ПН-40УВ",
+        "registerNo": "0009-4444",
+        "OID": "DIO0000715A3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7d844b52.png",
+    "source_folder": "photos"
   }
 }
