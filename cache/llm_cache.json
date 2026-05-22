@@ -1822,5 +1822,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5b58b899.jpg",
     "source_folder": "photos"
+  },
+  "84a4e93fc0371e4c5989a6f6881f5b9e3d61a0c7f90849f701c4aa1c24feb0ff": {
+    "first_seen": "2026-05-22T20:42:48.750027",
+    "objects": [
+      {
+        "Naimenovanie": "Сценический костюм женский \"Селькупский\"",
+        "registerNo": "0007-4033",
+        "OID": "DIO000141F58"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7c2e27f8.jpg",
+    "source_folder": "photos3"
   }
 }
