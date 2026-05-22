@@ -21526,5 +21526,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_800e381e.jpg",
     "source_folder": "photos"
+  },
+  "43aef1ba639df8f1be9f83dce6690fe81416e601ec3efad56b82e59b1403c5ca": {
+    "first_seen": "2026-05-23T01:02:19.066575",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор пациента мульти-параметровый вариант исполнения",
+        "registerNo": "0015-8765",
+        "OID": "DIO00011036D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_baef81c1.png",
+    "source_folder": "photos2"
+  },
+  "c80ef9dd128f4d03f79dc1b569c71c167e1aedff40a751e86a8742c1067a6547": {
+    "first_seen": "2026-05-23T01:02:19.066693",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор пациента мульти-параметровый вариант исполнения",
+        "registerNo": "0015-8765",
+        "OID": "DIO00011036D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d5f3ba61.png",
+    "source_folder": "photos2"
+  },
+  "b429c8619dd5d7a820afdf1037205ac1cf19e557a9367b07274dbd4fab0f7b54": {
+    "first_seen": "2026-05-23T01:02:19.066754",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор пациента мульти-параметровый вариант исполнения",
+        "registerNo": "0015-8765",
+        "OID": "DIO00011036D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_65423794.png",
+    "source_folder": "photos2"
   }
 }
