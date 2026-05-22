@@ -21802,5 +21802,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ba53fcdd.jpg",
     "source_folder": "photos"
+  },
+  "38e769d9d371385a89cbe9f72d23516eb41048f30f62f26df42c1786ae29b76b": {
+    "first_seen": "2026-05-23T01:04:53.728022",
+    "objects": [
+      {
+        "Naimenovanie": "Пневмовибромассажер ректальный ",
+        "registerNo": "0019-1735",
+        "OID": "DIO0001B06E9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_53c881b5.png",
+    "source_folder": "photos3"
   }
 }
