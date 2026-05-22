@@ -13222,5 +13222,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1a9fbc5b.jpg",
     "source_folder": "photos2"
+  },
+  "a86777a88f3edcb5bd58686ccf2a8675545a596fcf5eff5256bc7b399b818cef": {
+    "first_seen": "2026-05-22T23:17:03.320865",
+    "objects": [
+      {
+        "Naimenovanie": "Утилизатор медицинских игл УМИ-01",
+        "registerNo": "0997-6556",
+        "OID": "000303D6793F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4a764716.png",
+    "source_folder": "photos"
+  },
+  "fb1750ab59113734a61ddca365f788f48da9c993cd9043300e15806acd1b3787": {
+    "first_seen": "2026-05-22T23:17:03.320943",
+    "objects": [
+      {
+        "Naimenovanie": "Утилизатор медицинских игл УМИ-01",
+        "registerNo": "0997-6556",
+        "OID": "000303D6793F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e497c289.png",
+    "source_folder": "photos"
+  },
+  "71bdef1b2ac55cacacbd02d38d61904cda122b4ea4ecdb24d61476ac6f288169": {
+    "first_seen": "2026-05-22T23:17:03.320988",
+    "objects": [
+      {
+        "Naimenovanie": "Утилизатор медицинских игл УМИ-01",
+        "registerNo": "0997-6556",
+        "OID": "000303D6793F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ed430027.png",
+    "source_folder": "photos"
   }
 }
