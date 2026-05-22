@@ -12406,5 +12406,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f0788635.jpg",
     "source_folder": "photos"
+  },
+  "d95b244639ef853e3ef4c9a8105fd234bb31ecb15e017038cbdca25483de1c8a": {
+    "first_seen": "2026-05-22T23:02:27.417493",
+    "objects": [
+      {
+        "Naimenovanie": "Кусачки Листон",
+        "registerNo": "0016-2426",
+        "OID": "DIO0001824B2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_989b5653.jpg",
+    "source_folder": "photos3"
   }
 }
