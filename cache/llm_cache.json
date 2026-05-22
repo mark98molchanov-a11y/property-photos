@@ -18622,5 +18622,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2bfb1a46.jpg",
     "source_folder": "photos"
+  },
+  "ac7e846a244e222d471f612df2780659d71dcd5440a20845dd38d6493aea6366": {
+    "first_seen": "2026-05-23T00:26:48.640166",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для документов",
+        "registerNo": "0001-4508",
+        "OID": "DIO0000F5C03"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a1fd0d19.jpg",
+    "source_folder": "photos2"
+  },
+  "3d6e15e6940fa6e9bf039ab2a43b1fe48081a4eaabd317755dd32b74cc0d8976": {
+    "first_seen": "2026-05-23T00:26:48.640240",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для документов",
+        "registerNo": "0001-4508",
+        "OID": "DIO0000F5C03"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b1aa110e.jpg",
+    "source_folder": "photos2"
   }
 }
