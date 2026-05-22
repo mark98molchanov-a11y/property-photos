@@ -19414,5 +19414,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c7567e45.jpg",
     "source_folder": "photos2"
+  },
+  "aca5ccbbeb4057f7d0853bba2e56f2cc1102b853418d20c429e6a7ec3a3a7837": {
+    "first_seen": "2026-05-23T00:35:56.600886",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать 2-ух спальная",
+        "registerNo": "0010-7135",
+        "OID": "DIO000055956"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_bc058867.jpg",
+    "source_folder": "photos"
+  },
+  "8b5462f658d8eda396ee781d46c794035817b0e91ccfc89273d9d1e3ce8be7d2": {
+    "first_seen": "2026-05-23T00:35:56.600964",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать 2-ух спальная",
+        "registerNo": "0010-7135",
+        "OID": "DIO000055956"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8367066c.jpg",
+    "source_folder": "photos"
   }
 }
