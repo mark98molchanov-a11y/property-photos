@@ -5302,5 +5302,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_634c3624.jpg",
     "source_folder": "photos2"
+  },
+  "6a1d521dfaafbf237221e66a95df27b1ba6259e25d833f097d6c3752cafb2443": {
+    "first_seen": "2026-05-22T21:25:17.038410",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор",
+        "registerNo": "0015-6095",
+        "OID": "DIO000163E18"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ef2ad00e.jpg",
+    "source_folder": "photos3"
+  },
+  "e48ace1e3c1ad6c424c24dc7b0629f97456f1ef65a14267b9aee27addf88ae48": {
+    "first_seen": "2026-05-22T21:25:17.038502",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор",
+        "registerNo": "0015-6095",
+        "OID": "DIO000163E18"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5b21c3e0.jpg",
+    "source_folder": "photos3"
   }
 }
