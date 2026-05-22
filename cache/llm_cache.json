@@ -1534,5 +1534,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_820f1423.jpg",
     "source_folder": "photos3"
+  },
+  "f305aecfd9cc9204aea6fa92145bb3b1bca76e3a4b308bd9d5106389cfb71711": {
+    "first_seen": "2026-05-22T20:39:51.261502",
+    "objects": [
+      {
+        "Naimenovanie": "Анализатор автоматический биохимический и иммуноферментный",
+        "registerNo": "0017-7535",
+        "OID": "DIO000094F86"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_840a0e5d.jpg",
+    "source_folder": "photos2"
+  },
+  "162f3348c6d3a244338bf9d92ec87d9d4dd5840ab51d7b621ff2d17222ca567e": {
+    "first_seen": "2026-05-22T20:39:51.261583",
+    "objects": [
+      {
+        "Naimenovanie": "Анализатор автоматический биохимический и иммуноферментный",
+        "registerNo": "0017-7535",
+        "OID": "DIO000094F86"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_518bdb4d.jpg",
+    "source_folder": "photos2"
+  },
+  "5a554c8f9014d09e50966abff6e7827707e385d13eb5b8dca4f9572032cb5a0d": {
+    "first_seen": "2026-05-22T20:39:51.261625",
+    "objects": [
+      {
+        "Naimenovanie": "Анализатор автоматический биохимический и иммуноферментный",
+        "registerNo": "0017-7535",
+        "OID": "DIO000094F86"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_349b99fa.jpg",
+    "source_folder": "photos2"
   }
 }
