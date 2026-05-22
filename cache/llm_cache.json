@@ -3994,5 +3994,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_82b7380c.jpg",
     "source_folder": "photos"
+  },
+  "74789e8ce3b6cdc59a0b545645223cb7a7511986477bfd43261fbfc6bf8b2c9c": {
+    "first_seen": "2026-05-22T21:10:13.131398",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор Dell 17\" E177FP",
+        "registerNo": "0009-2198",
+        "OID": "DIO0000A3755"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4d1c5009.jpg",
+    "source_folder": "photos2"
+  },
+  "d1e180b589b8c07a022fedbfff5b438901b2d84df5c33dce6a268b726c6068df": {
+    "first_seen": "2026-05-22T21:10:13.131550",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор Dell 17\" E177FP",
+        "registerNo": "0009-2198",
+        "OID": "DIO0000A3755"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a9b36cfc.jpg",
+    "source_folder": "photos2"
   }
 }
