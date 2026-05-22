@@ -13450,5 +13450,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8cf92caf.jpg",
     "source_folder": "photos"
+  },
+  "1c7900ef625e02fdb2599abc5982f1aba11fed7334d5a68812bad5afb27d2840": {
+    "first_seen": "2026-05-22T23:19:25.198436",
+    "objects": [
+      {
+        "Naimenovanie": "Весы электронные",
+        "registerNo": "0016-0311",
+        "OID": "DIO000186969"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_439d1010.jpg",
+    "source_folder": "photos3"
+  },
+  "d93ec4cd626025f91a5988cb4b9a99fe89f2d0522b509e1f24b4df933223975a": {
+    "first_seen": "2026-05-22T23:19:25.198533",
+    "objects": [
+      {
+        "Naimenovanie": "Весы электронные",
+        "registerNo": "0016-0311",
+        "OID": "DIO000186969"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_41ca64c5.jpg",
+    "source_folder": "photos3"
+  },
+  "1de8aa9b772aac2a49ccbbcac0491da25f8b10d7e4af2c757b59462ae2118d2e": {
+    "first_seen": "2026-05-22T23:19:25.198580",
+    "objects": [
+      {
+        "Naimenovanie": "Весы электронные",
+        "registerNo": "0016-0311",
+        "OID": "DIO000186969"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_23e76da5.jpg",
+    "source_folder": "photos3"
   }
 }
