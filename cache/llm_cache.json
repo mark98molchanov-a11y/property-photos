@@ -20614,5 +20614,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b2317905.jpg",
     "source_folder": "photos2"
+  },
+  "2ebea50c61d886cbceb9870c79d73deefb8ee43ff980889aacc460a94feb7d48": {
+    "first_seen": "2026-05-23T00:50:32.476730",
+    "objects": [
+      {
+        "Naimenovanie": "Рубанок электрический",
+        "registerNo": "0009-2098",
+        "OID": "DIO0001AD681"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_26bf3b78.jpg",
+    "source_folder": "photos3"
   }
 }
