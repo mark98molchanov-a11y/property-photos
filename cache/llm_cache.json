@@ -14362,5 +14362,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_619b89a6.jpg",
     "source_folder": "photos3"
+  },
+  "03b2f04f979a8152372b1ab6477cb0fceb1d6e7e43a25b123e8879e4d394335c": {
+    "first_seen": "2026-05-22T23:30:03.951787",
+    "objects": [
+      {
+        "Naimenovanie": "Зажим винтовой",
+        "registerNo": "0016-2339",
+        "OID": "DIO0000DD1EC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_50f3de1c.jpg",
+    "source_folder": "photos2"
   }
 }
