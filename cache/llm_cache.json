@@ -8542,5 +8542,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2376132b.jpg",
     "source_folder": "photos3"
+  },
+  "24a6f5871860e160343afd46819793a2d0a1b9a0b04c2e920e9481050b2db06f": {
+    "first_seen": "2026-05-22T22:10:57.835582",
+    "objects": [
+      {
+        "Naimenovanie": "Зажим хирургический с кремальерой",
+        "registerNo": "0016-1627",
+        "OID": "DIO0000C25CF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ce77855c.jpg",
+    "source_folder": "photos2"
   }
 }
