@@ -13582,5 +13582,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a2fcc0c1.jpg",
     "source_folder": "photos3"
+  },
+  "d27eaf24146c1bf9da58de200ec6bac5b9823ba169c96d0052301ea4af390cf0": {
+    "first_seen": "2026-05-22T23:21:05.242439",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор многофункциональный, 1-канальный, механический",
+        "registerNo": "1011-4241",
+        "OID": "00030575AA8C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ef5b2a1c.jpg",
+    "source_folder": "photos"
   }
 }
