@@ -22498,5 +22498,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8e45cf11.jpg",
     "source_folder": "photos"
+  },
+  "294dadb6ab06a50f865598ff5a40a37496f6da6087e2454b59e82ca2abb73207": {
+    "first_seen": "2026-05-23T01:15:07.927492",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф 6-ти канальный",
+        "registerNo": "0015-4570",
+        "OID": "DIO0001B20BD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_43b5136e.png",
+    "source_folder": "photos3"
+  },
+  "54528b1d6be9def63c1aa319f3fd59480e17825ccaf943cf75cd43eb0cdf5f70": {
+    "first_seen": "2026-05-23T01:15:07.927578",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф 6-ти канальный",
+        "registerNo": "0015-4570",
+        "OID": "DIO0001B20BD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_21ae7f4e.png",
+    "source_folder": "photos3"
+  },
+  "4b966feffaf99b13d56b205bc6199c61429bdecfec02b918ad8fc0f072b570e2": {
+    "first_seen": "2026-05-23T01:15:07.927624",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф 6-ти канальный",
+        "registerNo": "0015-4570",
+        "OID": "DIO0001B20BD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e45fdfab.png",
+    "source_folder": "photos3"
   }
 }
