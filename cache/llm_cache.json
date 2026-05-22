@@ -19630,5 +19630,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_06c5a301.jpg",
     "source_folder": "photos"
+  },
+  "fc354dd9cfa05498a243f124119815fcb512b09d26b04255c0af2456a5b685ed": {
+    "first_seen": "2026-05-23T00:38:33.291718",
+    "objects": [
+      {
+        "Naimenovanie": "Щелевая лампа со столом и тонометром SLP-01",
+        "registerNo": "0007-8063",
+        "OID": "DIO000101F3F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7d03136f.webp",
+    "source_folder": "photos2"
+  },
+  "77f6d76441df44a2844c5e15a2ba96cbe1bec69505dfc64bab6bb2fd7aca63d4": {
+    "first_seen": "2026-05-23T00:38:33.291780",
+    "objects": [
+      {
+        "Naimenovanie": "Щелевая лампа со столом и тонометром SLP-01",
+        "registerNo": "0007-8063",
+        "OID": "DIO000101F3F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d005ae67.webp",
+    "source_folder": "photos2"
+  },
+  "775103a4e912a0bd7c80ae794ba2fd34efc1b157e374e0e69c3e4140ab11add9": {
+    "first_seen": "2026-05-23T00:38:33.291818",
+    "objects": [
+      {
+        "Naimenovanie": "Щелевая лампа со столом и тонометром SLP-01",
+        "registerNo": "0007-8063",
+        "OID": "DIO000101F3F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9f4634ed.webp",
+    "source_folder": "photos2"
   }
 }
