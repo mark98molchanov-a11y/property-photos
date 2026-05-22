@@ -15142,5 +15142,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f965c3d2.png",
     "source_folder": "photos3"
+  },
+  "e8d0f8df68d8f869b27f29941a15c4c0c7128b1afc8fc67c4a45907597b4e16e": {
+    "first_seen": "2026-05-22T23:41:04.302695",
+    "objects": [
+      {
+        "Naimenovanie": "Полка для тарелок",
+        "registerNo": "0004-1896",
+        "OID": "DIO00001C27E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cbc5afe2.jpg",
+    "source_folder": "photos"
   }
 }
