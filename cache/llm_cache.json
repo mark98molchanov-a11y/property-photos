@@ -20494,5 +20494,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7cfb4878.jpg",
     "source_folder": "photos"
+  },
+  "b262ac6b334f85a485a2d63f86aee5a1893b3582a45e44b31e6231d5284635ba": {
+    "first_seen": "2026-05-23T00:49:35.580623",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор",
+        "registerNo": "0018-6190",
+        "OID": "DIO000109484"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d01196d0.jpg",
+    "source_folder": "photos2"
+  },
+  "582b8f403af6765ba80b42eb11828cb77690e73e498189008ae040b781e54587": {
+    "first_seen": "2026-05-23T00:49:35.580706",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор",
+        "registerNo": "0018-6190",
+        "OID": "DIO000109484"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_54910226.jpg",
+    "source_folder": "photos2"
+  },
+  "e55cef658472813f661ba9998aa49041f8109f5b2ef0307139191b99e256fce5": {
+    "first_seen": "2026-05-23T00:49:35.580748",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор",
+        "registerNo": "0018-6190",
+        "OID": "DIO000109484"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f7aa6d95.jpg",
+    "source_folder": "photos2"
+  },
+  "4abb93ddb5658adc0d5d97a62c8479937e5ab958e90a060f009196f3da247c22": {
+    "first_seen": "2026-05-23T00:49:35.580786",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор",
+        "registerNo": "0018-6190",
+        "OID": "DIO000109484"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8664b621.jpg",
+    "source_folder": "photos2"
   }
 }
