@@ -12778,5 +12778,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7f772a7d.png",
     "source_folder": "photos3"
+  },
+  "21a0e4503075c81a566a1934da07349fcd5ab678fd56d673d0a763b81c5dd034": {
+    "first_seen": "2026-05-22T23:10:32.185015",
+    "objects": [
+      {
+        "Naimenovanie": "Стул (OF-19 для конференц-зала)",
+        "registerNo": "0001-5689",
+        "OID": "DIO0000D61A4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_97051e56.jpg",
+    "source_folder": "photos2"
+  },
+  "d94c13c7696ce7aabbe2cde96124a8d0afb5c2c54286ec35965ee10f7e85b08d": {
+    "first_seen": "2026-05-22T23:10:32.185098",
+    "objects": [
+      {
+        "Naimenovanie": "Стул (OF-19 для конференц-зала)",
+        "registerNo": "0001-5689",
+        "OID": "DIO0000D61A4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0ff40444.jpg",
+    "source_folder": "photos2"
   }
 }
