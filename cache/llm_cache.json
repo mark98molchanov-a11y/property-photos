@@ -13330,5 +13330,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8111ebf0.jpg",
     "source_folder": "photos"
+  },
+  "2dac671e4ff53376701427ba02cc806d7304976c5b2b9ef40e010029ad200b87": {
+    "first_seen": "2026-05-22T23:18:27.735883",
+    "objects": [
+      {
+        "Naimenovanie": "Перфоратор \"Hitachi'' 800 ВТ3 режима",
+        "registerNo": "0009-6691",
+        "OID": "DIO000186105"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d72a2f22.jpg",
+    "source_folder": "photos3"
+  },
+  "655438cbd4d4e2081a00ef4073bba22e064071454b85bfa84780568b38853efc": {
+    "first_seen": "2026-05-22T23:18:27.735958",
+    "objects": [
+      {
+        "Naimenovanie": "Перфоратор \"Hitachi'' 800 ВТ3 режима",
+        "registerNo": "0009-6691",
+        "OID": "DIO000186105"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3a3dd5a7.jpg",
+    "source_folder": "photos3"
+  },
+  "14219affc6caed2e148c6f1e56a90fecf24a2da4e69dce88b4b48424d555f993": {
+    "first_seen": "2026-05-22T23:18:27.736006",
+    "objects": [
+      {
+        "Naimenovanie": "Перфоратор \"Hitachi'' 800 ВТ3 режима",
+        "registerNo": "0009-6691",
+        "OID": "DIO000186105"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9eb5f1a0.jpg",
+    "source_folder": "photos3"
   }
 }
