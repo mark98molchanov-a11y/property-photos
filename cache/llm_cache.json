@@ -20974,5 +20974,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_610f4001.jpg",
     "source_folder": "photos"
+  },
+  "f50028a5d8bc4c2bf4edc631c2fee523313fc5145447a2ca4638f26578830a11": {
+    "first_seen": "2026-05-23T00:55:36.981294",
+    "objects": [
+      {
+        "Naimenovanie": "Ленточная библиотека ETERNUS LT40, 1xLTO-4FH",
+        "registerNo": "0010-9117",
+        "OID": "DIO00010C9EC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_71e8e843.jpg",
+    "source_folder": "photos2"
+  },
+  "d81de4832772f6de0e24171f15eecb059cb278cdf530ec3a9e223194b8d587cf": {
+    "first_seen": "2026-05-23T00:55:36.981368",
+    "objects": [
+      {
+        "Naimenovanie": "Ленточная библиотека ETERNUS LT40, 1xLTO-4FH",
+        "registerNo": "0010-9117",
+        "OID": "DIO00010C9EC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_dcf66621.jpg",
+    "source_folder": "photos2"
   }
 }
