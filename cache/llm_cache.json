@@ -20182,5 +20182,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_62033a7c.jpg",
     "source_folder": "photos2"
+  },
+  "b8db340596e374a421cda03b71dc3cde8096e13dbd72261ab41f1daf5cf2e98a": {
+    "first_seen": "2026-05-23T00:45:47.216241",
+    "objects": [
+      {
+        "Naimenovanie": "Мойка",
+        "registerNo": "0014-7751",
+        "OID": "DIO0001ABC05"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d2e36eb6.jpg",
+    "source_folder": "photos3"
+  },
+  "fd8d7dde91dd2fb67f60f13e3e39e6d85cb8674d3395f0bf2dcad712e26e7589": {
+    "first_seen": "2026-05-23T00:45:47.216320",
+    "objects": [
+      {
+        "Naimenovanie": "Мойка",
+        "registerNo": "0014-7751",
+        "OID": "DIO0001ABC05"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9a62b0f2.jpg",
+    "source_folder": "photos3"
+  },
+  "c6161ec07038aed94f8dfe4d59b6b44ad76f1c8f74c08af1efdbb7db7576a048": {
+    "first_seen": "2026-05-23T00:45:47.216363",
+    "objects": [
+      {
+        "Naimenovanie": "Мойка",
+        "registerNo": "0014-7751",
+        "OID": "DIO0001ABC05"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7f51ba6d.jpg",
+    "source_folder": "photos3"
   }
 }
