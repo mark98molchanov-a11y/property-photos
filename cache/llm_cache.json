@@ -9298,5 +9298,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c921394.png",
     "source_folder": "photos2"
+  },
+  "457a62ff220aab922658c3f4ac720bf797f5198eedbcf679226788c40e94a165": {
+    "first_seen": "2026-05-22T22:22:53.867385",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для мангнитотерапии МАГ-30",
+        "registerNo": "0018-7569",
+        "OID": "DIO000177DB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_976b0af8.jpg",
+    "source_folder": "photos3"
+  },
+  "6d6e68df891317b8ee5c28036fe75d27a7aa0fb3e189c22af4584e31a8fba58e": {
+    "first_seen": "2026-05-22T22:22:53.867452",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для мангнитотерапии МАГ-30",
+        "registerNo": "0018-7569",
+        "OID": "DIO000177DB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_07813da2.jpg",
+    "source_folder": "photos3"
   }
 }
