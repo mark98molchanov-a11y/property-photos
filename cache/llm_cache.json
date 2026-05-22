@@ -12838,5 +12838,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3a600fb4.jpg",
     "source_folder": "photos"
+  },
+  "9c74bc1ad883974791d28ff595c8d4e61eb01f31795912092a2b87a78c40afbe": {
+    "first_seen": "2026-05-22T23:11:53.258400",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ИВЛ РО-6Н-05 ",
+        "registerNo": "0017-7655",
+        "OID": "DIO0000D7358"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_92d2001a.jpg",
+    "source_folder": "photos2"
   }
 }
