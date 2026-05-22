@@ -5878,5 +5878,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ae7c1330.jpg",
     "source_folder": "photos3"
+  },
+  "594e7304152659e0803ae33af592cbfe6b70bb5c19f6d48d205c39df5298dbcc": {
+    "first_seen": "2026-05-22T21:31:27.530195",
+    "objects": [
+      {
+        "Naimenovanie": "Графический планшет Wacom\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "registerNo": "0893-6002",
+        "OID": "00030037EB22"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e7d28712.jpg",
+    "source_folder": "photos"
+  },
+  "721363fc429685fa36e53b7e6d6e2fa6ed1c4a2caddf249328a69aeeb7f42dac": {
+    "first_seen": "2026-05-22T21:31:27.530322",
+    "objects": [
+      {
+        "Naimenovanie": "Графический планшет Wacom\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "registerNo": "0893-6002",
+        "OID": "00030037EB22"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_26cc6868.jpg",
+    "source_folder": "photos"
   }
 }
