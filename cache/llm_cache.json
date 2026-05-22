@@ -16150,5 +16150,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6aa7e6a0.jpg",
     "source_folder": "photos"
+  },
+  "f6e0a637316838888021e3a8fa1cdc18e96a1e1db9ad0783cc25d93e4ddd14be": {
+    "first_seen": "2026-05-22T23:57:09.411618",
+    "objects": [
+      {
+        "Naimenovanie": "Чемодан Альтернатива",
+        "registerNo": "0017-4468",
+        "OID": "DIO0000E7493"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_bf677904.jpg",
+    "source_folder": "photos2"
+  },
+  "34629f0197547eef559ac055ebc9d0a16515dee4afeb444fa424b2c6f49c0926": {
+    "first_seen": "2026-05-22T23:57:09.411693",
+    "objects": [
+      {
+        "Naimenovanie": "Чемодан Альтернатива",
+        "registerNo": "0017-4468",
+        "OID": "DIO0000E7493"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a7b0f050.png",
+    "source_folder": "photos2"
+  },
+  "c73316368d00a44afd1971fdc399d919cfa0dc7f3f82bd49b9e77583e35f0cec": {
+    "first_seen": "2026-05-22T23:57:09.411732",
+    "objects": [
+      {
+        "Naimenovanie": "Чемодан Альтернатива",
+        "registerNo": "0017-4468",
+        "OID": "DIO0000E7493"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_896e3faf.png",
+    "source_folder": "photos2"
   }
 }
