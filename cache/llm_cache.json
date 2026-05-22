@@ -19534,5 +19534,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d0ca593c.jpg",
     "source_folder": "photos"
+  },
+  "7367c773486593c6d3fdf2b2502edb989f6d8419a0e36b9866c405cb80257534": {
+    "first_seen": "2026-05-23T00:37:56.163850",
+    "objects": [
+      {
+        "Naimenovanie": "Полукресло Modenese Gastone",
+        "registerNo": "0005-0749",
+        "OID": "DIO0001A6BB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_662e08c7.jpg",
+    "source_folder": "photos3"
+  },
+  "6000ebae19d5855353ff68ea56f55dd2970331867dfa7bae023a817192c64d82": {
+    "first_seen": "2026-05-23T00:37:56.163923",
+    "objects": [
+      {
+        "Naimenovanie": "Полукресло Modenese Gastone",
+        "registerNo": "0005-0749",
+        "OID": "DIO0001A6BB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ab01503b.jpg",
+    "source_folder": "photos3"
+  },
+  "94beebf2dd8ddd0eb7bdc21c4371a15d889f0e81b824e25c7a6cd0bb60e84da7": {
+    "first_seen": "2026-05-23T00:37:56.163965",
+    "objects": [
+      {
+        "Naimenovanie": "Полукресло Modenese Gastone",
+        "registerNo": "0005-0749",
+        "OID": "DIO0001A6BB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c63a6e72.jpg",
+    "source_folder": "photos3"
   }
 }
