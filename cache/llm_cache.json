@@ -7186,5 +7186,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_663476f4.jpg",
     "source_folder": "photos"
+  },
+  "60a1148f29d2b8d0c8ec89bc676e22defb8d886c89ef081bcceb75bd2cbeabd7": {
+    "first_seen": "2026-05-22T21:51:14.910734",
+    "objects": [
+      {
+        "Naimenovanie": "Лампа для фототерапии Амеда",
+        "registerNo": "0018-9132",
+        "OID": "DIO00016D4FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9e5dbdb9.webp",
+    "source_folder": "photos3"
+  },
+  "77a9cdb4bf2555b7e12be48f09542a5499a722d94366f3de7903ed98d9f8f42f": {
+    "first_seen": "2026-05-22T21:51:14.910814",
+    "objects": [
+      {
+        "Naimenovanie": "Лампа для фототерапии Амеда",
+        "registerNo": "0018-9132",
+        "OID": "DIO00016D4FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_22cdf310.webp",
+    "source_folder": "photos3"
+  },
+  "f7c15ddb98b118f2d4d535aad5de5f36a4272ce14599272ade687ac0939b64d4": {
+    "first_seen": "2026-05-22T21:51:14.910856",
+    "objects": [
+      {
+        "Naimenovanie": "Лампа для фототерапии Амеда",
+        "registerNo": "0018-9132",
+        "OID": "DIO00016D4FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_69e74bdd.webp",
+    "source_folder": "photos3"
   }
 }
