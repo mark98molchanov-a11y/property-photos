@@ -12334,5 +12334,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e831adcd.jpg",
     "source_folder": "photos2"
+  },
+  "c14af5d1343db44447443f425e982ab084beec3ad71a4abd51d9d4131a518424": {
+    "first_seen": "2026-05-22T23:01:35.104371",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер вертикальный для настенной печати",
+        "registerNo": "0993-6228",
+        "OID": "0003038A4850"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7cd25661.jpg",
+    "source_folder": "photos"
+  },
+  "31a2a1fa83890faf3bd36cd5e3677b2f4b86e115a7fd94b352298b7c448cdfb6": {
+    "first_seen": "2026-05-22T23:01:35.104445",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер вертикальный для настенной печати",
+        "registerNo": "0993-6228",
+        "OID": "0003038A4850"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f5b684fe.jpg",
+    "source_folder": "photos"
   }
 }
