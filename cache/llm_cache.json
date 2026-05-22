@@ -3214,5 +3214,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a7a43eaf.png",
     "source_folder": "photos3"
+  },
+  "2fbe0e0dfa0511db7f0cd5e5b9f7f578227489c5cf0e67ed993b154b6d618549": {
+    "first_seen": "2026-05-22T20:59:17.584170",
+    "objects": [
+      {
+        "Naimenovanie": "Таль электрическая 0,5т",
+        "registerNo": "0890-8061",
+        "OID": "000300168607"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_18dfce0b.png",
+    "source_folder": "photos"
   }
 }
