@@ -14626,5 +14626,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_299e5cb2.png",
     "source_folder": "photos3"
+  },
+  "a414981721dbbc2d79810c00bc17dea358ae4e46ec5f958ae0fa25e5f78a1672": {
+    "first_seen": "2026-05-22T23:34:08.349343",
+    "objects": [
+      {
+        "Naimenovanie": "Банкетка",
+        "registerNo": "0004-1800",
+        "OID": "DIO00001C1E5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3b23bfb1.jpg",
+    "source_folder": "photos"
   }
 }
