@@ -4174,5 +4174,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_470632b0.jpg",
     "source_folder": "photos"
+  },
+  "864c73de9c0cd5f7c598c061f5013e8ac0dbc7d199e494b01fefc26bb2f9fd2c": {
+    "first_seen": "2026-05-22T21:12:13.672353",
+    "objects": [
+      {
+        "Naimenovanie": "Стендовая композиция \"Награды России\"",
+        "registerNo": "0005-7193",
+        "OID": "DIO00015B054"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7235fc48.jpg",
+    "source_folder": "photos3"
   }
 }
