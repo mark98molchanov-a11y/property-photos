@@ -12538,5 +12538,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7b4cd384.jpg",
     "source_folder": "photos3"
+  },
+  "d2bbc4816640d29838f459adfff2470cfa8b16d54c4d08d078c0e825b6f3d0b7": {
+    "first_seen": "2026-05-22T23:05:32.461753",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф материальный",
+        "registerNo": "0993-6640",
+        "OID": "0003038B4AED"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1ccf008e.jpg",
+    "source_folder": "photos"
+  },
+  "73a3060b9874606d2e863dc16123c3382ac05b7e1f438712404e5780b25db82d": {
+    "first_seen": "2026-05-22T23:05:32.461827",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф материальный",
+        "registerNo": "0993-6640",
+        "OID": "0003038B4AED"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_eb35465d.jpg",
+    "source_folder": "photos"
+  },
+  "80db6831878ea6d250fd9c7be2d0805848f148dfeb0e9924d2a5ce833cbc63dd": {
+    "first_seen": "2026-05-22T23:05:32.461868",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф материальный",
+        "registerNo": "0993-6640",
+        "OID": "0003038B4AED"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e7f37032.jpg",
+    "source_folder": "photos"
   }
 }
