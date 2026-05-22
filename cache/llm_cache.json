@@ -15994,5 +15994,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_66b17ad0.jpg",
     "source_folder": "photos2"
+  },
+  "e8636988ecd5c5bd76b98304d7f9d8e6facb849d09cf0e0414f5f7645e611194": {
+    "first_seen": "2026-05-22T23:53:58.804736",
+    "objects": [
+      {
+        "Naimenovanie": "Стол нержавеющий",
+        "registerNo": "0004-1922",
+        "OID": "DIO00001C676"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3b7d20c7.jpg",
+    "source_folder": "photos"
   }
 }
