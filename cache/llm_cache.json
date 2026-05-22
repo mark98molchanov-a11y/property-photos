@@ -21946,5 +21946,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_34838ff3.jpg",
     "source_folder": "photos3"
+  },
+  "c596815136a3afbda5d857e55b12268b6d0858edf80e6da8e8088817e8d14e60": {
+    "first_seen": "2026-05-23T01:07:41.213292",
+    "objects": [
+      {
+        "Naimenovanie": "Отсос медицинский вакуумный",
+        "registerNo": "0019-1497",
+        "OID": "DIO00011577D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_65afd55b.jpg",
+    "source_folder": "photos2"
+  },
+  "4263aaab1fc213b45196f7586d3b165a787bbef8fa8dcb4ccf59c449fd0d0ecd": {
+    "first_seen": "2026-05-23T01:07:41.213364",
+    "objects": [
+      {
+        "Naimenovanie": "Отсос медицинский вакуумный",
+        "registerNo": "0019-1497",
+        "OID": "DIO00011577D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2cd37c06.jpg",
+    "source_folder": "photos2"
   }
 }
