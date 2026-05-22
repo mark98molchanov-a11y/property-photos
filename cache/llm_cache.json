@@ -17938,5 +17938,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f250e169.png",
     "source_folder": "photos3"
+  },
+  "42d3b902474b75962b72e09feadf06552ec2329d25b875dc44dea38199c7c318": {
+    "first_seen": "2026-05-23T00:20:07.862844",
+    "objects": [
+      {
+        "Naimenovanie": "Нож с алмазным лезвием",
+        "registerNo": "0017-2036",
+        "OID": "DIO0000F120F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4a6208fc.jpg",
+    "source_folder": "photos2"
   }
 }
