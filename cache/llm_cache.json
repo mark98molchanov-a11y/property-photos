@@ -12802,5 +12802,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0ff40444.jpg",
     "source_folder": "photos2"
+  },
+  "67a6c0dab6eeeed373bfe2b5b3f2c9f746c40d5214711129c1ac7c3f50975bd4": {
+    "first_seen": "2026-05-22T23:10:35.838589",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло мягкое с подлокотниками",
+        "registerNo": "0993-8122",
+        "OID": "0003038E7CC4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_42c4d63f.jpg",
+    "source_folder": "photos"
+  },
+  "89eddac525cfd465f067823819ba6ba957aa0777d11213610e776007618ff47e": {
+    "first_seen": "2026-05-22T23:10:35.838678",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло мягкое с подлокотниками",
+        "registerNo": "0993-8122",
+        "OID": "0003038E7CC4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4742b410.jpg",
+    "source_folder": "photos"
   }
 }
