@@ -13810,5 +13810,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4b7b6d15.jpg",
     "source_folder": "photos3"
+  },
+  "1f3a232785d949548a07e43ac2ff907b22c3300f7c11b6d1e86a5d94db0433da": {
+    "first_seen": "2026-05-22T23:23:50.291735",
+    "objects": [
+      {
+        "Naimenovanie": "Динамометр становой",
+        "registerNo": "1011-4244",
+        "OID": "00030575AAA1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b22041ee.jpg",
+    "source_folder": "photos"
+  },
+  "e4f93b5c3912e45badc115791b683d0be3cc15319670ba5a07bfa60b1dc449df": {
+    "first_seen": "2026-05-22T23:23:50.291810",
+    "objects": [
+      {
+        "Naimenovanie": "Динамометр становой",
+        "registerNo": "1011-4244",
+        "OID": "00030575AAA1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d34f0ae6.jpg",
+    "source_folder": "photos"
+  },
+  "4fd2dd07c815ca081e3e0be3a4f333ae7bc55a09cea23bbaa4466109da0b047d": {
+    "first_seen": "2026-05-22T23:23:50.291850",
+    "objects": [
+      {
+        "Naimenovanie": "Динамометр становой",
+        "registerNo": "1011-4244",
+        "OID": "00030575AAA1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3ae021d6.jpg",
+    "source_folder": "photos"
   }
 }
