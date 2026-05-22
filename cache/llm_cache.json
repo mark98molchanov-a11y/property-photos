@@ -9250,5 +9250,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b36f71a7.jpg",
     "source_folder": "photos2"
+  },
+  "ce731c499345ffef5d07ae759c9627a9d2cf4bd2d1d991cb709f3dc5b46c08c4": {
+    "first_seen": "2026-05-22T22:23:04.109584",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло с откидным столиком",
+        "registerNo": "0899-8468",
+        "OID": "00030121C610"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_96631325.jpg",
+    "source_folder": "photos"
+  },
+  "51a64184a953442811c0fc7bd6cb4f304f70dd0da7ab02e487e4f360cb4bc36f": {
+    "first_seen": "2026-05-22T22:23:04.109661",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло с откидным столиком",
+        "registerNo": "0899-8468",
+        "OID": "00030121C610"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_637a6d9e.jpg",
+    "source_folder": "photos"
   }
 }
