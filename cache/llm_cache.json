@@ -2962,5 +2962,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_00dc74bb.png",
     "source_folder": "photos"
+  },
+  "9d5c569054859a337e77a9ff901c20bdd0591725c7e9669c37690da00d2cd605": {
+    "first_seen": "2026-05-22T20:54:46.663269",
+    "objects": [
+      {
+        "Naimenovanie": "Часы президентские с п/п механические",
+        "registerNo": "0009-2091",
+        "OID": "DIO00009DE9A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_537b2696.jpg",
+    "source_folder": "photos2"
   }
 }
