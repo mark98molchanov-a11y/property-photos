@@ -20578,5 +20578,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6e00cef8.jpg",
     "source_folder": "photos3"
+  },
+  "1384289950d30057a0daed8fc492a749f8eed88adb0dac27432263f4886c1a3f": {
+    "first_seen": "2026-05-23T00:50:02.384018",
+    "objects": [
+      {
+        "Naimenovanie": "Проекционное оборудование РТ-6 5500 Е",
+        "registerNo": "0006-7388",
+        "OID": "DIO00006F918"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dfaf6520.jpg",
+    "source_folder": "photos"
   }
 }
