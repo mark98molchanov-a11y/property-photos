@@ -8998,5 +8998,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a3585556.jpg",
     "source_folder": "photos2"
+  },
+  "7d5831e1f0a1a7540efd775f753f6cd94451bb4e7e51845b3176327fb3611b7c": {
+    "first_seen": "2026-05-22T22:19:32.269676",
+    "objects": [
+      {
+        "Naimenovanie": "Перфоратор",
+        "registerNo": "0019-1715",
+        "OID": "DIO0001771E6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_19be358b.jpg",
+    "source_folder": "photos3"
+  },
+  "e171ae11f8b41b1b382fd88f2cd5f6952b3d1d95157b7f36b8dd9df5e39fcd90": {
+    "first_seen": "2026-05-22T22:19:32.269755",
+    "objects": [
+      {
+        "Naimenovanie": "Перфоратор",
+        "registerNo": "0019-1715",
+        "OID": "DIO0001771E6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6b008931.jpg",
+    "source_folder": "photos3"
   }
 }
