@@ -15634,5 +15634,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ac3df14d.jpg",
     "source_folder": "photos2"
+  },
+  "d7f153ca33362434d500d02ad2837e0d93af02181658f6715beed910e438bf27": {
+    "first_seen": "2026-05-22T23:48:05.749154",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат сварочный \"Дуга\"",
+        "registerNo": "0008-4841",
+        "OID": "DIO000196941"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e272d000.jpg",
+    "source_folder": "photos3"
+  },
+  "624c9ab1d9ca86104eb961866538c0a5b40e4332397b0447e4d8e049eadedd3c": {
+    "first_seen": "2026-05-22T23:48:05.749225",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат сварочный \"Дуга\"",
+        "registerNo": "0008-4841",
+        "OID": "DIO000196941"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9d7438d6.jpg",
+    "source_folder": "photos3"
   }
 }
