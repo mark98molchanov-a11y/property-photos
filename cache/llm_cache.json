@@ -8506,5 +8506,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_25e55689.jpg",
     "source_folder": "photos"
+  },
+  "ab135f7e4dc81907392a71dda82003aae4aca7e4ba24f61f5120fa4cea7f9b6f": {
+    "first_seen": "2026-05-22T22:10:35.653634",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник фармацевтический",
+        "registerNo": "0017-6645",
+        "OID": "DIO0001743E3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_88b3842e.jpg",
+    "source_folder": "photos3"
+  },
+  "afc201bd0ae2d5d730071457671bd490da8cb6338d350cd97c51ca34e1c819bd": {
+    "first_seen": "2026-05-22T22:10:35.653720",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник фармацевтический",
+        "registerNo": "0017-6645",
+        "OID": "DIO0001743E3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bddf72d2.jpg",
+    "source_folder": "photos3"
+  },
+  "0f330af65a8860620d6fb778aec411dde8059b0cf2b6d3a765837b3643693194": {
+    "first_seen": "2026-05-22T22:10:35.653768",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник фармацевтический",
+        "registerNo": "0017-6645",
+        "OID": "DIO0001743E3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2376132b.jpg",
+    "source_folder": "photos3"
   }
 }
