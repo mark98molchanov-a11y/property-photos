@@ -9094,5 +9094,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_07e759db.jpg",
     "source_folder": "photos"
+  },
+  "5747de143352d2c67fb063f8b58bef7007bd7432ba799f284de41b572ae8b4bf": {
+    "first_seen": "2026-05-22T22:21:08.792409",
+    "objects": [
+      {
+        "Naimenovanie": "Гистерорезектоскоп",
+        "registerNo": "0019-0147",
+        "OID": "DIO000177312"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ab0129c4.jpg",
+    "source_folder": "photos3"
   }
 }
