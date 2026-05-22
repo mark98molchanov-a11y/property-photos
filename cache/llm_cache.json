@@ -8266,5 +8266,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f9835343.jpg",
     "source_folder": "photos2"
+  },
+  "e5464affcd2f5f31e883463a3acbc6fc5520c9bc6a9db0d7b76889087de0f3d3": {
+    "first_seen": "2026-05-22T22:06:53.825050",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба с замком",
+        "registerNo": "0020-1618",
+        "OID": "DIO000172072"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9242df10.jpg",
+    "source_folder": "photos3"
   }
 }
