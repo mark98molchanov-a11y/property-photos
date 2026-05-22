@@ -19954,5 +19954,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_00b722be.jpg",
     "source_folder": "photos"
+  },
+  "c132c0d2a81566a5941dc67a7e1426bd9177ee821ec6b0903e3cec4aa60f826c": {
+    "first_seen": "2026-05-23T00:42:07.916986",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для документов BERLIN Ф1000971",
+        "registerNo": "0012-6094",
+        "OID": "DIO0001AABC9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b3fde6d5.jpg",
+    "source_folder": "photos3"
   }
 }
