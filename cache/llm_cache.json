@@ -5710,5 +5710,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5a7f4d12.png",
     "source_folder": "photos2"
+  },
+  "fdcfb8d0dac08ab1a3040cc4bab3953f6755be5455eb183edd0307b32d7fe136": {
+    "first_seen": "2026-05-22T21:29:30.280511",
+    "objects": [
+      {
+        "Naimenovanie": "Устройство-спиротест цифровое УСПЦ-01",
+        "registerNo": "0893-5970",
+        "OID": "00030037EA56"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1d4761a7.jpg",
+    "source_folder": "photos"
+  },
+  "ac2c55b0156b3227e9f0b66d3f8d0a85083bb6e6f880596a6ceb63044394bcd7": {
+    "first_seen": "2026-05-22T21:29:30.280585",
+    "objects": [
+      {
+        "Naimenovanie": "Устройство-спиротест цифровое УСПЦ-01",
+        "registerNo": "0893-5970",
+        "OID": "00030037EA56"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0260e38f.jpg",
+    "source_folder": "photos"
   }
 }
