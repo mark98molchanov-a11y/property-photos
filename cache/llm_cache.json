@@ -9646,5 +9646,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_637b1199.jpg",
     "source_folder": "photos3"
+  },
+  "1c2c377e1231831ba7a719d6b43470fc8d03df6edacec83007c5d6fab5d97e97": {
+    "first_seen": "2026-05-22T22:27:33.929588",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор шприцевой",
+        "registerNo": "0017-9548",
+        "OID": "DIO0000C77D9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3cdafb13.jpg",
+    "source_folder": "photos2"
+  },
+  "df2a9d835b74c45c49ab061ea94906f53a12fe71d71b6bc87d651395bb8aad6e": {
+    "first_seen": "2026-05-22T22:27:33.929689",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор шприцевой",
+        "registerNo": "0017-9548",
+        "OID": "DIO0000C77D9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_34d3ea8d.jpg",
+    "source_folder": "photos2"
+  },
+  "e7e7c0fea5e10d2db254ac00deffafc1de5c0f38de6e429d472b7d645f3d7b10": {
+    "first_seen": "2026-05-22T22:27:33.929727",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор шприцевой",
+        "registerNo": "0017-9548",
+        "OID": "DIO0000C77D9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6a33059f.jpg",
+    "source_folder": "photos2"
   }
 }
