@@ -22330,5 +22330,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c2d6e64.jpg",
     "source_folder": "photos2"
+  },
+  "154757a65e78d5523bfc7be1893200ff69edf80669bbc00f4df7b67b1472efaa": {
+    "first_seen": "2026-05-23T01:13:17.875138",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ЭХВЧ-300-02 Фотек",
+        "registerNo": "0017-8610",
+        "OID": "DIO0001B1BE3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_039b25f7.jpg",
+    "source_folder": "photos3"
+  },
+  "3c5a28bb9d04f02c6ce17865f92c139c633b11fe45a3555b9bd0227ba5e1314f": {
+    "first_seen": "2026-05-23T01:13:17.875240",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ЭХВЧ-300-02 Фотек",
+        "registerNo": "0017-8610",
+        "OID": "DIO0001B1BE3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c8d7bb67.jpg",
+    "source_folder": "photos3"
   }
 }
