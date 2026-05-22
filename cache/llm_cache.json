@@ -10822,5 +10822,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_50edcdf1.jpg",
     "source_folder": "photos3"
+  },
+  "955fc64f9fdc6db88fc8f998f56008941181edaf16537814c1722bee26bd81fd": {
+    "first_seen": "2026-05-22T22:42:33.274699",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессор, произ-тью 100 л/мин дав. 300 бар",
+        "registerNo": "0956-6492",
+        "OID": "000301B1F3FC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_438bf634.jpg",
+    "source_folder": "photos"
+  },
+  "501f34252d0ea85c43504139b15cc7629145359e6865c1c71eab2697a5a74fed": {
+    "first_seen": "2026-05-22T22:42:33.274779",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессор, произ-тью 100 л/мин дав. 300 бар",
+        "registerNo": "0956-6492",
+        "OID": "000301B1F3FC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_50161118.jpg",
+    "source_folder": "photos"
   }
 }
