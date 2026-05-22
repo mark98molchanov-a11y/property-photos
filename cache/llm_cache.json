@@ -11890,5 +11890,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e358c5ed.jpg",
     "source_folder": "photos"
+  },
+  "10430c58070523b2b85d34f1bd734ba1c0f9e31d5026e0c5db521064f53c6ab2": {
+    "first_seen": "2026-05-22T22:54:45.525878",
+    "objects": [
+      {
+        "Naimenovanie": "Микроволновая печь Самсунг Н1777",
+        "registerNo": "0014-9694",
+        "OID": "DIO0000D1A9B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ca052b1b.jpg",
+    "source_folder": "photos2"
+  },
+  "b7a3d501c09297a307dd2aa8bdd616f2ce3cbfa9f2a83ec4adc730277ef7f827": {
+    "first_seen": "2026-05-22T22:54:45.525951",
+    "objects": [
+      {
+        "Naimenovanie": "Микроволновая печь Самсунг Н1777",
+        "registerNo": "0014-9694",
+        "OID": "DIO0000D1A9B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b9a5f6c9.jpg",
+    "source_folder": "photos2"
+  },
+  "149bbf529d8a7099d0c4a5a406544c6e09561264f3c7e06b88593bba6106995a": {
+    "first_seen": "2026-05-22T22:54:45.525993",
+    "objects": [
+      {
+        "Naimenovanie": "Микроволновая печь Самсунг Н1777",
+        "registerNo": "0014-9694",
+        "OID": "DIO0000D1A9B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_947f9f45.jpg",
+    "source_folder": "photos2"
   }
 }
