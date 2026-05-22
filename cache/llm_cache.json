@@ -14686,5 +14686,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f3873453.jpg",
     "source_folder": "photos2"
+  },
+  "b1e867a6db44d9bb51205c0cf716472dae37c23c3f978affd8de48eaee9d055d": {
+    "first_seen": "2026-05-22T23:34:46.057087",
+    "objects": [
+      {
+        "Naimenovanie": "Горка барная",
+        "registerNo": "0004-1794",
+        "OID": "DIO00001C224"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_32591bb2.jpg",
+    "source_folder": "photos"
   }
 }
