@@ -766,5 +766,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6f3253d6.png",
     "source_folder": "photos"
+  },
+  "f6446823342f0e97f2fc3ebbecd0064bb1b53a47ac32991f064476eee2fa6f03": {
+    "first_seen": "2026-05-22T20:32:12.176236",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ФРССЭ-14",
+        "registerNo": "0004-8081",
+        "OID": "DIO00013C624"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8a74901d.jpg",
+    "source_folder": "photos3"
+  },
+  "1e7fe76e77628b40356438e0dcb6b77209b853d5903ed3cc455384db7bdb523b": {
+    "first_seen": "2026-05-22T20:32:12.176315",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ФРССЭ-14",
+        "registerNo": "0004-8081",
+        "OID": "DIO00013C624"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_27b107b6.jpg",
+    "source_folder": "photos3"
+  },
+  "111af2376137f30db0659b272400d165929cb56a91833b36bcf659cc7fe71400": {
+    "first_seen": "2026-05-22T20:32:12.176356",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ФРССЭ-14",
+        "registerNo": "0004-8081",
+        "OID": "DIO00013C624"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7e3c4924.jpg",
+    "source_folder": "photos3"
+  },
+  "6cd682a01eb025b57cb873165f8b8ef251625f8fde05781d9d0b359eeebf5f20": {
+    "first_seen": "2026-05-22T20:32:12.176394",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ФРССЭ-14",
+        "registerNo": "0004-8081",
+        "OID": "DIO00013C624"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b7793a87.jpg",
+    "source_folder": "photos3"
   }
 }
