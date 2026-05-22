@@ -5938,5 +5938,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6aa60c3b.png",
     "source_folder": "photos2"
+  },
+  "e2bd5f8a2cdec64bf07581b3ea16384cf14fc7315eccc8192407160dc18a4fe1": {
+    "first_seen": "2026-05-22T21:31:52.411553",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник 2-х камерный \"Атлант\"",
+        "registerNo": "0011-1333",
+        "OID": "DIO0001678EA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_54b6cb98.jpg",
+    "source_folder": "photos3"
+  },
+  "a2046de7ca1ce148095e20476dfa36dd9ca26349c4a9eb4b05e847c9cc268b9b": {
+    "first_seen": "2026-05-22T21:31:52.411629",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник 2-х камерный \"Атлант\"",
+        "registerNo": "0011-1333",
+        "OID": "DIO0001678EA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_93c13356.jpg",
+    "source_folder": "photos3"
+  },
+  "2ea691ea7cd6846e9e25b169cb228e795046586fbb22591a7a10045fa4487320": {
+    "first_seen": "2026-05-22T21:31:52.411670",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник 2-х камерный \"Атлант\"",
+        "registerNo": "0011-1333",
+        "OID": "DIO0001678EA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f8bed73d.jpg",
+    "source_folder": "photos3"
   }
 }
