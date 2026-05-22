@@ -7942,5 +7942,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9965d8e8.jpg",
     "source_folder": "photos2"
+  },
+  "26f77871423f94b43a7b668d6bfa087df43aae1b3f45e721a32a05dc4fa37f14": {
+    "first_seen": "2026-05-22T22:01:50.122822",
+    "objects": [
+      {
+        "Naimenovanie": "Картофелечистка",
+        "registerNo": "0897-2999",
+        "OID": "000300F2784C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_aee07c00.jpg",
+    "source_folder": "photos"
+  },
+  "d500ced976df55f9f757eb82d0def8866ad803433607bbe20abc44397d077691": {
+    "first_seen": "2026-05-22T22:01:50.122916",
+    "objects": [
+      {
+        "Naimenovanie": "Картофелечистка",
+        "registerNo": "0897-2999",
+        "OID": "000300F2784C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_57f744c0.jpg",
+    "source_folder": "photos"
   }
 }
