@@ -14890,5 +14890,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_29333ec7.jpg",
     "source_folder": "photos3"
+  },
+  "615c996eb35f941bca51e058b5fa0da0593a313134dbfc5d569866c6d2810648": {
+    "first_seen": "2026-05-22T23:37:09.073740",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать с матрасом",
+        "registerNo": "0004-1886",
+        "OID": "DIO00001C251"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_448412c5.jpg",
+    "source_folder": "photos"
   }
 }
