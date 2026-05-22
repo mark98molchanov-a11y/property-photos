@@ -14134,5 +14134,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2de59fe4.jpg",
     "source_folder": "photos3"
+  },
+  "d2e895329c2b87e405949cc4e2c4f35a7c95830f3e1fd3890a658738953edaab": {
+    "first_seen": "2026-05-22T23:26:58.221011",
+    "objects": [
+      {
+        "Naimenovanie": "Ножницы микрохирургические",
+        "registerNo": "1011-9752",
+        "OID": "000305A31185"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_acdf6b6d.jpg",
+    "source_folder": "photos"
   }
 }
