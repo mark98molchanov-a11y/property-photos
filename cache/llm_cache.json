@@ -23506,5 +23506,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3ee23333.jpg",
     "source_folder": "photos2"
+  },
+  "4bfc85e442ee23089b23f74a492dd8c2fb88279d79b3ae68817c932df61df984": {
+    "first_seen": "2026-05-23T01:28:34.151617",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф одежный",
+        "registerNo": "0016-3819",
+        "OID": "DIO0001B5B38"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cd57a73f.jpg",
+    "source_folder": "photos3"
+  },
+  "6ea64be91bb9732bb4ba4b9e4456330503b4912622e61e90ab94f180453526ce": {
+    "first_seen": "2026-05-23T01:28:34.151738",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф одежный",
+        "registerNo": "0016-3819",
+        "OID": "DIO0001B5B38"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d35e7fb8.jpg",
+    "source_folder": "photos3"
   }
 }
