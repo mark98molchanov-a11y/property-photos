@@ -11698,5 +11698,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2a793b6c.jpg",
     "source_folder": "photos3"
+  },
+  "17a0c55a723a4d87339217cde9726947e8486060cc8ac89544ced155d2866ddc": {
+    "first_seen": "2026-05-22T22:52:43.271554",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное МЕТТА B",
+        "registerNo": "0968-8343",
+        "OID": "0003026CFA13"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8984af19.jpg",
+    "source_folder": "photos"
+  },
+  "ba43e9a7361cc2af7ac27cb963143bd682f201ef4b3cc69771bcfa4988b251a2": {
+    "first_seen": "2026-05-22T22:52:43.271635",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное МЕТТА B",
+        "registerNo": "0968-8343",
+        "OID": "0003026CFA13"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_78c9c47e.jpg",
+    "source_folder": "photos"
+  },
+  "0de2b711b4984550240bf81b8bbf7a9e46545d66e5ac6865be71efcaee3f1dc8": {
+    "first_seen": "2026-05-22T22:52:43.271674",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное МЕТТА B",
+        "registerNo": "0968-8343",
+        "OID": "0003026CFA13"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e115c81d.webp",
+    "source_folder": "photos"
+  },
+  "a92735bbfe19fa6d0891f06638352bc84b53dc6de75bde9c9baeff4528149941": {
+    "first_seen": "2026-05-22T22:52:43.271709",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное МЕТТА B",
+        "registerNo": "0968-8343",
+        "OID": "0003026CFA13"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_80e3a83c.webp",
+    "source_folder": "photos"
+  },
+  "7f9e919dc237b3e57e6c1f2e2544dff9c2147c8b4b25aa22fc24c883a3dc7f6a": {
+    "first_seen": "2026-05-22T22:52:43.271748",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное МЕТТА B",
+        "registerNo": "0968-8343",
+        "OID": "0003026CFA13"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ec547a99.jpg",
+    "source_folder": "photos"
   }
 }
