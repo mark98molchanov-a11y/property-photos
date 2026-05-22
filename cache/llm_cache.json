@@ -18058,5 +18058,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d08299c7.jpg",
     "source_folder": "photos3"
+  },
+  "107837b2d42b7e33f40039d5988f2cb64d9aefe4bfcf9cc19dcaa7e6be3c6158": {
+    "first_seen": "2026-05-23T00:21:03.258958",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф старшей медсестры",
+        "registerNo": "0001-4497",
+        "OID": "DIO0000F1BF1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_477e5bae.jpg",
+    "source_folder": "photos2"
+  },
+  "c9271bf8b2cb0b75eaccfb673e019645485859ab0bb30628ccfc0ba4ab10628a": {
+    "first_seen": "2026-05-23T00:21:03.259032",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф старшей медсестры",
+        "registerNo": "0001-4497",
+        "OID": "DIO0000F1BF1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_70348651.jpg",
+    "source_folder": "photos2"
   }
 }
