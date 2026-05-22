@@ -16366,5 +16366,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e69c3370.jpg",
     "source_folder": "photos2"
+  },
+  "0dc57111a5fced492ed3867876e115118e3c8e36e36a41be4545fe2a4826465e": {
+    "first_seen": "2026-05-23T00:00:15.217398",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник ХФ-400-1 POZIS",
+        "registerNo": "0019-6349",
+        "OID": "DIO0001983CE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d44896ed.jpg",
+    "source_folder": "photos3"
+  },
+  "c9cd717ed202f3ded45aac6934bad3c55dde598ae0ae2a0e6b00af983834a97a": {
+    "first_seen": "2026-05-23T00:00:15.217515",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник ХФ-400-1 POZIS",
+        "registerNo": "0019-6349",
+        "OID": "DIO0001983CE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5e48b2a2.jpg",
+    "source_folder": "photos3"
   }
 }
