@@ -16930,5 +16930,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6b12d34c.jpg",
     "source_folder": "photos2"
+  },
+  "94e3d078a53752a853d03e5cfe78bc5a2b717b971509888ddcec849cc660103d": {
+    "first_seen": "2026-05-23T00:07:33.587340",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессор МК-1",
+        "registerNo": "0000-3096",
+        "OID": "DIO00003394E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cd8e0717.jpg",
+    "source_folder": "photos"
+  },
+  "6adef87069ec6b9abbe1905eb22d17b44ace97be7e1b54c4e70961b7af0c8f75": {
+    "first_seen": "2026-05-23T00:07:33.587417",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессор МК-1",
+        "registerNo": "0000-3096",
+        "OID": "DIO00003394E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5d191c24.jpg",
+    "source_folder": "photos"
+  },
+  "487f8d2b602efebce139f70450ea71f4968bb88a06006939be236ba57beab25f": {
+    "first_seen": "2026-05-23T00:07:33.587460",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессор МК-1",
+        "registerNo": "0000-3096",
+        "OID": "DIO00003394E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0038bf0c.jpg",
+    "source_folder": "photos"
   }
 }
