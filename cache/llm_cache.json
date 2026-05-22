@@ -21694,5 +21694,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d1943a78.jpg",
     "source_folder": "photos2"
+  },
+  "ff27429ccd7c70ae1cbf4970643444cc75f9a5f64417f049ebf3bb4aff20f927": {
+    "first_seen": "2026-05-23T01:03:53.371412",
+    "objects": [
+      {
+        "Naimenovanie": "Многофункциональное устройство: Марка, модель: Hewlett-Packard LaserJet  9500",
+        "registerNo": "0007-0675",
+        "OID": "DIO000080050"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0654f42d.png",
+    "source_folder": "photos"
   }
 }
