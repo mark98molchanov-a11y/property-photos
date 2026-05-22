@@ -3718,5 +3718,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5e89f08d.jpg",
     "source_folder": "photos3"
+  },
+  "44f9b3510732d27da1c792f5e7ab2a94a6cc9cbc45306a44111eb56f2b8dcdfe": {
+    "first_seen": "2026-05-22T21:06:51.448990",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер EPSON",
+        "registerNo": "0891-5820",
+        "OID": "0003001C153A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_508492b6.jpg",
+    "source_folder": "photos"
+  },
+  "5e11fb97db441770f5ec5ea40c3d1d74941fcf1a7d44fbe9ca254afd400d8fbf": {
+    "first_seen": "2026-05-22T21:06:51.449066",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер EPSON",
+        "registerNo": "0891-5820",
+        "OID": "0003001C153A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fce531b8.jpg",
+    "source_folder": "photos"
+  },
+  "f4c701bc9f1c47daef04ebf9a585631e5ecc720b1eef99a0412919537e0f4f5c": {
+    "first_seen": "2026-05-22T21:06:51.449107",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер EPSON",
+        "registerNo": "0891-5820",
+        "OID": "0003001C153A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f8aea19f.jpg",
+    "source_folder": "photos"
+  },
+  "01ed7640124a2adfdd74abc4c69b7cbc2db1af23cfdea268654fee4172a9f407": {
+    "first_seen": "2026-05-22T21:06:51.449146",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер EPSON",
+        "registerNo": "0891-5820",
+        "OID": "0003001C153A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fef24935.jpg",
+    "source_folder": "photos"
+  },
+  "57f264e48fbc3a77d812db615b27b890c9c634835a156919e7c5980c4d9433f4": {
+    "first_seen": "2026-05-22T21:06:51.449182",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер EPSON",
+        "registerNo": "0891-5820",
+        "OID": "0003001C153A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_37239336.jpg",
+    "source_folder": "photos"
   }
 }
