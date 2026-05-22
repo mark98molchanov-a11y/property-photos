@@ -11962,5 +11962,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e5b626b1.jpg",
     "source_folder": "photos"
+  },
+  "f9e072d5fd32c160b54868e89717f946491cea6009f614872df27247831697c0": {
+    "first_seen": "2026-05-22T22:55:38.135514",
+    "objects": [
+      {
+        "Naimenovanie": "Часы настенные с мировым временем",
+        "registerNo": "0011-6233",
+        "OID": "DIO0001816C0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c3d8b5c0.jpg",
+    "source_folder": "photos3"
+  },
+  "879541c9beb7daf4a4749b5a4e931d03d0af4a75ee7de87130b78cecdd7eb4c5": {
+    "first_seen": "2026-05-22T22:55:38.135584",
+    "objects": [
+      {
+        "Naimenovanie": "Часы настенные с мировым временем",
+        "registerNo": "0011-6233",
+        "OID": "DIO0001816C0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e6351873.jpg",
+    "source_folder": "photos3"
   }
 }
