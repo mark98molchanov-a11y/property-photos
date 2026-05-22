@@ -14734,5 +14734,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d78b7a14.jpg",
     "source_folder": "photos"
+  },
+  "d3a7dbadeade46d5f2177c198b268497ce26180f94fcca4c0bf688aa55deccb8": {
+    "first_seen": "2026-05-22T23:35:48.140236",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для ручной вентиляции новорожденных",
+        "registerNo": "0015-7523",
+        "OID": "DIO0000DF3FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9f3f87cb.jpg",
+    "source_folder": "photos2"
+  },
+  "bbb668fc738fa2ffcec22885c0acf5ccdfcd389163880498bc6d24211bb6499b": {
+    "first_seen": "2026-05-22T23:35:48.140306",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для ручной вентиляции новорожденных",
+        "registerNo": "0015-7523",
+        "OID": "DIO0000DF3FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_09f3833d.jpg",
+    "source_folder": "photos2"
+  },
+  "1385608c376835142a6ef1f3b4c8c557af3c308b9e4d0d453c6900cba1687cd7": {
+    "first_seen": "2026-05-22T23:35:48.140347",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат для ручной вентиляции новорожденных",
+        "registerNo": "0015-7523",
+        "OID": "DIO0000DF3FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ec0840a7.jpg",
+    "source_folder": "photos2"
   }
 }
