@@ -2974,5 +2974,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_537b2696.jpg",
     "source_folder": "photos2"
+  },
+  "1b7a00449ddb0a43d0aed205434e203f4cef2910e97a5e85701de226e39097d7": {
+    "first_seen": "2026-05-22T20:55:33.332939",
+    "objects": [
+      {
+        "Naimenovanie": "Микроволновая печь",
+        "registerNo": "0890-8032",
+        "OID": "000300168531"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_11add476.jpg",
+    "source_folder": "photos"
   }
 }
