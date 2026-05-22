@@ -11674,5 +11674,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ffe6c66d.jpg",
     "source_folder": "photos"
+  },
+  "97d1e2b443197aedf899d2724e0caf20e128b6cafdddd8de91c5d245741f555d": {
+    "first_seen": "2026-05-22T22:52:14.861266",
+    "objects": [
+      {
+        "Naimenovanie": "Портативные WiFi/WiMAX-роутеры MiMAX-Egg",
+        "registerNo": "0020-1221",
+        "OID": "DIO0001806D2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1de8aee1.jpg",
+    "source_folder": "photos3"
+  },
+  "9b4c2569c0482295b3766adaed47ddeb25bcc05542e601ffe5380df46db9554c": {
+    "first_seen": "2026-05-22T22:52:14.861343",
+    "objects": [
+      {
+        "Naimenovanie": "Портативные WiFi/WiMAX-роутеры MiMAX-Egg",
+        "registerNo": "0020-1221",
+        "OID": "DIO0001806D2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2a793b6c.jpg",
+    "source_folder": "photos3"
   }
 }
