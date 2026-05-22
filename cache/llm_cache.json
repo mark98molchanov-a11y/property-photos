@@ -15514,5 +15514,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7532b64a.jpg",
     "source_folder": "photos2"
+  },
+  "03a81ee2779618af96cbd81d0489f2eea210e5db5f5c00daa8344f1238ee8fa0": {
+    "first_seen": "2026-05-22T23:46:18.938091",
+    "objects": [
+      {
+        "Naimenovanie": "Стол",
+        "registerNo": "0004-1916",
+        "OID": "DIO00001C34C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f9dbcb1e.jpg",
+    "source_folder": "photos"
   }
 }
