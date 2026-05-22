@@ -9274,5 +9274,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_637a6d9e.jpg",
     "source_folder": "photos"
+  },
+  "db14025a28915d98e1a2eb7597499fef2cc8a76c67476ec58f82f33eed95de13": {
+    "first_seen": "2026-05-22T22:23:21.701326",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель переносной",
+        "registerNo": "0015-4884",
+        "OID": "DIO0000C5CC6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_74b8189a.png",
+    "source_folder": "photos2"
+  },
+  "67ba5e81661a712b9fdfde0aa99dec01db3e74b48549fca5413de44f5a7558b3": {
+    "first_seen": "2026-05-22T22:23:21.701394",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель переносной",
+        "registerNo": "0015-4884",
+        "OID": "DIO0000C5CC6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9c921394.png",
+    "source_folder": "photos2"
   }
 }
