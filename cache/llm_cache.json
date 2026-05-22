@@ -12082,5 +12082,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c81247a4.jpg",
     "source_folder": "photos3"
+  },
+  "2ba180ece07d6bd5e2094180ccb2e6569f91f8c6dec68a6598e2525b9edd104c": {
+    "first_seen": "2026-05-22T22:56:52.229563",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор LG 42\" LCD 42LK455C с моторизированным поворотным кронштейном и цифровой телевизионной приставкой IP Set-To-Box",
+        "registerNo": "0991-6466",
+        "OID": "0003035D377D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a4ca37b3.png",
+    "source_folder": "photos"
+  },
+  "ee1c631eac3bad0d352d3915b61fa005fc189f14c6d0bfa7d39dfa8f085eaf0f": {
+    "first_seen": "2026-05-22T22:56:52.229640",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор LG 42\" LCD 42LK455C с моторизированным поворотным кронштейном и цифровой телевизионной приставкой IP Set-To-Box",
+        "registerNo": "0991-6466",
+        "OID": "0003035D377D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1b9a0c06.png",
+    "source_folder": "photos"
+  },
+  "346941a6113adb6399dff903e2fe3536c0bfe4887027c6ac95c0246f6513be46": {
+    "first_seen": "2026-05-22T22:56:52.229683",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор LG 42\" LCD 42LK455C с моторизированным поворотным кронштейном и цифровой телевизионной приставкой IP Set-To-Box",
+        "registerNo": "0991-6466",
+        "OID": "0003035D377D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6f844ccc.png",
+    "source_folder": "photos"
   }
 }
