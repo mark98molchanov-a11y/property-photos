@@ -17074,5 +17074,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_259d30f4.jpg",
     "source_folder": "photos3"
+  },
+  "8dd42a756dd9a9fca9d4e65e170fb51e1c1670638a457adfa3d0d1e3525c598d": {
+    "first_seen": "2026-05-23T00:09:17.169772",
+    "objects": [
+      {
+        "Naimenovanie": "Трансформатор сварочный  ТДМ-201",
+        "registerNo": "0001-4022",
+        "OID": "DIO000035076"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b40533ca.jpg",
+    "source_folder": "photos"
+  },
+  "05b01f12f6533fe167c0261b1a15a983b3ed201dfb01ea9549a532b674ba6d40": {
+    "first_seen": "2026-05-23T00:09:17.169863",
+    "objects": [
+      {
+        "Naimenovanie": "Трансформатор сварочный  ТДМ-201",
+        "registerNo": "0001-4022",
+        "OID": "DIO000035076"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f059cd37.jpg",
+    "source_folder": "photos"
+  },
+  "3fcd3c5973c1b213852fd1ddde7333f0ce27ac254aa24b02ac7a0f9232023771": {
+    "first_seen": "2026-05-23T00:09:17.169906",
+    "objects": [
+      {
+        "Naimenovanie": "Трансформатор сварочный  ТДМ-201",
+        "registerNo": "0001-4022",
+        "OID": "DIO000035076"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2dff57c0.jpg",
+    "source_folder": "photos"
   }
 }
