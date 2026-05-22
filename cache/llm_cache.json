@@ -5278,5 +5278,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b4736fa8.jpg",
     "source_folder": "photos3"
+  },
+  "f91305176be745032d6934f54774375a99e5426834bd79cc15694d54893c4085": {
+    "first_seen": "2026-05-22T21:24:55.271152",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф комбинированный со стеклами",
+        "registerNo": "0008-4749",
+        "OID": "DIO0000AB9DE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ee941e49.jpg",
+    "source_folder": "photos2"
+  },
+  "660c9f1253d7cad46b6f068919e7694cc00291e95e7adaf414d8c4f1def8c53e": {
+    "first_seen": "2026-05-22T21:24:55.271235",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф комбинированный со стеклами",
+        "registerNo": "0008-4749",
+        "OID": "DIO0000AB9DE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_634c3624.jpg",
+    "source_folder": "photos2"
   }
 }
