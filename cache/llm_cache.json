@@ -20758,5 +20758,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_33bae865.jpg",
     "source_folder": "photos2"
+  },
+  "868fdca9c6064d7c4e982ab85e2a85bee964576b0f57e89473fdaaec4c0c14ab": {
+    "first_seen": "2026-05-23T00:52:49.698299",
+    "objects": [
+      {
+        "Naimenovanie": "Пила ручная дисковая",
+        "registerNo": "0009-2087",
+        "OID": "DIO000074FA1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c55140fb.jpg",
+    "source_folder": "photos"
   }
 }
