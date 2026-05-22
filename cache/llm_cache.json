@@ -13798,5 +13798,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ab32732a.jpg",
     "source_folder": "photos"
+  },
+  "ab0f70c3936912b3bb6a3508d74a847c80931ac21caca486b230a3bc11b54da5": {
+    "first_seen": "2026-05-22T23:23:29.228443",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф",
+        "registerNo": "0015-3729",
+        "OID": "DIO000189907"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4b7b6d15.jpg",
+    "source_folder": "photos3"
   }
 }
