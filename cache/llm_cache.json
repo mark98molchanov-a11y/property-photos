@@ -1138,5 +1138,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fcc2e0e5.jpg",
     "source_folder": "photos"
+  },
+  "543e661eaf6a9912be0bd93cd988cc956b319a8746efef8845cdbd41743e6769": {
+    "first_seen": "2026-05-22T20:36:25.380597",
+    "objects": [
+      {
+        "Naimenovanie": "Рулонный ламинатор GMP Excelam-1055 Q",
+        "registerNo": "0019-8953",
+        "OID": "DIO000094118"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2f316a58.jpg",
+    "source_folder": "photos2"
+  },
+  "bfcee74adcf659b67902f1ac68679857771dfa9757eb9805019e136ebc6b562b": {
+    "first_seen": "2026-05-22T20:36:25.380687",
+    "objects": [
+      {
+        "Naimenovanie": "Рулонный ламинатор GMP Excelam-1055 Q",
+        "registerNo": "0019-8953",
+        "OID": "DIO000094118"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_27046386.jpg",
+    "source_folder": "photos2"
+  },
+  "b346e6257d554e6cde3c6990d3fcedbe4bc9f0491bf8d625dfb40e8b091dc098": {
+    "first_seen": "2026-05-22T20:36:25.380729",
+    "objects": [
+      {
+        "Naimenovanie": "Рулонный ламинатор GMP Excelam-1055 Q",
+        "registerNo": "0019-8953",
+        "OID": "DIO000094118"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9e5cfc3d.jpg",
+    "source_folder": "photos2"
   }
 }
