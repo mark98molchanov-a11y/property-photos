@@ -1954,5 +1954,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4222624c.jpg",
     "source_folder": "photos3"
+  },
+  "7c62bb50b2dd3d0351b2f9ad55af3fdcff3194d36e5c195c654e83ffdf6b24d5": {
+    "first_seen": "2026-05-22T20:44:12.871627",
+    "objects": [
+      {
+        "Naimenovanie": "Бензогенератор ",
+        "registerNo": "0890-7652",
+        "OID": "00030016426F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cca65a20.jpg",
+    "source_folder": "photos"
   }
 }
