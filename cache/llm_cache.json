@@ -4270,5 +4270,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0650dfbd.jpg",
     "source_folder": "photos2"
+  },
+  "ad46862a92232db6e1bcf74077e2c7bab97620e61fd9104bcca0891f72053cf8": {
+    "first_seen": "2026-05-22T21:13:51.128688",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Милта-Ф-8-01",
+        "registerNo": "0015-8895",
+        "OID": "DIO00015B47B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cc707e66.jpg",
+    "source_folder": "photos3"
+  },
+  "865e65dec41fb6a836da7197eb9598ec69a402f563867c8465eeb4095fb0fb62": {
+    "first_seen": "2026-05-22T21:13:51.128760",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Милта-Ф-8-01",
+        "registerNo": "0015-8895",
+        "OID": "DIO00015B47B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e0a75be8.jpg",
+    "source_folder": "photos3"
+  },
+  "7339cfcc16aeef045a78db78a92c4ad019a5d9b6f108494b180f3dd6f5d86efb": {
+    "first_seen": "2026-05-22T21:13:51.128803",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Милта-Ф-8-01",
+        "registerNo": "0015-8895",
+        "OID": "DIO00015B47B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d6a0a2c6.jpg",
+    "source_folder": "photos3"
   }
 }
