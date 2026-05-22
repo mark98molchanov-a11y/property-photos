@@ -3250,5 +3250,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_22eb992a.jpg",
     "source_folder": "photos2"
+  },
+  "779e556dbd1475716b820f2f48e5bef945d5f5555608fa61631d78b92114a742": {
+    "first_seen": "2026-05-22T21:00:00.248117",
+    "objects": [
+      {
+        "Naimenovanie": "Фотоаппарат",
+        "registerNo": "0890-8077",
+        "OID": "000300168671"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ddbc1db3.png",
+    "source_folder": "photos"
   }
 }
