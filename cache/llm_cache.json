@@ -3226,5 +3226,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_18dfce0b.png",
     "source_folder": "photos"
+  },
+  "a3d497bfb848a7fc5028796321d4607728666e4fb944a0cca09cc442d78c6f44": {
+    "first_seen": "2026-05-22T20:59:46.529435",
+    "objects": [
+      {
+        "Naimenovanie": "Шторы на липкой ленте",
+        "registerNo": "0016-2199",
+        "OID": "DIO000153A7E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_48d321b3.png",
+    "source_folder": "photos3"
   }
 }
