@@ -22306,5 +22306,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8aa9b15e.jpg",
     "source_folder": "photos2"
+  },
+  "3b4d7171daf01a67d991b4316d06ae7557b47f42ad9183c79971ec0a9415448c": {
+    "first_seen": "2026-05-23T01:13:04.019868",
+    "objects": [
+      {
+        "Naimenovanie": "Сценический костюм  \"Арагонская хота\" испанский, женский",
+        "registerNo": "0007-3992",
+        "OID": "DIO0000857AF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ffe09d94.png",
+    "source_folder": "photos"
   }
 }
