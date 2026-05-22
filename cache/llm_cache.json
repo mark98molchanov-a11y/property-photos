@@ -20542,5 +20542,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8664b621.jpg",
     "source_folder": "photos2"
+  },
+  "36ddee9ac88965ccf2e27c0f13d208ddf276293721665ec763e50101e59744ae": {
+    "first_seen": "2026-05-23T00:49:36.805918",
+    "objects": [
+      {
+        "Naimenovanie": "Кофемашина PHILIPS",
+        "registerNo": "0012-3836",
+        "OID": "DIO0001AD4B6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fdadab82.jpg",
+    "source_folder": "photos3"
+  },
+  "48a434495133f80b85ca4663e7889cc942f2c3aa2c51a1bd143c568aa650e32c": {
+    "first_seen": "2026-05-23T00:49:36.805996",
+    "objects": [
+      {
+        "Naimenovanie": "Кофемашина PHILIPS",
+        "registerNo": "0012-3836",
+        "OID": "DIO0001AD4B6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0c697cc3.jpg",
+    "source_folder": "photos3"
+  },
+  "4fc1bde9842d674b7c44614d0a8dd8f8c3b31310026e875a26ee4b42eb9a57ee": {
+    "first_seen": "2026-05-23T00:49:36.806038",
+    "objects": [
+      {
+        "Naimenovanie": "Кофемашина PHILIPS",
+        "registerNo": "0012-3836",
+        "OID": "DIO0001AD4B6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6e00cef8.jpg",
+    "source_folder": "photos3"
   }
 }
