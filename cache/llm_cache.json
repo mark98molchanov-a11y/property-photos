@@ -21514,5 +21514,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5c20beea.jpg",
     "source_folder": "photos3"
+  },
+  "2e27865a45d161ba11bb63a02bd3c966f7dd8f118c598e05a01e76f6374fe7ec": {
+    "first_seen": "2026-05-23T01:02:00.277190",
+    "objects": [
+      {
+        "Naimenovanie": "Табло результатов малое",
+        "registerNo": "0009-5949",
+        "OID": "DIO00007FD63"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_800e381e.jpg",
+    "source_folder": "photos"
   }
 }
