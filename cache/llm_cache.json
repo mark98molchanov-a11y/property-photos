@@ -23530,5 +23530,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d35e7fb8.jpg",
     "source_folder": "photos3"
+  },
+  "02a73232394adf959c8132380ca3cab003eedf5fda2f4b1b19094b46a9eee772": {
+    "first_seen": "2026-05-23T01:28:55.335764",
+    "objects": [
+      {
+        "Naimenovanie": "Системный блок AgeNT 8400/500",
+        "registerNo": "0010-2325",
+        "OID": "DIO00013085D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d57b8d3e.jpg",
+    "source_folder": "photos2"
   }
 }
