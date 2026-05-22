@@ -14110,5 +14110,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_eb82c90c.jpg",
     "source_folder": "photos2"
+  },
+  "464b3b63640295c53311430fb7c2bf6b0384e060de226f92dd05105e280a8d9e": {
+    "first_seen": "2026-05-22T23:26:52.367182",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор диодный лазер Lasersmile Biolase",
+        "registerNo": "0018-3179",
+        "OID": "DIO00018BA13"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e79352e7.jpg",
+    "source_folder": "photos3"
+  },
+  "aa0e354c1ee0d1349a8fcc02b9d73d86442b353f8f8008d7f37500a18836f0e6": {
+    "first_seen": "2026-05-22T23:26:52.367263",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор диодный лазер Lasersmile Biolase",
+        "registerNo": "0018-3179",
+        "OID": "DIO00018BA13"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2de59fe4.jpg",
+    "source_folder": "photos3"
   }
 }
