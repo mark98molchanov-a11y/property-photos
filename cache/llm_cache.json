@@ -3910,5 +3910,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_29c1c8c3.jpg",
     "source_folder": "photos2"
+  },
+  "27a92663d7acbbb0892b9835cbc0e5b2dd0e52004e0213d2be6754c5004bd8a3": {
+    "first_seen": "2026-05-22T21:08:57.241990",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор реанимационный и анестизиологический для контроля ряда физиологических параметров",
+        "registerNo": "0015-8743",
+        "OID": "DIO00015A985"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7a23b971.png",
+    "source_folder": "photos3"
+  },
+  "5b1ce6fe8be89b44db3e915b274371d0712f52dad5f660508ad378c9cc8e0314": {
+    "first_seen": "2026-05-22T21:08:57.242066",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор реанимационный и анестизиологический для контроля ряда физиологических параметров",
+        "registerNo": "0015-8743",
+        "OID": "DIO00015A985"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d89f5196.png",
+    "source_folder": "photos3"
+  },
+  "760e2cba2d545ec9bee34b51ebea25c36e8a3f76203a7a9b9db9ccf86bde0a87": {
+    "first_seen": "2026-05-22T21:08:57.242109",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор реанимационный и анестизиологический для контроля ряда физиологических параметров",
+        "registerNo": "0015-8743",
+        "OID": "DIO00015A985"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_aac0d050.png",
+    "source_folder": "photos3"
   }
 }
