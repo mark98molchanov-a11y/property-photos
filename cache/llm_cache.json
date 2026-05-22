@@ -3166,5 +3166,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_dfb08c98.jpg",
     "source_folder": "photos2"
+  },
+  "8e6a390417281ce9d9c709c5ff3c0a8e989677b0893c89e7a0a17df72ec526f9": {
+    "first_seen": "2026-05-22T20:58:25.912291",
+    "objects": [
+      {
+        "Naimenovanie": "Стол обеденный",
+        "registerNo": "0890-8051",
+        "OID": "0003001685CA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_23793c52.jpg",
+    "source_folder": "photos"
   }
 }
