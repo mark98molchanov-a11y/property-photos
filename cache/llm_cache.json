@@ -19270,5 +19270,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_09198448.jpg",
     "source_folder": "photos3"
+  },
+  "f271aa85ab5e597fd0a88e46be770222a8f054325ae37be310dbdbd8f517e6f9": {
+    "first_seen": "2026-05-23T00:33:46.080112",
+    "objects": [
+      {
+        "Naimenovanie": "Насос пожарный",
+        "registerNo": "0009-2159",
+        "OID": "DIO0000FE1E4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_bc219218.jpg",
+    "source_folder": "photos2"
   }
 }
