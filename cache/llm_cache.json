@@ -16330,5 +16330,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_03507204.jpg",
     "source_folder": "photos2"
+  },
+  "3ac6e136530930b4a1ffab6f8f9cc28a93f538b567abb340b0fded77159eb419": {
+    "first_seen": "2026-05-22T23:59:50.662851",
+    "objects": [
+      {
+        "Naimenovanie": "Комплект \"Силена\"",
+        "registerNo": "0000-4651",
+        "OID": "DIO00002346E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_09223c1b.jpg",
+    "source_folder": "photos"
+  },
+  "cb28ed4c89ff2364e60f6f530766fe6f5dac71f45c7046ba078ab4e601b3dc44": {
+    "first_seen": "2026-05-22T23:59:50.662927",
+    "objects": [
+      {
+        "Naimenovanie": "Комплект \"Силена\"",
+        "registerNo": "0000-4651",
+        "OID": "DIO00002346E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f2b3875c.jpg",
+    "source_folder": "photos"
   }
 }
