@@ -8698,5 +8698,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_95fd67d4.jpg",
     "source_folder": "photos3"
+  },
+  "a22e65bf1850c6244d07181de266bce612ca528b2033c8b6c7585179e38333a0": {
+    "first_seen": "2026-05-22T22:12:46.847780",
+    "objects": [
+      {
+        "Naimenovanie": "Офисная перегородка",
+        "registerNo": "0899-2488",
+        "OID": "0003010DC0A9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_81e8a96e.jpg",
+    "source_folder": "photos"
+  },
+  "82a16b5e43b13121a77a14e74fb4077b02121ad6986fc716b5ead08c479de88c": {
+    "first_seen": "2026-05-22T22:12:46.847862",
+    "objects": [
+      {
+        "Naimenovanie": "Офисная перегородка",
+        "registerNo": "0899-2488",
+        "OID": "0003010DC0A9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0e2a6209.jpg",
+    "source_folder": "photos"
   }
 }
