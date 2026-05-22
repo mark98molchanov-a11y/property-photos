@@ -3238,5 +3238,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_48d321b3.png",
     "source_folder": "photos3"
+  },
+  "2c5d16d6c69ee376c85d1732fc44d86225d9b4a25329277cb8595def9feb8dad": {
+    "first_seen": "2026-05-22T20:59:47.685428",
+    "objects": [
+      {
+        "Naimenovanie": "Шприц электрический беспроводной Анэджект",
+        "registerNo": "0018-4814",
+        "OID": "DIO00009FC27"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_22eb992a.jpg",
+    "source_folder": "photos2"
   }
 }
