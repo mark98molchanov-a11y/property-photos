@@ -2470,5 +2470,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b12997ea.jpg",
     "source_folder": "photos"
+  },
+  "693fceb88354fa19ef4307911200329785aba9cb7532593bf38f8e6015506087": {
+    "first_seen": "2026-05-22T20:50:00.167800",
+    "objects": [
+      {
+        "Naimenovanie": "Цифровая IP-ATC ",
+        "registerNo": "0014-0947",
+        "OID": "DIO000149159"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6491daee.jpg",
+    "source_folder": "photos3"
+  },
+  "eaa33ff9fd3c36cf6b70c77fefc201365d925f191f621a03e165efd7a0f84286": {
+    "first_seen": "2026-05-22T20:50:00.167870",
+    "objects": [
+      {
+        "Naimenovanie": "Цифровая IP-ATC ",
+        "registerNo": "0014-0947",
+        "OID": "DIO000149159"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9c406293.jpg",
+    "source_folder": "photos3"
+  },
+  "46b34f955ed4f1d2e497cd3c9f0e7242c308a19a95e81c97688dd6ea45741de8": {
+    "first_seen": "2026-05-22T20:50:00.167909",
+    "objects": [
+      {
+        "Naimenovanie": "Цифровая IP-ATC ",
+        "registerNo": "0014-0947",
+        "OID": "DIO000149159"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_891cd0d8.jpg",
+    "source_folder": "photos3"
   }
 }
