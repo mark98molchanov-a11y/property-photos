@@ -4822,5 +4822,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d5d524a4.jpg",
     "source_folder": "photos3"
+  },
+  "e9d0d0211bc66ee6fab536a174e8113151b6fdfbc536d508b11c5ce3e6545ea4": {
+    "first_seen": "2026-05-22T21:20:12.191825",
+    "objects": [
+      {
+        "Naimenovanie": "Цифровой системный телефон KX-T7630RU-B",
+        "registerNo": "0011-7084",
+        "OID": "DIO0000A8F22"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ec54abe5.jpg",
+    "source_folder": "photos2"
   }
 }
