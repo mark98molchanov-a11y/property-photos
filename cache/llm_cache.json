@@ -17806,5 +17806,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a3a19bd4.jpg",
     "source_folder": "photos2"
+  },
+  "c2c40ba1efcdd4655f0981099958584a9d1696dd66837bb542890348c884f02e": {
+    "first_seen": "2026-05-23T00:18:03.927285",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив",
+        "registerNo": "0012-6792",
+        "OID": "DIO0001A06A7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1dacd1f4.jpg",
+    "source_folder": "photos3"
+  },
+  "c01ad4bc1d5be530f9aac4b80d2cb35e0816adee312135af2c66d297f6fc6195": {
+    "first_seen": "2026-05-23T00:18:03.927352",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив",
+        "registerNo": "0012-6792",
+        "OID": "DIO0001A06A7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cb6a22b3.jpg",
+    "source_folder": "photos3"
+  },
+  "8e8e2e148273655656d553dd70e8fb39f3b5d2a89241906930357cb55afa6cb7": {
+    "first_seen": "2026-05-23T00:18:03.927393",
+    "objects": [
+      {
+        "Naimenovanie": "Дисковый массив",
+        "registerNo": "0012-6792",
+        "OID": "DIO0001A06A7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4921fd8c.jpg",
+    "source_folder": "photos3"
   }
 }
