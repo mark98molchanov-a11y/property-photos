@@ -4306,5 +4306,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d6a0a2c6.jpg",
     "source_folder": "photos3"
+  },
+  "2d93498f64a5fef7988de12b8b1ff298c370a99563dd1f031cb722623d5fe761": {
+    "first_seen": "2026-05-22T21:14:20.669873",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор пипеточный многоканальный \"Лайт\"",
+        "registerNo": "0892-0760",
+        "OID": "000300206DC4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_96d07972.jpg",
+    "source_folder": "photos"
+  },
+  "36d03e975cc6b2bb9c4ed5564b4aaf1ed9841f0db1dcb3c5d97e7c9658068035": {
+    "first_seen": "2026-05-22T21:14:20.669987",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор пипеточный многоканальный \"Лайт\"",
+        "registerNo": "0892-0760",
+        "OID": "000300206DC4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fd41c212.jpg",
+    "source_folder": "photos"
+  },
+  "76e1cd0347fe5074322a08feba4b7c7a13a3c6dcd31c078d4d2ff5a590a840a8": {
+    "first_seen": "2026-05-22T21:14:20.670030",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор пипеточный многоканальный \"Лайт\"",
+        "registerNo": "0892-0760",
+        "OID": "000300206DC4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_badc7735.jpg",
+    "source_folder": "photos"
   }
 }
