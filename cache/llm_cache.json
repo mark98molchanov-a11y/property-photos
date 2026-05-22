@@ -11338,5 +11338,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0d5a1bda.jpg",
     "source_folder": "photos"
+  },
+  "ab02fc55ff9ef8b9322e302ed753ec61bc00d4f5ae1639c32c0cba7a27d3e9f6": {
+    "first_seen": "2026-05-22T22:48:08.951440",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель\"HotFrost\" 26Е",
+        "registerNo": "0014-1096",
+        "OID": "DIO00017F075"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1628c88b.jpg",
+    "source_folder": "photos3"
+  },
+  "512fcdd1b193e8aeb881cda7e179eece86d27b8c690bf7dcdf3b4e0e79ace612": {
+    "first_seen": "2026-05-22T22:48:08.951526",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель\"HotFrost\" 26Е",
+        "registerNo": "0014-1096",
+        "OID": "DIO00017F075"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f4f9db92.jpg",
+    "source_folder": "photos3"
+  },
+  "ba07a041ccb34022c3deb145c0888f9759af9427053a82635999e890d637c33b": {
+    "first_seen": "2026-05-22T22:48:08.951567",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель\"HotFrost\" 26Е",
+        "registerNo": "0014-1096",
+        "OID": "DIO00017F075"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d89acec0.jpg",
+    "source_folder": "photos3"
   }
 }
