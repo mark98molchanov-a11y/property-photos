@@ -5182,5 +5182,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f10efb4d.jpg",
     "source_folder": "photos2"
+  },
+  "482c5d6c6d5980fa3db460fc04f756f392e4cdb639fd5258f163d7d1bdfdedc3": {
+    "first_seen": "2026-05-22T21:23:40.600681",
+    "objects": [
+      {
+        "Naimenovanie": "Стол СА-2",
+        "registerNo": "0004-9558",
+        "OID": "DIO00016292E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bfb6d223.jpg",
+    "source_folder": "photos3"
   }
 }
