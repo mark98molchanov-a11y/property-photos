@@ -13642,5 +13642,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_356454ca.jpg",
     "source_folder": "photos2"
+  },
+  "0aa32500a0e57eeec3407ef7a1f66b7df41dee288b717d2c748625a25053ba6e": {
+    "first_seen": "2026-05-22T23:21:43.415423",
+    "objects": [
+      {
+        "Naimenovanie": "Кровать 2-спальная",
+        "registerNo": "0009-5751",
+        "OID": "DIO0001889CC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8f8b6cd6.jpg",
+    "source_folder": "photos3"
   }
 }
