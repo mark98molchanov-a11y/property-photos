@@ -21418,5 +21418,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_eca51369.jpg",
     "source_folder": "photos2"
+  },
+  "f83d25bbb0e3a5954e76b6e72973f933459e5b1fef1b35b6bbe56df00b655900": {
+    "first_seen": "2026-05-23T01:01:12.464193",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер в сборе Pentium 4",
+        "registerNo": "0009-2189",
+        "OID": "DIO00007F596"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ac7cde2f.jpg",
+    "source_folder": "photos"
+  },
+  "6cca2375440f9a297124b18cff1c7daf8412e5b21d4f413e780427cdfe884b4b": {
+    "first_seen": "2026-05-23T01:01:12.464284",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер в сборе Pentium 4",
+        "registerNo": "0009-2189",
+        "OID": "DIO00007F596"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f5111bf1.jpg",
+    "source_folder": "photos"
+  },
+  "a3721542c806af039670e791937ad194364c92e352d2542000fdb789f0d95e09": {
+    "first_seen": "2026-05-23T01:01:12.464337",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер в сборе Pentium 4",
+        "registerNo": "0009-2189",
+        "OID": "DIO00007F596"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ec96d054.jpg",
+    "source_folder": "photos"
+  },
+  "d9329172fb5eb892ef42f6aa8394b9356d124595336f353934105a93104cfe8c": {
+    "first_seen": "2026-05-23T01:01:12.464385",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер в сборе Pentium 4",
+        "registerNo": "0009-2189",
+        "OID": "DIO00007F596"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e32b2e6c.png",
+    "source_folder": "photos"
   }
 }
