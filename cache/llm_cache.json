@@ -9238,5 +9238,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b6f482ae.jpg",
     "source_folder": "photos"
+  },
+  "e28c6a5d639f44ecf96ea1c53a56eb0c4c3dfdb4959b7044bb5d9e14cdbebcb0": {
+    "first_seen": "2026-05-22T22:22:37.800568",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер Ergo Corp 1298 8400(3000)/4096/500/DVD-RWFDD/K+M/black",
+        "registerNo": "0011-3423",
+        "OID": "DIO0000C5A2B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b36f71a7.jpg",
+    "source_folder": "photos2"
   }
 }
