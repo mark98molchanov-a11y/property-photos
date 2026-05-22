@@ -17710,5 +17710,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b5c5529e.jpg",
     "source_folder": "photos3"
+  },
+  "18088f87fa89ba8fb88df6f0e3f58d53b6719d845e740180b0d2b5e34e0e4cd0": {
+    "first_seen": "2026-05-23T00:16:23.442830",
+    "objects": [
+      {
+        "Naimenovanie": "АТС Siemens Hi Path 3700/3750 d 19\"",
+        "registerNo": "0003-9452",
+        "OID": "DIO000040D9D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dff078a9.jpg",
+    "source_folder": "photos"
+  },
+  "14cfcca359e388d7670e0a7e8815b3a8087a495dd29305500117b63c59f968fa": {
+    "first_seen": "2026-05-23T00:16:23.442905",
+    "objects": [
+      {
+        "Naimenovanie": "АТС Siemens Hi Path 3700/3750 d 19\"",
+        "registerNo": "0003-9452",
+        "OID": "DIO000040D9D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fa60074d.jpg",
+    "source_folder": "photos"
   }
 }
