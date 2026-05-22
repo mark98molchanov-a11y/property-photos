@@ -22462,5 +22462,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cdacdc20.webp",
     "source_folder": "photos3"
+  },
+  "d7ad4f6174674965c5320d433db7df7d14299e28350bc1cd916ea8f617710f16": {
+    "first_seen": "2026-05-23T01:14:55.992647",
+    "objects": [
+      {
+        "Naimenovanie": "Делектор Допплер фетальный",
+        "registerNo": "0015-7831",
+        "OID": "DIO0000875FD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_03508057.jpg",
+    "source_folder": "photos"
+  },
+  "7a63c43bb37140c52c5139115b5bd1a984ae5ba35ed1a72ffe5ee6205f32cbf1": {
+    "first_seen": "2026-05-23T01:14:55.992725",
+    "objects": [
+      {
+        "Naimenovanie": "Делектор Допплер фетальный",
+        "registerNo": "0015-7831",
+        "OID": "DIO0000875FD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_9bb53590.jpg",
+    "source_folder": "photos"
+  },
+  "942a79de0adc632a26cc2297b20fb1ed4e5bf4d859525cf62584b88204634b58": {
+    "first_seen": "2026-05-23T01:14:55.992768",
+    "objects": [
+      {
+        "Naimenovanie": "Делектор Допплер фетальный",
+        "registerNo": "0015-7831",
+        "OID": "DIO0000875FD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8e45cf11.jpg",
+    "source_folder": "photos"
   }
 }
