@@ -2842,5 +2842,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_440ee5e4.jpg",
     "source_folder": "photos"
+  },
+  "2902f051718cfcd4ae727890acae2b5e61bcd29df11a8436dc900fc3054c2511": {
+    "first_seen": "2026-05-22T20:53:52.511270",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат УВЧ-70-01А",
+        "registerNo": "0018-7673",
+        "OID": "DIO00009C9FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0ee4c221.jpg",
+    "source_folder": "photos2"
+  },
+  "0ba67646b229c785c140050933fd420821fec12ee8c3694d94c5ea855185756a": {
+    "first_seen": "2026-05-22T20:53:52.511345",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат УВЧ-70-01А",
+        "registerNo": "0018-7673",
+        "OID": "DIO00009C9FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1142618f.jpg",
+    "source_folder": "photos2"
+  },
+  "b705773a63489bd29cc06078c2142d60009c14198c1366dec9c057d20e6a37a2": {
+    "first_seen": "2026-05-22T20:53:52.511387",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат УВЧ-70-01А",
+        "registerNo": "0018-7673",
+        "OID": "DIO00009C9FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f81d2cd1.jpg",
+    "source_folder": "photos2"
+  },
+  "6e8f9921daeddddc7f2e3011a9fb2ab555a1fb76a265e95179e000abd41abef0": {
+    "first_seen": "2026-05-22T20:53:52.511426",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат УВЧ-70-01А",
+        "registerNo": "0018-7673",
+        "OID": "DIO00009C9FF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cfe53c00.jpg",
+    "source_folder": "photos2"
   }
 }
