@@ -5614,5 +5614,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_63a6e2cc.jpg",
     "source_folder": "photos2"
+  },
+  "8645b8b4c47511a1e71ba2c8125d43fb3948646e52982a0e8969c451b56bfa4c": {
+    "first_seen": "2026-05-22T21:28:42.420608",
+    "objects": [
+      {
+        "Naimenovanie": "Комплект штор",
+        "registerNo": "0017-3139",
+        "OID": "DIO000166A91"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8521897b.png",
+    "source_folder": "photos3"
+  },
+  "de7ae58fcba8f03c23ab8b990be2387e47c76d59d33f8e827827d81f4a234009": {
+    "first_seen": "2026-05-22T21:28:42.420682",
+    "objects": [
+      {
+        "Naimenovanie": "Комплект штор",
+        "registerNo": "0017-3139",
+        "OID": "DIO000166A91"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cf2a5e3b.png",
+    "source_folder": "photos3"
   }
 }
