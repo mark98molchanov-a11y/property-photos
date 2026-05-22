@@ -18142,5 +18142,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a70d9f64.jpg",
     "source_folder": "photos"
+  },
+  "08895c513f068804b773ce2236d4ab747f173e98f25bfff80eed202d9d93f61a": {
+    "first_seen": "2026-05-23T00:22:36.881063",
+    "objects": [
+      {
+        "Naimenovanie": "Блок питания Anli DP 15A",
+        "registerNo": "0009-2188",
+        "OID": "DIO0001A1181"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9d890d1f.jpg",
+    "source_folder": "photos3"
   }
 }
