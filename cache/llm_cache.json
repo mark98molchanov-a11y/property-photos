@@ -17734,5 +17734,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fa60074d.jpg",
     "source_folder": "photos"
+  },
+  "992f006f712f04ebc4157fdb8f880d1d68b457e4e044f2543dde76813083a2c0": {
+    "first_seen": "2026-05-23T00:17:02.494888",
+    "objects": [
+      {
+        "Naimenovanie": "Интерактивная доска ",
+        "registerNo": "0020-2475",
+        "OID": "DIO0001A01F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5f95c2c1.jpg",
+    "source_folder": "photos3"
+  },
+  "d1bad028a5ba07eadefa1f669c1f2a2e6131c7b3f6a60cb281825374cd50dfeb": {
+    "first_seen": "2026-05-23T00:17:02.494959",
+    "objects": [
+      {
+        "Naimenovanie": "Интерактивная доска ",
+        "registerNo": "0020-2475",
+        "OID": "DIO0001A01F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_27f4b8ff.jpg",
+    "source_folder": "photos3"
   }
 }
