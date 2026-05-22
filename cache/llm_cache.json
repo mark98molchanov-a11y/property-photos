@@ -22930,5 +22930,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e383f10a.png",
     "source_folder": "photos"
+  },
+  "42fbd3bfe77cf3cae4e632e6c1fd2b67ba964ad54ef7a976643f00da0ff9b2e6": {
+    "first_seen": "2026-05-23T01:20:20.616536",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба ",
+        "registerNo": "0005-5662",
+        "OID": "DIO0001202DC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e10d4e82.jpg",
+    "source_folder": "photos2"
+  },
+  "794d5940aa14d609c5dae29f966f951b7e1ca05b17f715be0f00c66e86f012f0": {
+    "first_seen": "2026-05-23T01:20:20.616608",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба ",
+        "registerNo": "0005-5662",
+        "OID": "DIO0001202DC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8cbaa673.jpg",
+    "source_folder": "photos2"
+  },
+  "e2f06f2d49ee8786bb66a420d06ef5012f10b860e615d91845f1871ab8e72cb8": {
+    "first_seen": "2026-05-23T01:20:20.616652",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба ",
+        "registerNo": "0005-5662",
+        "OID": "DIO0001202DC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ca320d73.jpg",
+    "source_folder": "photos2"
+  },
+  "50177c534cfb1e4db752371efff9a39ffcee81c5e96c5a08b4cb63cb3e9a48af": {
+    "first_seen": "2026-05-23T01:20:20.616699",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба ",
+        "registerNo": "0005-5662",
+        "OID": "DIO0001202DC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_85cb7bcf.jpg",
+    "source_folder": "photos2"
   }
 }
