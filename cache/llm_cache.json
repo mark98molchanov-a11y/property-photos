@@ -12190,5 +12190,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_70ef68e3.jpg",
     "source_folder": "photos3"
+  },
+  "85d7899314aa979c2e535a0add16daaba1d96af0e096a926eab043c1e8d5f5cd": {
+    "first_seen": "2026-05-22T22:58:29.105625",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук \"Dell Latitude e 5520 i5\"",
+        "registerNo": "0020-1547",
+        "OID": "DIO0000D236F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_75d37809.jpg",
+    "source_folder": "photos2"
+  },
+  "850ff51b5ec431b164a7bb0f77aa5dda9b4d90cfcfc1f75e98994d02708fac2f": {
+    "first_seen": "2026-05-22T22:58:29.105699",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук \"Dell Latitude e 5520 i5\"",
+        "registerNo": "0020-1547",
+        "OID": "DIO0000D236F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6baf3aab.jpg",
+    "source_folder": "photos2"
   }
 }
