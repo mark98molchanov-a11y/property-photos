@@ -10942,5 +10942,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9d860d84.png",
     "source_folder": "photos3"
+  },
+  "41340ef8c62a73a16810b838ae73a27b9603ba05971d5c57f08d1edbca28466a": {
+    "first_seen": "2026-05-22T22:43:21.748809",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессорная установка произ. 0,16 м3/мин К1",
+        "registerNo": "0956-6493",
+        "OID": "000301B1F403"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_779bcf92.jpg",
+    "source_folder": "photos"
+  },
+  "782da3de7a6d5cd1dfb7afbef9c8f116a2fbd8ddc6e634cbc2bf18ff70873dff": {
+    "first_seen": "2026-05-22T22:43:21.748897",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессорная установка произ. 0,16 м3/мин К1",
+        "registerNo": "0956-6493",
+        "OID": "000301B1F403"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0559efbd.jpg",
+    "source_folder": "photos"
+  },
+  "f310a3726ce218b9f08811e30c76318a19d5978eb14b1f0a32c6e6c0724f470a": {
+    "first_seen": "2026-05-22T22:43:21.748944",
+    "objects": [
+      {
+        "Naimenovanie": "Компрессорная установка произ. 0,16 м3/мин К1",
+        "registerNo": "0956-6493",
+        "OID": "000301B1F403"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c40b955e.jpg",
+    "source_folder": "photos"
   }
 }
