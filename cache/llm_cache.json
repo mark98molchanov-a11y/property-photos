@@ -19438,5 +19438,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8367066c.jpg",
     "source_folder": "photos"
+  },
+  "67b53bf45b1a505045d574b01fb6d9602439fbcf031c7ec7a0392e2e5cc1579a": {
+    "first_seen": "2026-05-23T00:36:46.958828",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0004-3743",
+        "OID": "DIO0001A69A4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2b7f2758.webp",
+    "source_folder": "photos3"
+  },
+  "cad34fbe2411da36285013f799fc8f6be8101236e530db63bc6266263fb6777b": {
+    "first_seen": "2026-05-23T00:36:46.958907",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0004-3743",
+        "OID": "DIO0001A69A4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_70a1dd41.webp",
+    "source_folder": "photos3"
+  },
+  "551c53bd6f6749a9f8c4094ea458e83fa5956f95e7ffb7da8bbae85098d23e40": {
+    "first_seen": "2026-05-23T00:36:46.958947",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф",
+        "registerNo": "0004-3743",
+        "OID": "DIO0001A69A4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_59e3e04f.webp",
+    "source_folder": "photos3"
   }
 }
