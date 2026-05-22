@@ -4738,5 +4738,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ec9b429f.jpg",
     "source_folder": "photos2"
+  },
+  "d5fe51c2b2674a5ab441ff03c24d9a75c4463cc0cb691a3dc5b5a06a139f7af3": {
+    "first_seen": "2026-05-22T21:19:35.298124",
+    "objects": [
+      {
+        "Naimenovanie": "МФУ Pantum",
+        "registerNo": "0892-4559",
+        "OID": "000300226CEF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f627f579.jpg",
+    "source_folder": "photos"
+  },
+  "ea78783c8504cdf7560b9bf9f7f17f29f700c041aa3536df73713a055862b83e": {
+    "first_seen": "2026-05-22T21:19:35.298194",
+    "objects": [
+      {
+        "Naimenovanie": "МФУ Pantum",
+        "registerNo": "0892-4559",
+        "OID": "000300226CEF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a02f0327.jpg",
+    "source_folder": "photos"
   }
 }
