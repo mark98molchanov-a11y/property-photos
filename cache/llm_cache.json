@@ -16090,5 +16090,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0bb3f43f.png",
     "source_folder": "photos3"
+  },
+  "6746dfd8c9f42f453373239d00c8aad915e06e8ffdc9d61c38d504834a69e1a0": {
+    "first_seen": "2026-05-22T23:55:11.218777",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор суховоздушный ГП 20",
+        "registerNo": "0019-4502",
+        "OID": "DIO0000E48CF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_621f1f19.jpg",
+    "source_folder": "photos2"
   }
 }
