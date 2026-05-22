@@ -3610,5 +3610,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_26665468.png",
     "source_folder": "photos"
+  },
+  "9cdf8f4d048f51d737d7f3781176062c6fe5abaa7fe3fda6b0dffd1bfc410045": {
+    "first_seen": "2026-05-22T21:05:32.957836",
+    "objects": [
+      {
+        "Naimenovanie": "Набор эндоскопический хирургический",
+        "registerNo": "0015-4560",
+        "OID": "DIO000155E63"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fdf5891e.jpg",
+    "source_folder": "photos3"
+  },
+  "d896410426ac4c3befac8982de61aec0957e7da1fe78f7be24e2ae2415fdcbe2": {
+    "first_seen": "2026-05-22T21:05:32.958008",
+    "objects": [
+      {
+        "Naimenovanie": "Набор эндоскопический хирургический",
+        "registerNo": "0015-4560",
+        "OID": "DIO000155E63"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d5be5d7b.jpg",
+    "source_folder": "photos3"
+  },
+  "b3898e93e4f38aebd7a8b2e272bba453d0c3917004d95cdd35fdad9e7172cd10": {
+    "first_seen": "2026-05-22T21:05:32.958086",
+    "objects": [
+      {
+        "Naimenovanie": "Набор эндоскопический хирургический",
+        "registerNo": "0015-4560",
+        "OID": "DIO000155E63"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c41abff6.jpg",
+    "source_folder": "photos3"
   }
 }
