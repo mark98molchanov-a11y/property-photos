@@ -21082,5 +21082,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3eb8c124.jpg",
     "source_folder": "photos"
+  },
+  "8e71715470ec0cd5e54875acceec023fd2f212670aa0b7b46fa5857ef225c428": {
+    "first_seen": "2026-05-23T00:56:25.285478",
+    "objects": [
+      {
+        "Naimenovanie": "Лупа налобная с подсветкой",
+        "registerNo": "0018-3100",
+        "OID": "DIO00010D164"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1037bf9f.jpg",
+    "source_folder": "photos2"
+  },
+  "dee9aacd32033300cd97332bf9a56e61b95c2e28b26bf9dbf51a1b98f36ce477": {
+    "first_seen": "2026-05-23T00:56:25.285599",
+    "objects": [
+      {
+        "Naimenovanie": "Лупа налобная с подсветкой",
+        "registerNo": "0018-3100",
+        "OID": "DIO00010D164"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8ebb6d65.jpg",
+    "source_folder": "photos2"
   }
 }
