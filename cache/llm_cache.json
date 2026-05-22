@@ -14662,5 +14662,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0532f390.jpg",
     "source_folder": "photos3"
+  },
+  "e2eeb0855cb1122471d6b3ef0145fe544f6b51308abf17880dc0f19aa5ef9e08": {
+    "first_seen": "2026-05-22T23:34:33.315320",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель накопительный ER 50-V",
+        "registerNo": "0014-1108",
+        "OID": "DIO0000DE4B0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_edf8fbcf.jpg",
+    "source_folder": "photos2"
+  },
+  "c21dfdf6f20f07110b1608d860fcc15fab38318d5899990799add51f12a68ee1": {
+    "first_seen": "2026-05-22T23:34:33.315394",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель накопительный ER 50-V",
+        "registerNo": "0014-1108",
+        "OID": "DIO0000DE4B0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f3873453.jpg",
+    "source_folder": "photos2"
   }
 }
