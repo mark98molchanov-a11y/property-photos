@@ -17842,5 +17842,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4921fd8c.jpg",
     "source_folder": "photos3"
+  },
+  "0bf5245d3ce14c2e2dda8e9df6317b3f6d50ab03cc8bcb55654432f776260e96": {
+    "first_seen": "2026-05-23T00:19:05.454474",
+    "objects": [
+      {
+        "Naimenovanie": "Сервер с оперативной системой, мышью, клавиатурой",
+        "registerNo": "0011-6995",
+        "OID": "DIO0001A0914"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0e968c25.jpg",
+    "source_folder": "photos3"
+  },
+  "8b9d615be4a7d261ed4ac55da75e65b8cbe5ac4fc5864cc01b7d815df1936702": {
+    "first_seen": "2026-05-23T00:19:05.454676",
+    "objects": [
+      {
+        "Naimenovanie": "Сервер с оперативной системой, мышью, клавиатурой",
+        "registerNo": "0011-6995",
+        "OID": "DIO0001A0914"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5ecf1b17.jpg",
+    "source_folder": "photos3"
   }
 }
