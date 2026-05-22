@@ -11290,5 +11290,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e0cae2a5.jpg",
     "source_folder": "photos"
+  },
+  "890666293d944896627bf825d31cd3c4d46f10ad5e58af3c36a384275dddcfd2": {
+    "first_seen": "2026-05-22T22:47:23.366696",
+    "objects": [
+      {
+        "Naimenovanie": "Моечно-дезинфицирующие машины",
+        "registerNo": "0015-7519",
+        "OID": "DIO00017E6DA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6035aec2.jpg",
+    "source_folder": "photos3"
+  },
+  "761746d7da42afd5cb3a0e47f4a4cd5042bb765e271c0c102c42e8f9842e2091": {
+    "first_seen": "2026-05-22T22:47:23.366771",
+    "objects": [
+      {
+        "Naimenovanie": "Моечно-дезинфицирующие машины",
+        "registerNo": "0015-7519",
+        "OID": "DIO00017E6DA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c5816453.jpg",
+    "source_folder": "photos3"
+  },
+  "e0586de6a3e4f467990a25513c7aa4b4fb43a9419b60d5d75939332119abba33": {
+    "first_seen": "2026-05-22T22:47:23.366813",
+    "objects": [
+      {
+        "Naimenovanie": "Моечно-дезинфицирующие машины",
+        "registerNo": "0015-7519",
+        "OID": "DIO00017E6DA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6b41169e.jpg",
+    "source_folder": "photos3"
   }
 }
