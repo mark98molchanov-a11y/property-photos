@@ -14482,5 +14482,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4bf7b702.jpg",
     "source_folder": "photos"
+  },
+  "04fb942af37c834210dd3e616d049b9f5a66bebf6d368275cb9918ef7fb10817": {
+    "first_seen": "2026-05-22T23:31:55.205639",
+    "objects": [
+      {
+        "Naimenovanie": "Нейбулайзер",
+        "registerNo": "0015-8861",
+        "OID": "DIO0000DDF23"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7e0f2c37.jpg",
+    "source_folder": "photos2"
+  },
+  "88b11bb19509fd2efb632ae48f3fd087d4bf4a70ad19569409c69eec35aa9319": {
+    "first_seen": "2026-05-22T23:31:55.205725",
+    "objects": [
+      {
+        "Naimenovanie": "Нейбулайзер",
+        "registerNo": "0015-8861",
+        "OID": "DIO0000DDF23"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_62da2ef5.jpg",
+    "source_folder": "photos2"
   }
 }
