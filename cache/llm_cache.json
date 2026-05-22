@@ -10450,5 +10450,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_03b986f0.jpg",
     "source_folder": "photos3"
+  },
+  "7a1a1a3514546c5173451bd73baa93141718c54434bdbe261e488073acef9105": {
+    "first_seen": "2026-05-22T22:37:38.311410",
+    "objects": [
+      {
+        "Naimenovanie": "Ножницы секционные",
+        "registerNo": "0956-1688",
+        "OID": "000301AD0755"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f518d750.jpg",
+    "source_folder": "photos"
   }
 }
