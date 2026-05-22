@@ -14974,5 +14974,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8c555761.jpg",
     "source_folder": "photos3"
+  },
+  "fa3a0fd6835b76f5ac6744669c90fa72693fcb38a781cc2e868e2c5c229161db": {
+    "first_seen": "2026-05-22T23:38:41.770487",
+    "objects": [
+      {
+        "Naimenovanie": "Диван",
+        "registerNo": "0009-4426",
+        "OID": "DIO0000DFF08"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c48771a1.jpg",
+    "source_folder": "photos2"
+  },
+  "9ee3331be19b58775bc34627633cb368b602e9289d7ac5740013a1f9d5ab2490": {
+    "first_seen": "2026-05-22T23:38:41.770554",
+    "objects": [
+      {
+        "Naimenovanie": "Диван",
+        "registerNo": "0009-4426",
+        "OID": "DIO0000DFF08"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_dfc44ffa.jpg",
+    "source_folder": "photos2"
+  },
+  "a8644241f0f0bc3e190e7f3465ece59e923326202dd3a7b1a885db824e2de5f7": {
+    "first_seen": "2026-05-22T23:38:41.770592",
+    "objects": [
+      {
+        "Naimenovanie": "Диван",
+        "registerNo": "0009-4426",
+        "OID": "DIO0000DFF08"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_89fb0141.jpg",
+    "source_folder": "photos2"
   }
 }
