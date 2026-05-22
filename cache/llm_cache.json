@@ -8818,5 +8818,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b83feb28.jpg",
     "source_folder": "photos2"
+  },
+  "fbad0202e74b0bd76ae1186c3769b077dbf3a3a06c6a937e5439aaa44b1b45e3": {
+    "first_seen": "2026-05-22T22:16:03.380340",
+    "objects": [
+      {
+        "Naimenovanie": "Носимый рекордер",
+        "registerNo": "0019-0369",
+        "OID": "DIO000175C24"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7585baee.jpg",
+    "source_folder": "photos3"
   }
 }
