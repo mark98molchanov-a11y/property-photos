@@ -17950,5 +17950,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4a6208fc.jpg",
     "source_folder": "photos2"
+  },
+  "8a68b775b97ebc10965c628b5854816976f9c771d246d0c40d5c303202890da0": {
+    "first_seen": "2026-05-23T00:20:21.924951",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф холодильный ШХ-0.8 МС",
+        "registerNo": "0000-5847",
+        "OID": "DIO000044D8B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_38c559f8.jpg",
+    "source_folder": "photos"
+  },
+  "1477f1899436aeb268ccd3aba0f8f6a4a1922d87dc697b54ccdad65f5d5064e6": {
+    "first_seen": "2026-05-23T00:20:21.925071",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф холодильный ШХ-0.8 МС",
+        "registerNo": "0000-5847",
+        "OID": "DIO000044D8B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e1512ed8.jpg",
+    "source_folder": "photos"
+  },
+  "e5447f89bc8050c6b6c10fb3cc47b0f1d5fe285d3d1a5a9eedbf278f74d47065": {
+    "first_seen": "2026-05-23T00:20:21.925132",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф холодильный ШХ-0.8 МС",
+        "registerNo": "0000-5847",
+        "OID": "DIO000044D8B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5f539ac5.jpg",
+    "source_folder": "photos"
+  },
+  "8c5c961f7915a062edc2647767420f82dc724e470d7b5403fe2fb463fbfcb3be": {
+    "first_seen": "2026-05-23T00:20:21.925167",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф холодильный ШХ-0.8 МС",
+        "registerNo": "0000-5847",
+        "OID": "DIO000044D8B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c3fff9df.jpg",
+    "source_folder": "photos"
+  },
+  "56fbb704c4da636802e545226689d7965427901bc3b2d58aafea26e3f4ddd177": {
+    "first_seen": "2026-05-23T00:20:21.925225",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф холодильный ШХ-0.8 МС",
+        "registerNo": "0000-5847",
+        "OID": "DIO000044D8B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_92cd3117.jpg",
+    "source_folder": "photos"
   }
 }
