@@ -8098,5 +8098,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0a13bb6b.png",
     "source_folder": "photos2"
+  },
+  "50fa570b7dcf8b3adcc66657587cbb922e0585edff10e6451cd059698d7534f4": {
+    "first_seen": "2026-05-22T22:05:05.184969",
+    "objects": [
+      {
+        "Naimenovanie": "Насос К-90/20",
+        "registerNo": "0008-3904",
+        "OID": "DIO000171B7A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7fc9961d.png",
+    "source_folder": "photos3"
   }
 }
