@@ -2506,5 +2506,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_891cd0d8.jpg",
     "source_folder": "photos3"
+  },
+  "961958d404f390d8a87f22e3be1ea530e901304fffd408b0c1e707264b058134": {
+    "first_seen": "2026-05-22T20:50:56.324904",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло Sabrina A",
+        "registerNo": "0014-2360",
+        "OID": "DIO00009B28E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4d335cce.jpg",
+    "source_folder": "photos2"
+  },
+  "7e7a695f9d560c67cd664831c5f9cdf0acf841f7da2e659c9dc48717a32751df": {
+    "first_seen": "2026-05-22T20:50:56.324979",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло Sabrina A",
+        "registerNo": "0014-2360",
+        "OID": "DIO00009B28E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0c25ab70.jpg",
+    "source_folder": "photos2"
+  },
+  "68fe5fe306ef9075ec30325ecbe4a305440a76f352ea212febd5dececf0ce0f1": {
+    "first_seen": "2026-05-22T20:50:56.325021",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло Sabrina A",
+        "registerNo": "0014-2360",
+        "OID": "DIO00009B28E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3b3546ad.jpg",
+    "source_folder": "photos2"
+  },
+  "a4cd33d2bf483570872d212488278b9c4bf4e8310d6f61e7969b6a4c496209e3": {
+    "first_seen": "2026-05-22T20:50:56.325057",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло Sabrina A",
+        "registerNo": "0014-2360",
+        "OID": "DIO00009B28E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3c8805ee.jpg",
+    "source_folder": "photos2"
   }
 }
