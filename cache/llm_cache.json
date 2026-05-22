@@ -10246,5 +10246,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e507413f.png",
     "source_folder": "photos"
+  },
+  "09231535fd59bc46c444154f8d9829234b7d9aaba72ebeedb93ff9571759bd1d": {
+    "first_seen": "2026-05-22T22:34:39.665680",
+    "objects": [
+      {
+        "Naimenovanie": "Стол инструментальный двухполочный",
+        "registerNo": "0017-1825",
+        "OID": "DIO00017BBF7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4bc71cac.jpg",
+    "source_folder": "photos3"
   }
 }
