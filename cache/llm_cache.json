@@ -20350,5 +20350,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e27b4e57.jpg",
     "source_folder": "photos2"
+  },
+  "6e1494ffb5ced6603b943593b72618801d6003cc9b7bf2cbbbaba10fdbc0c481": {
+    "first_seen": "2026-05-23T00:48:01.334728",
+    "objects": [
+      {
+        "Naimenovanie": "Многофункциональное устройство",
+        "registerNo": "0015-3342",
+        "OID": "DIO0001AC3C7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_63e36184.jpg",
+    "source_folder": "photos3"
+  },
+  "c68ccdf4daa280e54c799a1a779ca0cd9e5e04f70673dc99400e128335d39ee8": {
+    "first_seen": "2026-05-23T00:48:01.334808",
+    "objects": [
+      {
+        "Naimenovanie": "Многофункциональное устройство",
+        "registerNo": "0015-3342",
+        "OID": "DIO0001AC3C7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c1514ff7.jpg",
+    "source_folder": "photos3"
   }
 }
