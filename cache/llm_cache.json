@@ -21574,5 +21574,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_12622ce0.jpg",
     "source_folder": "photos3"
+  },
+  "2ebe82bea23e390142f752e72b00c7822ba5346d04b20b67280ebba8ee50b8a1": {
+    "first_seen": "2026-05-23T01:02:57.733656",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Toshiba",
+        "registerNo": "0007-2511",
+        "OID": "DIO00008000C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4a2fb092.jpg",
+    "source_folder": "photos"
+  },
+  "764aff4e9263d916e9ea9ce82cabdcda3037586918a67765d76004e4e4126751": {
+    "first_seen": "2026-05-23T01:02:57.733733",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Toshiba",
+        "registerNo": "0007-2511",
+        "OID": "DIO00008000C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ebf6a3c3.jpg",
+    "source_folder": "photos"
+  },
+  "9bfc44d25dd17f720918e631cb9a16243facfd0d671d6c99877ab49e2274ffe8": {
+    "first_seen": "2026-05-23T01:02:57.733776",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Toshiba",
+        "registerNo": "0007-2511",
+        "OID": "DIO00008000C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a64e59b4.jpg",
+    "source_folder": "photos"
+  },
+  "e41820751ed846bbaf5bb4ee5654a60369257609e1fea69c652ba383747cc845": {
+    "first_seen": "2026-05-23T01:02:57.733812",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Toshiba",
+        "registerNo": "0007-2511",
+        "OID": "DIO00008000C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0b592661.jpg",
+    "source_folder": "photos"
+  },
+  "37dab4721fc9879885e2b75d71bcf9e2df659886310b926ef7740c60ffb51156": {
+    "first_seen": "2026-05-23T01:02:57.733849",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Toshiba",
+        "registerNo": "0007-2511",
+        "OID": "DIO00008000C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0a97068d.jpg",
+    "source_folder": "photos"
   }
 }
