@@ -22870,5 +22870,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_11024a4f.jpg",
     "source_folder": "photos"
+  },
+  "4cc8416475e1717d160745cdcc4ed27392dc3466351806ed826862245c7af068": {
+    "first_seen": "2026-05-23T01:19:23.858000",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф низкий (СВК)",
+        "registerNo": "0004-0118",
+        "OID": "DIO00011E8EE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b67f3240.jpg",
+    "source_folder": "photos2"
+  },
+  "ce3ade9382d1c02e72beb204d246f922500549f68a9ce63cbe7b6c3d323caf23": {
+    "first_seen": "2026-05-23T01:19:23.858090",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф низкий (СВК)",
+        "registerNo": "0004-0118",
+        "OID": "DIO00011E8EE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9d29cc92.jpg",
+    "source_folder": "photos2"
+  },
+  "abd00ecdc9f73a1cbaa5035e6a86d2aea0b7ae89b6d89dcf378d520a1013213d": {
+    "first_seen": "2026-05-23T01:19:23.858129",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф низкий (СВК)",
+        "registerNo": "0004-0118",
+        "OID": "DIO00011E8EE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6c026fa6.jpg",
+    "source_folder": "photos2"
   }
 }
