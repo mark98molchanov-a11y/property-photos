@@ -1078,5 +1078,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_742fe51d.jpg",
     "source_folder": "photos2"
+  },
+  "45242f5be735021c8970287d7f8512581d4896a50187ce6cf0a2714aba0fc0e2": {
+    "first_seen": "2026-05-22T20:35:35.752905",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат электротерапевтический",
+        "registerNo": "0014-7415",
+        "OID": "DIO00013CB96"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3552dd2c.jpg",
+    "source_folder": "photos3"
+  },
+  "9caefe8f743f2d146c221cb9c0dc9a19032ac2a36685f6b94df88e895d6f7f22": {
+    "first_seen": "2026-05-22T20:35:35.752979",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат электротерапевтический",
+        "registerNo": "0014-7415",
+        "OID": "DIO00013CB96"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c4ca4cd8.jpg",
+    "source_folder": "photos3"
+  },
+  "abbcb572eb3259b5192a21639284062e25e679c9e28728ed1a1bb1a6076d978e": {
+    "first_seen": "2026-05-22T20:35:35.753021",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат электротерапевтический",
+        "registerNo": "0014-7415",
+        "OID": "DIO00013CB96"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c50ce940.jpg",
+    "source_folder": "photos3"
   }
 }
