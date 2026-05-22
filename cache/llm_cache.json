@@ -14338,5 +14338,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_94d18cd0.jpg",
     "source_folder": "photos"
+  },
+  "8b8dec870ed8a14d54c47b8ff8b1615a43db32dd06bc2ff9a9babfcc4803de2e": {
+    "first_seen": "2026-05-22T23:29:54.171821",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Полимаг-01",
+        "registerNo": "0015-7501",
+        "OID": "DIO00018D4E8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_191ad6f4.jpg",
+    "source_folder": "photos3"
+  },
+  "2937c990a417b876be9cd00a5db53e12649374d76cdb798b54ca0bdb9dbb5c62": {
+    "first_seen": "2026-05-22T23:29:54.171899",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Полимаг-01",
+        "registerNo": "0015-7501",
+        "OID": "DIO00018D4E8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_619b89a6.jpg",
+    "source_folder": "photos3"
   }
 }
