@@ -7222,5 +7222,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_69e74bdd.webp",
     "source_folder": "photos3"
+  },
+  "db91b9c74650a9e54abc640e232f085aecd114ca244b83b8a1b13ba7c81c8f2f": {
+    "first_seen": "2026-05-22T21:51:45.352322",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор-дефибриллятор BeneHeart D3",
+        "registerNo": "0894-2652",
+        "OID": "0003003E533D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_928d146c.jpg",
+    "source_folder": "photos"
+  },
+  "75928d042866dff2fcf93601e936e8efbf650f3923693dacf9c3f214ae7eb4ed": {
+    "first_seen": "2026-05-22T21:51:45.352400",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор-дефибриллятор BeneHeart D3",
+        "registerNo": "0894-2652",
+        "OID": "0003003E533D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e69faefb.jpg",
+    "source_folder": "photos"
+  },
+  "e30a79d1b6de29745de86d11c58cdd3362da1c4387c86569266483fe02d499b2": {
+    "first_seen": "2026-05-22T21:51:45.352442",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор-дефибриллятор BeneHeart D3",
+        "registerNo": "0894-2652",
+        "OID": "0003003E533D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4650d4ae.jpg",
+    "source_folder": "photos"
+  },
+  "32de353f962410d93f59d1d09a42ccf9d125cf1bd87bb85264cae32ca5d50c5f": {
+    "first_seen": "2026-05-22T21:51:45.352496",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор-дефибриллятор BeneHeart D3",
+        "registerNo": "0894-2652",
+        "OID": "0003003E533D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a93beb2a.jpg",
+    "source_folder": "photos"
   }
 }
