@@ -8386,5 +8386,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_118b6aff.jpg",
     "source_folder": "photos3"
+  },
+  "06039ca78a5a1939e8c4dd237b4d21e1b65d2e769823c067ba483f0a3b542b93": {
+    "first_seen": "2026-05-22T22:08:30.568909",
+    "objects": [
+      {
+        "Naimenovanie": "Стол",
+        "registerNo": "0899-2479",
+        "OID": "0003010DC070"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ee477ead.jpg",
+    "source_folder": "photos"
+  },
+  "2a9ef24155538dd01cb52d1ef38a1236c61e5d77cd760125c7408dd64460c1dd": {
+    "first_seen": "2026-05-22T22:08:30.568993",
+    "objects": [
+      {
+        "Naimenovanie": "Стол",
+        "registerNo": "0899-2479",
+        "OID": "0003010DC070"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_285af67d.jpg",
+    "source_folder": "photos"
   }
 }
