@@ -4114,5 +4114,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_53d30e26.jpg",
     "source_folder": "photos"
+  },
+  "3fde2300d3bbb0599dc649b29141457d1020a918eb8625356fec247cf0e59e5b": {
+    "first_seen": "2026-05-22T21:11:57.520438",
+    "objects": [
+      {
+        "Naimenovanie": "Шторы тюлевые",
+        "registerNo": "0016-1925",
+        "OID": "DIO0000A408C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_bc030bcd.png",
+    "source_folder": "photos2"
+  },
+  "2f219d54b0a8233c2379d7032d10ec4abff4dfbf16137f9b9789f6b4278d72e8": {
+    "first_seen": "2026-05-22T21:11:57.520702",
+    "objects": [
+      {
+        "Naimenovanie": "Шторы тюлевые",
+        "registerNo": "0016-1925",
+        "OID": "DIO0000A408C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_03a75f56.png",
+    "source_folder": "photos2"
+  },
+  "2e6948c712bc1939a4853fc45fe0107af8d1607a948151290a515aab4f43315e": {
+    "first_seen": "2026-05-22T21:11:57.520803",
+    "objects": [
+      {
+        "Naimenovanie": "Шторы тюлевые",
+        "registerNo": "0016-1925",
+        "OID": "DIO0000A408C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b5128c43.png",
+    "source_folder": "photos2"
   }
 }
