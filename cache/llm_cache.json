@@ -11614,5 +11614,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b49ead9f.jpg",
     "source_folder": "photos3"
+  },
+  "96455a6f194daac5508a783b05006caaceacd4c397b86b0905a55d4c9ec3be36": {
+    "first_seen": "2026-05-22T22:50:48.389768",
+    "objects": [
+      {
+        "Naimenovanie": "КТП наружной установки мощностью 1000 кВа",
+        "registerNo": "0956-6866",
+        "OID": "000301B25382"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4f1d53cf.jpg",
+    "source_folder": "photos"
   }
 }
