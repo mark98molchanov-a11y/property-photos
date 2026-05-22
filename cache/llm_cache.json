@@ -5410,5 +5410,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cee46a42.jpg",
     "source_folder": "photos3"
+  },
+  "33e74ad2fed824f12b07afac5bce953991f9421ad735c5e0c78fa186847a9993": {
+    "first_seen": "2026-05-22T21:26:35.157394",
+    "objects": [
+      {
+        "Naimenovanie": "Универсальный набор для рефлексотерапии",
+        "registerNo": "0017-2092",
+        "OID": "DIO0000AC0A5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4f28971f.jpg",
+    "source_folder": "photos2"
+  },
+  "ee385cae7fb6b1e68b4989effc80242264960118c829ef96f199be620f4499e8": {
+    "first_seen": "2026-05-22T21:26:35.157509",
+    "objects": [
+      {
+        "Naimenovanie": "Универсальный набор для рефлексотерапии",
+        "registerNo": "0017-2092",
+        "OID": "DIO0000AC0A5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_da31cdf8.jpg",
+    "source_folder": "photos2"
   }
 }
