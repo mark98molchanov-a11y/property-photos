@@ -3598,5 +3598,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8d61860d.jpg",
     "source_folder": "photos3"
+  },
+  "37484c114a746fbbada0052885a24f581f375c3faa5fe009dbf129a3e2b1d0a1": {
+    "first_seen": "2026-05-22T21:04:57.374880",
+    "objects": [
+      {
+        "Naimenovanie": "Концентратор кислородный JAY 10",
+        "registerNo": "0891-3654",
+        "OID": "0003001A38F5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_26665468.png",
+    "source_folder": "photos"
   }
 }
