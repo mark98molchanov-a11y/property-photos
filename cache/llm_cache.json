@@ -20146,5 +20146,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_99b9285d.jpg",
     "source_folder": "photos"
+  },
+  "07c35d149c071cc49d6bbba4d2e04d0a5a05531e3f899d86ee72639c1385f12a": {
+    "first_seen": "2026-05-23T00:45:30.591015",
+    "objects": [
+      {
+        "Naimenovanie": "Медицинская моечно-дезинфицирующая машина DEKOMAT",
+        "registerNo": "0018-3122",
+        "OID": "DIO00010795F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_25c0699b.jpg",
+    "source_folder": "photos2"
+  },
+  "2334e17d1e15082b22e690153a0463c9749cd6170ddade1f9acc123d64f5e7de": {
+    "first_seen": "2026-05-23T00:45:30.591108",
+    "objects": [
+      {
+        "Naimenovanie": "Медицинская моечно-дезинфицирующая машина DEKOMAT",
+        "registerNo": "0018-3122",
+        "OID": "DIO00010795F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4d0f2d4d.jpg",
+    "source_folder": "photos2"
+  },
+  "67f9aabe42d89de745ccd1f8c7202dac18478d57d75529d79e808c5facd85c9a": {
+    "first_seen": "2026-05-23T00:45:30.591157",
+    "objects": [
+      {
+        "Naimenovanie": "Медицинская моечно-дезинфицирующая машина DEKOMAT",
+        "registerNo": "0018-3122",
+        "OID": "DIO00010795F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_62033a7c.jpg",
+    "source_folder": "photos2"
   }
 }
