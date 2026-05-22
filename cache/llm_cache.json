@@ -2014,5 +2014,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b63b87ea.jpg",
     "source_folder": "photos2"
+  },
+  "a6c71aeb06fedcc14ac68f7146fca824164ca648421ac865ccee591fe30997c6": {
+    "first_seen": "2026-05-22T20:44:59.999819",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Acer",
+        "registerNo": "0890-7660",
+        "OID": "0003001642B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ec5a2dac.jpg",
+    "source_folder": "photos"
+  },
+  "81e1fff923a8d807ac3b9a22c5148b690965e08bc730f20247e26e1e6ea3c8aa": {
+    "first_seen": "2026-05-22T20:44:59.999891",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Acer",
+        "registerNo": "0890-7660",
+        "OID": "0003001642B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_42640796.jpg",
+    "source_folder": "photos"
+  },
+  "c0b0de3c574b701b46d9baad0ef2174997ff29be2b6dacf4f522b77a268bd569": {
+    "first_seen": "2026-05-22T20:44:59.999933",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук Acer",
+        "registerNo": "0890-7660",
+        "OID": "0003001642B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e84d4049.jpg",
+    "source_folder": "photos"
   }
 }
