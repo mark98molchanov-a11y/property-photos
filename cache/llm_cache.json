@@ -8302,5 +8302,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dc8190c9.jpg",
     "source_folder": "photos"
+  },
+  "d12d2a35c7d53a82a7a9ddfcf5dcfea4839453ff0076e0f9c6f703a1372b0bb4": {
+    "first_seen": "2026-05-22T22:07:47.354642",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер лазерный \"Samsung SCX-3207\"",
+        "registerNo": "0020-1568",
+        "OID": "DIO000172B04"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_89608e8a.jpg",
+    "source_folder": "photos3"
   }
 }
