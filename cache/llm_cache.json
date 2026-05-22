@@ -20926,5 +20926,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_05e736af.jpg",
     "source_folder": "photos2"
+  },
+  "e2339078002592b891b9612a90f64ac49f3ed151e5b7d34316c0bb95591a5a6e": {
+    "first_seen": "2026-05-23T00:54:58.509010",
+    "objects": [
+      {
+        "Naimenovanie": "Операционный светильник бестеневой",
+        "registerNo": "0015-4824",
+        "OID": "DIO0001AE315"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5902aaa6.jpg",
+    "source_folder": "photos3"
+  },
+  "a31b403128ab5425115a7f40ca883a1e45f488d2c7cac63c784d6a9339cde488": {
+    "first_seen": "2026-05-23T00:54:58.509093",
+    "objects": [
+      {
+        "Naimenovanie": "Операционный светильник бестеневой",
+        "registerNo": "0015-4824",
+        "OID": "DIO0001AE315"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_72488d8d.jpg",
+    "source_folder": "photos3"
   }
 }
