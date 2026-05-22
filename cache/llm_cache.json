@@ -9442,5 +9442,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_df301cdf.jpg",
     "source_folder": "photos"
+  },
+  "80b7645db624c67f5c669358c4f710d2042830887318add8f48cb31d81833f3a": {
+    "first_seen": "2026-05-22T22:24:55.177660",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф закрытый для одежды",
+        "registerNo": "0009-2238",
+        "OID": "DIO000178B94"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9181694b.jpg",
+    "source_folder": "photos3"
   }
 }
