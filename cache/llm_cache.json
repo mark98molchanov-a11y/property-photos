@@ -12730,5 +12730,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_951fa92b.jpg",
     "source_folder": "photos2"
+  },
+  "e1d9c7b803d4b999ccc77bf8036f8d8608c4b4ae53219a23e249eeca1d610ac8": {
+    "first_seen": "2026-05-22T23:10:08.186695",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло \"Танго\"",
+        "registerNo": "0001-4317",
+        "OID": "DIO000183E50"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_94490253.png",
+    "source_folder": "photos3"
+  },
+  "2dc2c15ef8b871e07142404b76a38b1dc5e3ea64070ce53b8647771d11b549c3": {
+    "first_seen": "2026-05-22T23:10:08.186766",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло \"Танго\"",
+        "registerNo": "0001-4317",
+        "OID": "DIO000183E50"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_289905ff.png",
+    "source_folder": "photos3"
+  },
+  "97ada2117a1a16f2157923b942cf3da6b1e4c609f56dbb6844636f3fca6d8da0": {
+    "first_seen": "2026-05-22T23:10:08.186809",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло \"Танго\"",
+        "registerNo": "0001-4317",
+        "OID": "DIO000183E50"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bedf8e3a.png",
+    "source_folder": "photos3"
+  },
+  "b7b0edc6a688d3adda1fde129181f46a49fe332790dc7885bb87eaa5c65cd60f": {
+    "first_seen": "2026-05-22T23:10:08.186846",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло \"Танго\"",
+        "registerNo": "0001-4317",
+        "OID": "DIO000183E50"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7f772a7d.png",
+    "source_folder": "photos3"
   }
 }
