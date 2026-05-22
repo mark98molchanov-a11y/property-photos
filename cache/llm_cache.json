@@ -10606,5 +10606,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a9ba1d78.jpg",
     "source_folder": "photos3"
+  },
+  "5dfa106ca5c64108e16020589b4e08470286fe12abfdbae6d01bf424fe51605d": {
+    "first_seen": "2026-05-22T22:40:39.719649",
+    "objects": [
+      {
+        "Naimenovanie": "Дымомер АВГ-1Д-4,01",
+        "registerNo": "0956-6488",
+        "OID": "000301B1F3E0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0b026b94.jpg",
+    "source_folder": "photos"
+  },
+  "acdb1382d04f6b5c7294ecf1209070c60d88cddbce7030cdbb4eededc0305662": {
+    "first_seen": "2026-05-22T22:40:39.719744",
+    "objects": [
+      {
+        "Naimenovanie": "Дымомер АВГ-1Д-4,01",
+        "registerNo": "0956-6488",
+        "OID": "000301B1F3E0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_709e8fed.jpg",
+    "source_folder": "photos"
+  },
+  "e04a7603b48fc1d29fd6080b621c5713249f1653c7b91c4ec2d3429fde42c577": {
+    "first_seen": "2026-05-22T22:40:39.719791",
+    "objects": [
+      {
+        "Naimenovanie": "Дымомер АВГ-1Д-4,01",
+        "registerNo": "0956-6488",
+        "OID": "000301B1F3E0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_41a74af0.jpg",
+    "source_folder": "photos"
+  },
+  "4ff2646f5a92b2e4d03a502314cad20f1cec7ac4ed63926f14b5e8015e97a036": {
+    "first_seen": "2026-05-22T22:40:39.719835",
+    "objects": [
+      {
+        "Naimenovanie": "Дымомер АВГ-1Д-4,01",
+        "registerNo": "0956-6488",
+        "OID": "000301B1F3E0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1d5b78fe.jpg",
+    "source_folder": "photos"
   }
 }
