@@ -5158,5 +5158,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b373e5a5.jpg",
     "source_folder": "photos"
+  },
+  "eac11aeb59d0fd31559489f0ff6e2c1952f6385fb3bc49bc4f9f75bbc75e33f8": {
+    "first_seen": "2026-05-22T21:23:29.218744",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник Смоленск-3М",
+        "registerNo": "0015-9647",
+        "OID": "DIO0000AA88D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_83fad46f.jpg",
+    "source_folder": "photos2"
+  },
+  "05f40e3088f31f73d051a314b6ef5424f21e7425f9fc18819d140857129ea936": {
+    "first_seen": "2026-05-22T21:23:29.218808",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник Смоленск-3М",
+        "registerNo": "0015-9647",
+        "OID": "DIO0000AA88D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f10efb4d.jpg",
+    "source_folder": "photos2"
   }
 }
