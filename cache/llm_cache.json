@@ -16786,5 +16786,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b203aa77.jpg",
     "source_folder": "photos3"
+  },
+  "5dd38b7a0efca5240c64ec3a3b23a314c24727be6f5855bb31e8efc09c6deb7e": {
+    "first_seen": "2026-05-23T00:06:25.961788",
+    "objects": [
+      {
+        "Naimenovanie": "Спирометр Мicro Lab (Micro Medical Ltd)",
+        "registerNo": "0015-7914",
+        "OID": "DIO0000EC190"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_51bf0749.jpg",
+    "source_folder": "photos2"
+  },
+  "5b5a51800aa219bf2b0b862b17e77d3ab318688dce86c80b7178add5abb88731": {
+    "first_seen": "2026-05-23T00:06:25.961870",
+    "objects": [
+      {
+        "Naimenovanie": "Спирометр Мicro Lab (Micro Medical Ltd)",
+        "registerNo": "0015-7914",
+        "OID": "DIO0000EC190"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4dd9a957.jpg",
+    "source_folder": "photos2"
+  },
+  "0670be2c92ba42279243087be79726ea91a947a1f3d8ad11b92cae82a916f9de": {
+    "first_seen": "2026-05-23T00:06:25.961913",
+    "objects": [
+      {
+        "Naimenovanie": "Спирометр Мicro Lab (Micro Medical Ltd)",
+        "registerNo": "0015-7914",
+        "OID": "DIO0000EC190"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_daa92db1.jpg",
+    "source_folder": "photos2"
   }
 }
