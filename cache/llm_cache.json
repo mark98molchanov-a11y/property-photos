@@ -23422,5 +23422,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_00367740.jpg",
     "source_folder": "photos2"
+  },
+  "f70db9f888cbedb844f2226673c165c6864a839b4106993e840628ba7c2f6f3f": {
+    "first_seen": "2026-05-23T01:26:47.503375",
+    "objects": [
+      {
+        "Naimenovanie": "Аквариум",
+        "registerNo": "0014-8802",
+        "OID": "DIO0001B53E1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_be415102.jpg",
+    "source_folder": "photos3"
+  },
+  "3d4ae40a0874c1330a15195ffb8ae9d8edeab1c453d3fca7a9ec8bd4e6e18549": {
+    "first_seen": "2026-05-23T01:26:47.503446",
+    "objects": [
+      {
+        "Naimenovanie": "Аквариум",
+        "registerNo": "0014-8802",
+        "OID": "DIO0001B53E1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_af1c1196.jpg",
+    "source_folder": "photos3"
   }
 }
