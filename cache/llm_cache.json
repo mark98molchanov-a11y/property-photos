@@ -20830,5 +20830,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_74aaf7be.jpg",
     "source_folder": "photos"
+  },
+  "5208bcd9446e19437f46d46a978e6e40a40c56eba5b9b509628f339f7ea43f4e": {
+    "first_seen": "2026-05-23T00:54:00.179671",
+    "objects": [
+      {
+        "Naimenovanie": "Бегущая строка",
+        "registerNo": "0011-0868",
+        "OID": "DIO0001AE12C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5eb3e605.jpg",
+    "source_folder": "photos3"
+  },
+  "c19f524bfba3fe49fb7cea4ccf9176b49db2d596b6e6feb3c4c9f25c0c725d6e": {
+    "first_seen": "2026-05-23T00:54:00.179917",
+    "objects": [
+      {
+        "Naimenovanie": "Бегущая строка",
+        "registerNo": "0011-0868",
+        "OID": "DIO0001AE12C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c7828ff3.jpg",
+    "source_folder": "photos3"
+  },
+  "2a307e2de05be37279eceacb06a4d5825ff4405026ce3e7005a995cd8ef1f474": {
+    "first_seen": "2026-05-23T00:54:00.179976",
+    "objects": [
+      {
+        "Naimenovanie": "Бегущая строка",
+        "registerNo": "0011-0868",
+        "OID": "DIO0001AE12C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_21fd20c0.jpg",
+    "source_folder": "photos3"
+  },
+  "4df4938abbe90fc61e6a551fde8149c25d194c87702c91435eb072b4785fb4b2": {
+    "first_seen": "2026-05-23T00:54:00.180014",
+    "objects": [
+      {
+        "Naimenovanie": "Бегущая строка",
+        "registerNo": "0011-0868",
+        "OID": "DIO0001AE12C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_09a59d68.jpg",
+    "source_folder": "photos3"
+  },
+  "4383f8f1dab5a52305e565ec1b91b67c3354749a85d39d40d689cc17a992eea1": {
+    "first_seen": "2026-05-23T00:54:00.180058",
+    "objects": [
+      {
+        "Naimenovanie": "Бегущая строка",
+        "registerNo": "0011-0868",
+        "OID": "DIO0001AE12C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_71efbd90.jpg",
+    "source_folder": "photos3"
   }
 }
