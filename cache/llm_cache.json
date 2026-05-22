@@ -14698,5 +14698,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_32591bb2.jpg",
     "source_folder": "photos"
+  },
+  "1ee65913b4841d656093c55af9fe4618a900c20718dba3089676952b17be58c7": {
+    "first_seen": "2026-05-22T23:35:13.720291",
+    "objects": [
+      {
+        "Naimenovanie": "Набор инструментов автомеханика \"АPELAS\"",
+        "registerNo": "0004-9271",
+        "OID": "DIO000190807"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bae8618b.jpg",
+    "source_folder": "photos3"
+  },
+  "69224d67ede4b754b731ae4cd74e74911a46210f3be2650e93b2f06f362dc769": {
+    "first_seen": "2026-05-22T23:35:13.720360",
+    "objects": [
+      {
+        "Naimenovanie": "Набор инструментов автомеханика \"АPELAS\"",
+        "registerNo": "0004-9271",
+        "OID": "DIO000190807"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9bf18fad.jpg",
+    "source_folder": "photos3"
   }
 }
