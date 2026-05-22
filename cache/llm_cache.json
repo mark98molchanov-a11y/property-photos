@@ -12574,5 +12574,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e7f37032.jpg",
     "source_folder": "photos"
+  },
+  "c2eb1fcc3a2e8bed96dd1fc3bb24427ac63216eab2c31f12961ec9f70f781b6d": {
+    "first_seen": "2026-05-22T23:06:02.923063",
+    "objects": [
+      {
+        "Naimenovanie": "Стол письменный с подкатной тумбой",
+        "registerNo": "0019-9966",
+        "OID": "DIO0001828D5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e849168e.jpg",
+    "source_folder": "photos3"
   }
 }
