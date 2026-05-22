@@ -5854,5 +5854,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8bc3ab27.jpg",
     "source_folder": "photos2"
+  },
+  "efb54c862e4c4296da033df3ca759d5b2440f2f44fbed0a0aa16feccd8caaedb": {
+    "first_seen": "2026-05-22T21:30:58.719587",
+    "objects": [
+      {
+        "Naimenovanie": "Ингалятор Вулкан-1",
+        "registerNo": "0015-5073",
+        "OID": "DIO0001676EA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4e9e7c70.jpg",
+    "source_folder": "photos3"
+  },
+  "4059e876b8cc163ff9dca7d7258e45e7b8f9d3943c752fe669e1fe6d92a70a5d": {
+    "first_seen": "2026-05-22T21:30:58.719657",
+    "objects": [
+      {
+        "Naimenovanie": "Ингалятор Вулкан-1",
+        "registerNo": "0015-5073",
+        "OID": "DIO0001676EA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ae7c1330.jpg",
+    "source_folder": "photos3"
   }
 }
