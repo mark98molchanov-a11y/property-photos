@@ -18754,5 +18754,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0fc7e783.jpg",
     "source_folder": "photos2"
+  },
+  "219a8e9ad2f5b327934885506c6e7ac88e06077d13cac18dd2a9064a41f137e2": {
+    "first_seen": "2026-05-23T00:28:13.771642",
+    "objects": [
+      {
+        "Naimenovanie": "Эндодонтичный компьютерный аппарат с микромотором и мини-наконечником ART Technika",
+        "registerNo": "0018-2981",
+        "OID": "DIO0001A3053"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_de381d93.jpg",
+    "source_folder": "photos3"
+  },
+  "177e1f2486442de9f9c4fa2825c45d6b54d737c1ef0fff930d7f951b108f779a": {
+    "first_seen": "2026-05-23T00:28:13.771727",
+    "objects": [
+      {
+        "Naimenovanie": "Эндодонтичный компьютерный аппарат с микромотором и мини-наконечником ART Technika",
+        "registerNo": "0018-2981",
+        "OID": "DIO0001A3053"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_24294ec3.jpg",
+    "source_folder": "photos3"
   }
 }
