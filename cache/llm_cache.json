@@ -9898,5 +9898,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4dcacfa1.jpg",
     "source_folder": "photos2"
+  },
+  "2dee5153682271caecb7e25e99ed48b560f823696090bdba8dc6d4a64020c8b7": {
+    "first_seen": "2026-05-22T22:30:17.946140",
+    "objects": [
+      {
+        "Naimenovanie": "Видеокамера Sony",
+        "registerNo": "0009-2165",
+        "OID": "DIO00017A2C1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_230f3cc1.jpg",
+    "source_folder": "photos3"
   }
 }
