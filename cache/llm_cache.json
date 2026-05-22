@@ -11926,5 +11926,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_947f9f45.jpg",
     "source_folder": "photos2"
+  },
+  "0687a7ccecc348525d48d377a22ab118dfd15f6c1802f753a0ee8bd374b9d981": {
+    "first_seen": "2026-05-22T22:54:52.115754",
+    "objects": [
+      {
+        "Naimenovanie": "Комплекс аппаратно-программный носимый с цифровой записью одно-двух-трехсуточного мониторирования ЭКГ и АД (по Холтеру) Кардиотехника-04",
+        "registerNo": "0018-8085",
+        "OID": "DIO00018154F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_763d4953.jpg",
+    "source_folder": "photos3"
+  },
+  "9d558dc62422c08f678be19f98fc38727ced39618554050dc6bafb566876feaa": {
+    "first_seen": "2026-05-22T22:54:52.115831",
+    "objects": [
+      {
+        "Naimenovanie": "Комплекс аппаратно-программный носимый с цифровой записью одно-двух-трехсуточного мониторирования ЭКГ и АД (по Холтеру) Кардиотехника-04",
+        "registerNo": "0018-8085",
+        "OID": "DIO00018154F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d136e34d.jpg",
+    "source_folder": "photos3"
   }
 }
