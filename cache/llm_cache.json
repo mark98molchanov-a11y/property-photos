@@ -2386,5 +2386,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_54b759f8.jpg",
     "source_folder": "photos"
+  },
+  "7ea5bf1a753a18518d51bc033e059656c6747ae46410c54ab6da5dd2e48fa8ac": {
+    "first_seen": "2026-05-22T20:49:38.449146",
+    "objects": [
+      {
+        "Naimenovanie": "Хирургическая установка INTRAsurg 1000",
+        "registerNo": "0020-1750",
+        "OID": "DIO00009B0E4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ff44b6b2.jpg",
+    "source_folder": "photos2"
+  },
+  "eaedcd486b189c477240fd214791bee3e27b17e838da5f87f162c47aec9df994": {
+    "first_seen": "2026-05-22T20:49:38.449222",
+    "objects": [
+      {
+        "Naimenovanie": "Хирургическая установка INTRAsurg 1000",
+        "registerNo": "0020-1750",
+        "OID": "DIO00009B0E4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_65a6c147.jpg",
+    "source_folder": "photos2"
   }
 }
