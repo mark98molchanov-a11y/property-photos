@@ -4906,5 +4906,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0338eda0.jpg",
     "source_folder": "photos2"
+  },
+  "aba68962d06420e31665e983a157cd73a8a30b28b220ce3ecd7a8a4f47a670f0": {
+    "first_seen": "2026-05-22T21:21:22.214639",
+    "objects": [
+      {
+        "Naimenovanie": "Апекс - локатор Propex Pixi А103000000000",
+        "registerNo": "0892-4661",
+        "OID": "000300226FBA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6b9eefa6.webp",
+    "source_folder": "photos"
+  },
+  "5d2f8e96d7e4e51e81cf5bba4d8db28bc4eeb106c6b7d3b5bb1bcdd9145bb6e7": {
+    "first_seen": "2026-05-22T21:21:22.214721",
+    "objects": [
+      {
+        "Naimenovanie": "Апекс - локатор Propex Pixi А103000000000",
+        "registerNo": "0892-4661",
+        "OID": "000300226FBA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a411aa68.webp",
+    "source_folder": "photos"
   }
 }
