@@ -12586,5 +12586,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e849168e.jpg",
     "source_folder": "photos3"
+  },
+  "450bb3ab7a206d3a9f4f2756889d04ea1a4b79d453c268aa9fb4d3fa957436ff": {
+    "first_seen": "2026-05-22T23:06:29.049549",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка-стойка медицинская",
+        "registerNo": "0019-5527",
+        "OID": "DIO0000D4FAC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f4e074ac.jpg",
+    "source_folder": "photos2"
+  },
+  "902d74bea3cc0c256cb0c22674a55925a94aa8506285d8d875ce0e56f5adb98c": {
+    "first_seen": "2026-05-22T23:06:29.049628",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка-стойка медицинская",
+        "registerNo": "0019-5527",
+        "OID": "DIO0000D4FAC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_bf1c879d.jpg",
+    "source_folder": "photos2"
   }
 }
