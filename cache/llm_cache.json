@@ -11026,5 +11026,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ac649772.jpg",
     "source_folder": "photos3"
+  },
+  "f9064da90995d958349fac255b4ab8b28a5900b5f8db3303dd790ddc68d48983": {
+    "first_seen": "2026-05-22T22:44:45.222844",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор LG 20LA ЖК20  Ф1000950",
+        "registerNo": "0012-2509",
+        "OID": "DIO0000CFCC6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8d7dbb12.jpg",
+    "source_folder": "photos2"
+  },
+  "7338ec569763bd6ded980273658088cc296b6b4f12aefa4e005868441c962094": {
+    "first_seen": "2026-05-22T22:44:45.222928",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор LG 20LA ЖК20  Ф1000950",
+        "registerNo": "0012-2509",
+        "OID": "DIO0000CFCC6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_02a5a2c8.jpg",
+    "source_folder": "photos2"
+  },
+  "90e9a79f74ce8a83d53f0a1b040ec1957e23a62542baf8f056311649e912c589": {
+    "first_seen": "2026-05-22T22:44:45.222973",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор LG 20LA ЖК20  Ф1000950",
+        "registerNo": "0012-2509",
+        "OID": "DIO0000CFCC6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f0867490.jpg",
+    "source_folder": "photos2"
   }
 }
