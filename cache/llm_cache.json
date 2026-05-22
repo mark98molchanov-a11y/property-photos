@@ -3190,5 +3190,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_226f31ff.jpg",
     "source_folder": "photos2"
+  },
+  "c27421f80de36f12bc47742d2762c111ca52a3268fa5ea9c9444573820d8d7b9": {
+    "first_seen": "2026-05-22T20:58:59.691871",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор для измерения параметров гемодинамики",
+        "registerNo": "0015-6374",
+        "OID": "DIO000152F4C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0b27078e.png",
+    "source_folder": "photos3"
+  },
+  "3ef77cd1f43a9ac88e466fc96bcb72ab4feb58a3a84fac0ef2cef80bf3b8308b": {
+    "first_seen": "2026-05-22T20:58:59.691946",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор для измерения параметров гемодинамики",
+        "registerNo": "0015-6374",
+        "OID": "DIO000152F4C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a7a43eaf.png",
+    "source_folder": "photos3"
   }
 }
