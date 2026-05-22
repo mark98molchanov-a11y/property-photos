@@ -16102,5 +16102,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_621f1f19.jpg",
     "source_folder": "photos2"
+  },
+  "59ccd36ae63b39e6d3ffa34782e9c1ec2f2689f2eb5b3692a1e4b78d3da7f8e4": {
+    "first_seen": "2026-05-22T23:55:40.299157",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф для посуды",
+        "registerNo": "0004-1999",
+        "OID": "DIO00001C824"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7318d6ca.jpg",
+    "source_folder": "photos"
   }
 }
