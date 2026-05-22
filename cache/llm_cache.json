@@ -15178,5 +15178,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_48c5ba3e.png",
     "source_folder": "photos2"
+  },
+  "20ff12e68a13d6263c280b6cce5cda6bb13aec410d74cb6d8a8be32ce6f0e895": {
+    "first_seen": "2026-05-22T23:42:16.662815",
+    "objects": [
+      {
+        "Naimenovanie": "Стойка для клиентов",
+        "registerNo": "0004-1798",
+        "OID": "DIO00001C293"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fb7fa163.jpg",
+    "source_folder": "photos"
   }
 }
