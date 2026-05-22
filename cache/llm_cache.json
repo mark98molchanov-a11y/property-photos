@@ -14278,5 +14278,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_aa207690.jpg",
     "source_folder": "photos3"
+  },
+  "3a44f70fdc2df462d4c064edd5944c949153b1e81f197b15371a4cfea56c42d5": {
+    "first_seen": "2026-05-22T23:29:17.037293",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР LasstrJet 1200",
+        "registerNo": "0015-1425",
+        "OID": "DIO0000DC77C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6bd132a2.jpg",
+    "source_folder": "photos2"
+  },
+  "9006b58bc3248b63f667704835e106d6d7837e0452d9d5c4f3d51e1b052d9307": {
+    "first_seen": "2026-05-22T23:29:17.037369",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР LasstrJet 1200",
+        "registerNo": "0015-1425",
+        "OID": "DIO0000DC77C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_945cfe38.jpg",
+    "source_folder": "photos2"
   }
 }
