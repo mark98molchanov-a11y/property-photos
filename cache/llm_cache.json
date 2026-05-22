@@ -17050,5 +17050,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e67f37d5.jpg",
     "source_folder": "photos2"
+  },
+  "26be26d7ab581d041dc73260718e6b8e77a5c02675e8a39533bf08afdd914b88": {
+    "first_seen": "2026-05-23T00:08:27.585572",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф общего назначения",
+        "registerNo": "0001-4502",
+        "OID": "DIO0000339BA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_be1f6ddc.jpg",
+    "source_folder": "photos"
   }
 }
