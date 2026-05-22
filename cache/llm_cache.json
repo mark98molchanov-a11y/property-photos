@@ -20950,5 +20950,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_72488d8d.jpg",
     "source_folder": "photos3"
+  },
+  "455ae64089596e92580ca706e3b0bc366d7da98103c50d6490ce10c4c8245766": {
+    "first_seen": "2026-05-23T00:55:17.182648",
+    "objects": [
+      {
+        "Naimenovanie": "Электросковорода СЭСМ-0,2",
+        "registerNo": "0005-1855",
+        "OID": "DIO00007622E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_52c30673.jpg",
+    "source_folder": "photos"
+  },
+  "f008b7268ef94ff8ee6644fc27dabc00d752fdf430a1036aa8658132ea8696b3": {
+    "first_seen": "2026-05-23T00:55:17.182728",
+    "objects": [
+      {
+        "Naimenovanie": "Электросковорода СЭСМ-0,2",
+        "registerNo": "0005-1855",
+        "OID": "DIO00007622E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_610f4001.jpg",
+    "source_folder": "photos"
   }
 }
