@@ -16750,5 +16750,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_00445b5f.jpg",
     "source_folder": "photos3"
+  },
+  "b135aaf25a2cf1dc0a35f61947504afcc17fe1b7607af48d1f79277f344405e7": {
+    "first_seen": "2026-05-23T00:05:26.476673",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер  HP LJ 9000 DN",
+        "registerNo": "0002-3642",
+        "OID": "DIO00002E08C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_827d22ee.png",
+    "source_folder": "photos"
   }
 }
