@@ -922,5 +922,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8042a972.jpg",
     "source_folder": "photos2"
+  },
+  "0f1b1e97166faf9654fa1847ea74180ed2033e5e17d4e20c9a1cc4e3b0f3c89b": {
+    "first_seen": "2026-05-22T20:34:02.540710",
+    "objects": [
+      {
+        "Naimenovanie": "Стул ",
+        "registerNo": "0890-4936",
+        "OID": "00030015D051"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7c0a8ce1.png",
+    "source_folder": "photos"
   }
 }
