@@ -18010,5 +18010,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_92cd3117.jpg",
     "source_folder": "photos"
+  },
+  "12b7260c7c6f436d0194d843d10d6535087fe5999f6521a2a184da1f5465db22": {
+    "first_seen": "2026-05-23T00:20:59.477988",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ДТ-50-03 \"Тонус\"",
+        "registerNo": "0018-7594",
+        "OID": "DIO0001A0FA7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0a3927b8.jpg",
+    "source_folder": "photos3"
+  },
+  "f822d91ddd30ce1b5077dfa2b349f6ba10218d38356d95672d1b6351815f17a4": {
+    "first_seen": "2026-05-23T00:20:59.478076",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ДТ-50-03 \"Тонус\"",
+        "registerNo": "0018-7594",
+        "OID": "DIO0001A0FA7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_402a1541.jpg",
+    "source_folder": "photos3"
+  },
+  "8e0bdb02c12dff2e0465d252c1cb2d7f95cce4e53801ee25c8260809efcc3ff0": {
+    "first_seen": "2026-05-23T00:20:59.478118",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ДТ-50-03 \"Тонус\"",
+        "registerNo": "0018-7594",
+        "OID": "DIO0001A0FA7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7ef2ad69.jpg",
+    "source_folder": "photos3"
+  },
+  "876f774c07cd5189218beefe9c3b0befd11b677c4e431b83bf18978b46fdd557": {
+    "first_seen": "2026-05-23T00:20:59.478156",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат ДТ-50-03 \"Тонус\"",
+        "registerNo": "0018-7594",
+        "OID": "DIO0001A0FA7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d08299c7.jpg",
+    "source_folder": "photos3"
   }
 }
