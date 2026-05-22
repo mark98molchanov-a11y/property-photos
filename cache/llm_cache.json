@@ -3658,5 +3658,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4f857315.jpg",
     "source_folder": "photos"
+  },
+  "07f6abb7aa85ada31504f85a0bc64e1d41f78fe9690893f6cfd8b3b5c8d48392": {
+    "first_seen": "2026-05-22T21:06:18.206974",
+    "objects": [
+      {
+        "Naimenovanie": "Полка 1000*500+фур-ра, тк-00135401016 (16)",
+        "registerNo": "0910-7573",
+        "OID": "DIO0000A221A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2141b848.jpg",
+    "source_folder": "photos2"
+  },
+  "aab37d852f0a12fddcd27027bf7849491dbf2dcf02ce96492531e2686ab5ce63": {
+    "first_seen": "2026-05-22T21:06:18.207148",
+    "objects": [
+      {
+        "Naimenovanie": "Полка 1000*500+фур-ра, тк-00135401016 (16)",
+        "registerNo": "0910-7573",
+        "OID": "DIO0000A221A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_52d8a8a4.jpg",
+    "source_folder": "photos2"
+  },
+  "42b4dedff6ffdbc3061f5b4f067502eab6cb2a6bf27a1b7860bfdb2f252edcea": {
+    "first_seen": "2026-05-22T21:06:18.207198",
+    "objects": [
+      {
+        "Naimenovanie": "Полка 1000*500+фур-ра, тк-00135401016 (16)",
+        "registerNo": "0910-7573",
+        "OID": "DIO0000A221A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1cee7709.jpg",
+    "source_folder": "photos2"
   }
 }
