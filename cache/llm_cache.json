@@ -11842,5 +11842,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e772c63a.jpg",
     "source_folder": "photos3"
+  },
+  "e731fc83c09a446b8dc5bcd5392ef0320166fac9a2d0884c829f69e1ff34ae43": {
+    "first_seen": "2026-05-22T22:54:27.019801",
+    "objects": [
+      {
+        "Naimenovanie": "Стол руководителя",
+        "registerNo": "0985-3648",
+        "OID": "000302C25474"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_eef89bc1.jpg",
+    "source_folder": "photos"
+  },
+  "8abf09baefd5179391ed76ef806876458ec5c94dfa6840bdff0a2711138977dd": {
+    "first_seen": "2026-05-22T22:54:27.019871",
+    "objects": [
+      {
+        "Naimenovanie": "Стол руководителя",
+        "registerNo": "0985-3648",
+        "OID": "000302C25474"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3feb8596.jpg",
+    "source_folder": "photos"
+  },
+  "bddbca8d1a942f15dd2a4c327c24356e7bdd0892cf864ba4b504db0d27f56afc": {
+    "first_seen": "2026-05-22T22:54:27.019913",
+    "objects": [
+      {
+        "Naimenovanie": "Стол руководителя",
+        "registerNo": "0985-3648",
+        "OID": "000302C25474"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3e6df820.jpg",
+    "source_folder": "photos"
+  },
+  "d681ca8de01df85d47debdf9e3e3e58e9a5082974c1548d22429c95ea8ba6063": {
+    "first_seen": "2026-05-22T22:54:27.019951",
+    "objects": [
+      {
+        "Naimenovanie": "Стол руководителя",
+        "registerNo": "0985-3648",
+        "OID": "000302C25474"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e358c5ed.jpg",
+    "source_folder": "photos"
   }
 }
