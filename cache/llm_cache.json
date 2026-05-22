@@ -16822,5 +16822,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_daa92db1.jpg",
     "source_folder": "photos2"
+  },
+  "084f95fa1be082bb0dc0d382433a521d3012dfeb7f7757105940ea3dab331f9f": {
+    "first_seen": "2026-05-23T00:06:31.060496",
+    "objects": [
+      {
+        "Naimenovanie": "Камера холод. КХН-4",
+        "registerNo": "0000-5631",
+        "OID": "DIO00002FCA8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c2e4991e.jpg",
+    "source_folder": "photos"
+  },
+  "f1df665f522df9aa813ee95f8d92737ef8408c0d9bef28ec8552a8783c598a05": {
+    "first_seen": "2026-05-23T00:06:31.060578",
+    "objects": [
+      {
+        "Naimenovanie": "Камера холод. КХН-4",
+        "registerNo": "0000-5631",
+        "OID": "DIO00002FCA8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6f1cee62.jpg",
+    "source_folder": "photos"
+  },
+  "fcd0d99638dda0b1d55ac75220fec5cc5d66f5186020f965a1dca310a636d93c": {
+    "first_seen": "2026-05-23T00:06:31.060623",
+    "objects": [
+      {
+        "Naimenovanie": "Камера холод. КХН-4",
+        "registerNo": "0000-5631",
+        "OID": "DIO00002FCA8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a7818e9e.jpg",
+    "source_folder": "photos"
+  },
+  "6ff5b225aa570d87614a37b25743de393d301bde6661cae6620ee05dac99f345": {
+    "first_seen": "2026-05-23T00:06:31.060662",
+    "objects": [
+      {
+        "Naimenovanie": "Камера холод. КХН-4",
+        "registerNo": "0000-5631",
+        "OID": "DIO00002FCA8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7e63f84a.jpg",
+    "source_folder": "photos"
+  },
+  "bb5be73c1c10b418e53b7b72e228d810ef3b82f4a077052ad0e884b2b65cd774": {
+    "first_seen": "2026-05-23T00:06:31.060699",
+    "objects": [
+      {
+        "Naimenovanie": "Камера холод. КХН-4",
+        "registerNo": "0000-5631",
+        "OID": "DIO00002FCA8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_92f12de6.jpg",
+    "source_folder": "photos"
   }
 }
