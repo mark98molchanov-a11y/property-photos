@@ -21394,5 +21394,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3bbe97ea.jpg",
     "source_folder": "photos3"
+  },
+  "08657a56dcef69ca99f6cbdb25c42cd270561f10066b025954471be4ead41fe8": {
+    "first_seen": "2026-05-23T01:00:42.299312",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник",
+        "registerNo": "0016-0194",
+        "OID": "DIO00010F7FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_891ce789.jpg",
+    "source_folder": "photos2"
+  },
+  "ca6c8dcb58d08fe9851e29d11c093bd6de3c4ca1db1081858c3e3bdf64dbce84": {
+    "first_seen": "2026-05-23T01:00:42.299386",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник",
+        "registerNo": "0016-0194",
+        "OID": "DIO00010F7FA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_eca51369.jpg",
+    "source_folder": "photos2"
   }
 }
