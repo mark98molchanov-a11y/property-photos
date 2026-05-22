@@ -18838,5 +18838,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_186c8e01.jpg",
     "source_folder": "photos2"
+  },
+  "cd0b93d01e9f20e6c444f10066680a5672b085032f83eee5ee1fb372afb68cf9": {
+    "first_seen": "2026-05-23T00:29:11.245612",
+    "objects": [
+      {
+        "Naimenovanie": "Станок деревообрабатывающий Мастер-Универсал",
+        "registerNo": "0019-4287",
+        "OID": "DIO0001A4703"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_813a1e60.jpg",
+    "source_folder": "photos3"
+  },
+  "efa587aa248dccbb501ddc24d5e551c26aaaa69ff75b2d1d1453c974b06e3f59": {
+    "first_seen": "2026-05-23T00:29:11.245690",
+    "objects": [
+      {
+        "Naimenovanie": "Станок деревообрабатывающий Мастер-Универсал",
+        "registerNo": "0019-4287",
+        "OID": "DIO0001A4703"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_34d755b7.jpg",
+    "source_folder": "photos3"
   }
 }
