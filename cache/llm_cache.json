@@ -21190,5 +21190,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4c75a28e.png",
     "source_folder": "photos2"
+  },
+  "7d3c21d1672b475c416c637a30ce43ce93d5a3a5f25cfa49f24c047961dbaa29": {
+    "first_seen": "2026-05-23T00:58:09.192399",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф TOPAZ BS-390",
+        "registerNo": "0002-4511",
+        "OID": "DIO00007991E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_911982a9.jpg",
+    "source_folder": "photos"
+  },
+  "1aa820c2402ebddf8a5dc02e2ad047bc05eff344a2ab6a891bad5d1a76fb52b7": {
+    "first_seen": "2026-05-23T00:58:09.192491",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф TOPAZ BS-390",
+        "registerNo": "0002-4511",
+        "OID": "DIO00007991E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_587f9c05.jpg",
+    "source_folder": "photos"
+  },
+  "565abce031935177737e2bf0b6b7be054c5ca4c2e1f455a2db03de472ef928a5": {
+    "first_seen": "2026-05-23T00:58:09.192535",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф TOPAZ BS-390",
+        "registerNo": "0002-4511",
+        "OID": "DIO00007991E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_002d1b57.jpg",
+    "source_folder": "photos"
   }
 }
