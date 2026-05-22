@@ -22246,5 +22246,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1a0fe227.jpg",
     "source_folder": "photos"
+  },
+  "80450315c738e79fafaf15da7f2f55dbbf83c5a0be5d798b2c74a78b7f38d490": {
+    "first_seen": "2026-05-23T01:11:13.151718",
+    "objects": [
+      {
+        "Naimenovanie": "Электронный анализатор цвета Chromatis",
+        "registerNo": "0018-3502",
+        "OID": "DIO000116B8D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_159d8885.jpg",
+    "source_folder": "photos2"
+  },
+  "96e5d30f0f70bbf9443c32f61bb70ad74260bae0ec4123cea2d2be9e42bf4b39": {
+    "first_seen": "2026-05-23T01:11:13.151794",
+    "objects": [
+      {
+        "Naimenovanie": "Электронный анализатор цвета Chromatis",
+        "registerNo": "0018-3502",
+        "OID": "DIO000116B8D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_20785a49.jpg",
+    "source_folder": "photos2"
   }
 }
