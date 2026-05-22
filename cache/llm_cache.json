@@ -15862,5 +15862,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8408919b.jpg",
     "source_folder": "photos"
+  },
+  "cd690caec7fa21c3ed012beaf1888a7d305b514da1645c97f73c5c793d4eeec9": {
+    "first_seen": "2026-05-22T23:52:26.126774",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-03",
+        "registerNo": "0015-3417",
+        "OID": "DIO0000E3CB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1e952742.jpg",
+    "source_folder": "photos2"
+  },
+  "6daae4cedf004d8850d57aa220695155e817c847dd7a9607e8fbe57eb8fb1da1": {
+    "first_seen": "2026-05-22T23:52:26.126852",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-03",
+        "registerNo": "0015-3417",
+        "OID": "DIO0000E3CB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_dea799cc.jpg",
+    "source_folder": "photos2"
+  },
+  "4b177aef6f7b4e8147f5f9c2bb93debc03967e570422b810d9dca85d12377072": {
+    "first_seen": "2026-05-22T23:52:26.126894",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-03",
+        "registerNo": "0015-3417",
+        "OID": "DIO0000E3CB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_08af5afa.jpg",
+    "source_folder": "photos2"
+  },
+  "e68d92730959d68332fe988ce7c3c92a9e57a93021e56c6344e361fb73921613": {
+    "first_seen": "2026-05-22T23:52:26.126931",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-03",
+        "registerNo": "0015-3417",
+        "OID": "DIO0000E3CB9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_24d355fe.jpg",
+    "source_folder": "photos2"
   }
 }
