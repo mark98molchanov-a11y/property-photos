@@ -13486,5 +13486,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_23e76da5.jpg",
     "source_folder": "photos3"
+  },
+  "b4b6920097265b2f406d8d0a2788dda7e7e6a21fbba3936c2d4a384e545effad": {
+    "first_seen": "2026-05-22T23:19:55.945668",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель Ballu BWH/S 80 rodon",
+        "registerNo": "1009-8136",
+        "OID": "00030523BFBE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f128a076.png",
+    "source_folder": "photos"
+  },
+  "8b41768dc2bd64f631e1099a47e67a8ba5bf9b576ffb2b8c93624ef3edaf856f": {
+    "first_seen": "2026-05-22T23:19:55.945747",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель Ballu BWH/S 80 rodon",
+        "registerNo": "1009-8136",
+        "OID": "00030523BFBE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f8748baa.jpg",
+    "source_folder": "photos"
+  },
+  "637a19250890d46fd45a7f95a1e1744a4fe3431eb3baebead05d1558f6de7f2e": {
+    "first_seen": "2026-05-22T23:19:55.945793",
+    "objects": [
+      {
+        "Naimenovanie": "Водонагреватель Ballu BWH/S 80 rodon",
+        "registerNo": "1009-8136",
+        "OID": "00030523BFBE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_faae1615.jpg",
+    "source_folder": "photos"
   }
 }
