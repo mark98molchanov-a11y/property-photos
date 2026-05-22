@@ -14902,5 +14902,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_448412c5.jpg",
     "source_folder": "photos"
+  },
+  "bc5a3a1775c2c4eed0ef04792a52796141076cd7e4c30f7f821cf2ed3a680787": {
+    "first_seen": "2026-05-22T23:37:36.737147",
+    "objects": [
+      {
+        "Naimenovanie": "Флагшток",
+        "registerNo": "0009-3120",
+        "OID": "DIO0000DFB9E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_aecb94a7.jpg",
+    "source_folder": "photos2"
+  },
+  "acfb02983dd4263fe269fd060221f875da5cdbbb6b342ea406acd9e845bc7751": {
+    "first_seen": "2026-05-22T23:37:36.737235",
+    "objects": [
+      {
+        "Naimenovanie": "Флагшток",
+        "registerNo": "0009-3120",
+        "OID": "DIO0000DFB9E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_685ee796.jpg",
+    "source_folder": "photos2"
+  },
+  "9bec4f80fbc5c3b4559072bf4f38ce5114e49b19ab401219551893ddfac8ea66": {
+    "first_seen": "2026-05-22T23:37:36.737278",
+    "objects": [
+      {
+        "Naimenovanie": "Флагшток",
+        "registerNo": "0009-3120",
+        "OID": "DIO0000DFB9E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0c4c5f35.jpg",
+    "source_folder": "photos2"
+  },
+  "43e5f37e282bc5f094373e2cbd746a28ff7b262126cf5f202b58e2439eb4579f": {
+    "first_seen": "2026-05-22T23:37:36.737317",
+    "objects": [
+      {
+        "Naimenovanie": "Флагшток",
+        "registerNo": "0009-3120",
+        "OID": "DIO0000DFB9E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e5727997.jpg",
+    "source_folder": "photos2"
   }
 }
