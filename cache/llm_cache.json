@@ -14242,5 +14242,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c9f82b55.jpg",
     "source_folder": "photos"
+  },
+  "4be03e7b897da0cfe7a6f92e7ecba2f09cdde6a8c43b7af6c1f0e59056bc3c93": {
+    "first_seen": "2026-05-22T23:28:58.524198",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Бореал",
+        "registerNo": "0015-5278",
+        "OID": "DIO00018C927"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_19706c2f.jpg",
+    "source_folder": "photos3"
+  },
+  "978e05edf2568a16a0a68631d773e8c3344f2d8451b0c03f338f834f25820482": {
+    "first_seen": "2026-05-22T23:28:58.524275",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Бореал",
+        "registerNo": "0015-5278",
+        "OID": "DIO00018C927"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_25111b57.jpg",
+    "source_folder": "photos3"
+  },
+  "9e51d45624e73251af2c91d953bc08bd095557110a63d3d5b01b3dc39de1f65d": {
+    "first_seen": "2026-05-22T23:28:58.524319",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Бореал",
+        "registerNo": "0015-5278",
+        "OID": "DIO00018C927"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_aa207690.jpg",
+    "source_folder": "photos3"
   }
 }
