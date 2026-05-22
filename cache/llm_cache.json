@@ -11758,5 +11758,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ec547a99.jpg",
     "source_folder": "photos"
+  },
+  "d8aae19561a89504426e36798fa16cf20ed09fb84cf6a7eb34d5bff03265afce": {
+    "first_seen": "2026-05-22T22:53:24.093922",
+    "objects": [
+      {
+        "Naimenovanie": "Размораживатель плазмы РП 4-02",
+        "registerNo": "0019-2642",
+        "OID": "DIO000180759"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c9e871bc.jpg",
+    "source_folder": "photos3"
+  },
+  "c551a27e5cb9c9e1d5d7d0ea59eb71132c16e7c7fb2d828326bd54d99c8536b3": {
+    "first_seen": "2026-05-22T22:53:24.093999",
+    "objects": [
+      {
+        "Naimenovanie": "Размораживатель плазмы РП 4-02",
+        "registerNo": "0019-2642",
+        "OID": "DIO000180759"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6e123651.jpg",
+    "source_folder": "photos3"
   }
 }
