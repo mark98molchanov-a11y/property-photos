@@ -1378,5 +1378,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7a4eff6d.jpg",
     "source_folder": "photos3"
+  },
+  "cb9025ad6934059a1f4ffb7499b921d51550593c74b6b3c66eff4185f83c924f": {
+    "first_seen": "2026-05-22T20:38:33.698255",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф цифровой многоканальный iMAC 12",
+        "registerNo": "0890-5820",
+        "OID": "00030015F12B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_602ecd71.jpg",
+    "source_folder": "photos"
+  },
+  "2568d85e4dfc031b29e5442f9246b00f7506745a0cecd2032046e66a4311c737": {
+    "first_seen": "2026-05-22T20:38:33.698335",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф цифровой многоканальный iMAC 12",
+        "registerNo": "0890-5820",
+        "OID": "00030015F12B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_67f9895f.jpg",
+    "source_folder": "photos"
+  },
+  "647b7289fae33b492e5f69ef43431b9b0c964f385e71578dcfc2a88af14f4c3b": {
+    "first_seen": "2026-05-22T20:38:33.698375",
+    "objects": [
+      {
+        "Naimenovanie": "Электрокардиограф цифровой многоканальный iMAC 12",
+        "registerNo": "0890-5820",
+        "OID": "00030015F12B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_716467ee.jpg",
+    "source_folder": "photos"
   }
 }
