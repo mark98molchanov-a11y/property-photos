@@ -14458,5 +14458,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_fe0977b5.jpg",
     "source_folder": "photos"
+  },
+  "50e84f13118e5755f9518233df90dae75d44fc5bd477dda16d06014ce9760ebf": {
+    "first_seen": "2026-05-22T23:31:39.122968",
+    "objects": [
+      {
+        "Naimenovanie": "Штатив на 5 колесиках",
+        "registerNo": "0019-7548",
+        "OID": "DIO00018EC38"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_74ba0dfc.jpg",
+    "source_folder": "photos3"
   }
 }
