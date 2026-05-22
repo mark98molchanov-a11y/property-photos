@@ -19210,5 +19210,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2d24e096.jpg",
     "source_folder": "photos"
+  },
+  "866e5195b11b9ffd963c33c7d21c29ea79b589ddf487e3ea1a7d4c598baef805": {
+    "first_seen": "2026-05-23T00:32:58.064815",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка с зеркалом",
+        "registerNo": "0005-5499",
+        "OID": "DIO0000FC115"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d13a2a35.jpg",
+    "source_folder": "photos2"
+  },
+  "8d0b9950b29c3f1afac8923eb17ec54cb99f86c6c429daa361c85addad77671f": {
+    "first_seen": "2026-05-23T00:32:58.064897",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка с зеркалом",
+        "registerNo": "0005-5499",
+        "OID": "DIO0000FC115"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_faf03719.jpg",
+    "source_folder": "photos2"
+  },
+  "a0c4542f10ffe100a848c02dd9e43de48a71f3a6cc17e5def114b06d487aa6e8": {
+    "first_seen": "2026-05-23T00:32:58.064937",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка с зеркалом",
+        "registerNo": "0005-5499",
+        "OID": "DIO0000FC115"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_748275bb.jpg",
+    "source_folder": "photos2"
   }
 }
