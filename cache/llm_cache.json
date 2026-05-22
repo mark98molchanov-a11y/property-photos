@@ -1738,5 +1738,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_28304c3b.jpg",
     "source_folder": "photos2"
+  },
+  "17d4f19a798cf50aa4a3b5b6db66d059c1c27ff2185e5555648efe3cc7be3164": {
+    "first_seen": "2026-05-22T20:41:31.489733",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Полюс-2М",
+        "registerNo": "0015-8898",
+        "OID": "DIO000141131"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_151f81d8.jpg",
+    "source_folder": "photos3"
+  },
+  "9d27c21b2cc017d780b06f420ff4cc40808e673558df6ba3ee4ae40611cb0576": {
+    "first_seen": "2026-05-22T20:41:31.489812",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Полюс-2М",
+        "registerNo": "0015-8898",
+        "OID": "DIO000141131"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_507bf490.jpg",
+    "source_folder": "photos3"
+  },
+  "03489e230e5e9c9ffde1ed5164c8843f4555c5912e28776f2c1afee555dd3311": {
+    "first_seen": "2026-05-22T20:41:31.489855",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат Полюс-2М",
+        "registerNo": "0015-8898",
+        "OID": "DIO000141131"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7fe62ba0.jpg",
+    "source_folder": "photos3"
   }
 }
