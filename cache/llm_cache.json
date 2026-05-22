@@ -13414,5 +13414,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_bcb922d2.jpg",
     "source_folder": "photos2"
+  },
+  "c5da4e1b360d836f416a0cef74efc4f7afef12f220e675bd3c37a8a9299064c1": {
+    "first_seen": "2026-05-22T23:19:02.949953",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук NB Lenovo IdeaPad 330-17IKB/81DK001VRU",
+        "registerNo": "1009-8026",
+        "OID": "00030523BCBC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2fb27a28.jpg",
+    "source_folder": "photos"
+  },
+  "bdcb9db0e2ea7ab4a52c1f3e4ea60ae6b6763d9bef749e2efe6c1cfbe9f1588c": {
+    "first_seen": "2026-05-22T23:19:02.950024",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук NB Lenovo IdeaPad 330-17IKB/81DK001VRU",
+        "registerNo": "1009-8026",
+        "OID": "00030523BCBC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f16fafee.jpg",
+    "source_folder": "photos"
+  },
+  "2fa52169610be1c0781a28e28f4c1d2b22e866f10a81493c9dd53facde1b2974": {
+    "first_seen": "2026-05-22T23:19:02.950066",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук NB Lenovo IdeaPad 330-17IKB/81DK001VRU",
+        "registerNo": "1009-8026",
+        "OID": "00030523BCBC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8cf92caf.jpg",
+    "source_folder": "photos"
   }
 }
