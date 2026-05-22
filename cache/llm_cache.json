@@ -11590,5 +11590,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_452c6b62.jpg",
     "source_folder": "photos2"
+  },
+  "8cc054cba561ac5ef11e86f67b21e64878b33ad06bb31f45428a73b765ecf58e": {
+    "first_seen": "2026-05-22T22:50:15.282890",
+    "objects": [
+      {
+        "Naimenovanie": "Дистиллятор ДЭ-10",
+        "registerNo": "0015-7527",
+        "OID": "DIO00017F340"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_50411f6c.jpg",
+    "source_folder": "photos3"
+  },
+  "a8cf2a8cfc180222e54b4a3070365230a8b5f9d8e3db55e20224fee730f6884e": {
+    "first_seen": "2026-05-22T22:50:15.282977",
+    "objects": [
+      {
+        "Naimenovanie": "Дистиллятор ДЭ-10",
+        "registerNo": "0015-7527",
+        "OID": "DIO00017F340"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b49ead9f.jpg",
+    "source_folder": "photos3"
   }
 }
