@@ -3586,5 +3586,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8826db46.webp",
     "source_folder": "photos2"
+  },
+  "38b402fd3509dc4c08ed89fa792e6a60ac84334e26f334ec9eef431449603aaf": {
+    "first_seen": "2026-05-22T21:04:46.393000",
+    "objects": [
+      {
+        "Naimenovanie": "Тепловентилятор",
+        "registerNo": "0009-2099",
+        "OID": "DIO000155782"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8d61860d.jpg",
+    "source_folder": "photos3"
   }
 }
