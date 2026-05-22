@@ -21790,5 +21790,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a7a39ffc.jpg",
     "source_folder": "photos2"
+  },
+  "e050732b40ecb87102aeea8a80d8ebb948b113db9f1cd52ceef7f283e834fc96": {
+    "first_seen": "2026-05-23T01:04:38.122953",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба 4-х секционная",
+        "registerNo": "0009-2224",
+        "OID": "DIO000081138"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ba53fcdd.jpg",
+    "source_folder": "photos"
   }
 }
