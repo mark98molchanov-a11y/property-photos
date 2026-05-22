@@ -5734,5 +5734,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0260e38f.jpg",
     "source_folder": "photos"
+  },
+  "c71cb177c4ec742d4e40fa93c16a05f2264ca05ed99331159f00bf1d0effa5b9": {
+    "first_seen": "2026-05-22T21:29:52.030596",
+    "objects": [
+      {
+        "Naimenovanie": "Подсветка фассадов зданий",
+        "registerNo": "0011-0514",
+        "OID": "DIO0000ACE57"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b87d391c.jpg",
+    "source_folder": "photos2"
+  },
+  "d3e0abb873e16c583bd711a6d7c890d397b8ac9ea26f220e294fdcf727834400": {
+    "first_seen": "2026-05-22T21:29:52.030664",
+    "objects": [
+      {
+        "Naimenovanie": "Подсветка фассадов зданий",
+        "registerNo": "0011-0514",
+        "OID": "DIO0000ACE57"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7042b9de.jpg",
+    "source_folder": "photos2"
+  },
+  "d11568866007a5d647003081fffa78ba95c1bcaa11ac61757cfe98ababeaf562": {
+    "first_seen": "2026-05-22T21:29:52.030705",
+    "objects": [
+      {
+        "Naimenovanie": "Подсветка фассадов зданий",
+        "registerNo": "0011-0514",
+        "OID": "DIO0000ACE57"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5d2e9c0a.jpg",
+    "source_folder": "photos2"
+  },
+  "51b59eef28695d485e1f0c8a0a50fb382e5808f9a32e0cdc49d4b71815c8c337": {
+    "first_seen": "2026-05-22T21:29:52.030742",
+    "objects": [
+      {
+        "Naimenovanie": "Подсветка фассадов зданий",
+        "registerNo": "0011-0514",
+        "OID": "DIO0000ACE57"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0bf92205.jpg",
+    "source_folder": "photos2"
+  },
+  "c2b00f35387fbfb6ea6e88402485da868b3f0f71a5dc5144b3969cbb49df9839": {
+    "first_seen": "2026-05-22T21:29:52.030777",
+    "objects": [
+      {
+        "Naimenovanie": "Подсветка фассадов зданий",
+        "registerNo": "0011-0514",
+        "OID": "DIO0000ACE57"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f2ba94c4.jpg",
+    "source_folder": "photos2"
   }
 }
