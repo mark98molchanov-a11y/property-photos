@@ -15910,5 +15910,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_24d355fe.jpg",
     "source_folder": "photos2"
+  },
+  "0bef886ede570c0c3ad75a619943686f6c22fea3da29014e88721ec18ab1b211": {
+    "first_seen": "2026-05-22T23:52:42.279377",
+    "objects": [
+      {
+        "Naimenovanie": "Ковры салона Toyota ",
+        "registerNo": "0014-1980",
+        "OID": "DIO000196EE0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5aaa4a83.png",
+    "source_folder": "photos3"
+  },
+  "d421f4bc7797a4f7b2ba1d5e322b0dc9823e1ec4a594991a882d67c525874d34": {
+    "first_seen": "2026-05-22T23:52:42.279445",
+    "objects": [
+      {
+        "Naimenovanie": "Ковры салона Toyota ",
+        "registerNo": "0014-1980",
+        "OID": "DIO000196EE0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a58bb02a.png",
+    "source_folder": "photos3"
   }
 }
