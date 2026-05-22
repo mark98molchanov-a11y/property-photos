@@ -12358,5 +12358,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f5b684fe.jpg",
     "source_folder": "photos"
+  },
+  "baf2374e4e729e2c150a09aa32a0efdb7c2ae1dca20e6ddd1ac52019821a047d": {
+    "first_seen": "2026-05-22T23:02:20.105274",
+    "objects": [
+      {
+        "Naimenovanie": "Экстрактор желчного пузыря",
+        "registerNo": "0015-4837",
+        "OID": "DIO0000D3C07"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_61401240.jpg",
+    "source_folder": "photos2"
   }
 }
