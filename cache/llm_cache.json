@@ -10510,5 +10510,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f587305b.jpg",
     "source_folder": "photos"
+  },
+  "a966ed1c0e0430d736d209f2efd211bdbbe70af6a3f9c9e93e55e35734945cff": {
+    "first_seen": "2026-05-22T22:38:47.591278",
+    "objects": [
+      {
+        "Naimenovanie": "Дрель мед. ДМ-2 ",
+        "registerNo": "0015-5179",
+        "OID": "DIO0000CC19D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5995db6b.png",
+    "source_folder": "photos2"
+  },
+  "e306b205d528507ea8cfaa49cf8e005b84e1de439b98573bb6b4abfca37fe25a": {
+    "first_seen": "2026-05-22T22:38:47.591361",
+    "objects": [
+      {
+        "Naimenovanie": "Дрель мед. ДМ-2 ",
+        "registerNo": "0015-5179",
+        "OID": "DIO0000CC19D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_96106cd7.png",
+    "source_folder": "photos2"
   }
 }
