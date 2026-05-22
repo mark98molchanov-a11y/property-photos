@@ -10414,5 +10414,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_049cf044.jpg",
     "source_folder": "photos2"
+  },
+  "27a3c604932aa0ec86fdbfa861abcafa9112614db9af8cc62fd703529c011bab": {
+    "first_seen": "2026-05-22T22:37:46.542877",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор Viridia M4 M3046A",
+        "registerNo": "0018-9672",
+        "OID": "DIO00017D431"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bad68bd3.jpg",
+    "source_folder": "photos3"
+  },
+  "9439ddde144f21ebcd417883cc12386de5e973688a16b30e361f384d59346cd0": {
+    "first_seen": "2026-05-22T22:37:46.542972",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор Viridia M4 M3046A",
+        "registerNo": "0018-9672",
+        "OID": "DIO00017D431"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_62dd94cd.jpg",
+    "source_folder": "photos3"
+  },
+  "f5a3ca94fb2f42408dfd3a276add838fbbee8a40a1765c594cf16c0e412261ac": {
+    "first_seen": "2026-05-22T22:37:46.543014",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор Viridia M4 M3046A",
+        "registerNo": "0018-9672",
+        "OID": "DIO00017D431"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_03b986f0.jpg",
+    "source_folder": "photos3"
   }
 }
