@@ -9022,5 +9022,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6b008931.jpg",
     "source_folder": "photos3"
+  },
+  "1488547b821d73bb89524ac54f0ef84840dc8a321136203ea6d6ca15d291af70": {
+    "first_seen": "2026-05-22T22:20:05.983450",
+    "objects": [
+      {
+        "Naimenovanie": "Центрифуга напольная",
+        "registerNo": "0015-5962",
+        "OID": "DIO0000C5006"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3e731df1.jpg",
+    "source_folder": "photos2"
+  },
+  "82c3c75b01e4571fbc49f87e68449f0779bdbc230323c217a9a0cd197a82af5b": {
+    "first_seen": "2026-05-22T22:20:05.983548",
+    "objects": [
+      {
+        "Naimenovanie": "Центрифуга напольная",
+        "registerNo": "0015-5962",
+        "OID": "DIO0000C5006"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_df432737.jpg",
+    "source_folder": "photos2"
+  },
+  "ec71f96cbde2b71cc9d26b41d77039970c57c607f7f722add1a77009cf4c83d8": {
+    "first_seen": "2026-05-22T22:20:05.983593",
+    "objects": [
+      {
+        "Naimenovanie": "Центрифуга напольная",
+        "registerNo": "0015-5962",
+        "OID": "DIO0000C5006"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_0ebbb5a9.jpg",
+    "source_folder": "photos2"
   }
 }
