@@ -13054,5 +13054,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e3463600.jpg",
     "source_folder": "photos3"
+  },
+  "4594d5b2bd92c9074201e45e1ab1576df1b7779764fbdf7daa077a18547e9264": {
+    "first_seen": "2026-05-22T23:14:21.497833",
+    "objects": [
+      {
+        "Naimenovanie": "Системный телефон \"Panasonic\"",
+        "registerNo": "0020-1564",
+        "OID": "DIO0000D8A94"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_fc3592f9.jpg",
+    "source_folder": "photos2"
+  },
+  "0d08d9eb850533913b3563aa887d7d277c8c5b72d9049d15c99b8c74e966cd3c": {
+    "first_seen": "2026-05-22T23:14:21.497911",
+    "objects": [
+      {
+        "Naimenovanie": "Системный телефон \"Panasonic\"",
+        "registerNo": "0020-1564",
+        "OID": "DIO0000D8A94"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_be492660.jpg",
+    "source_folder": "photos2"
   }
 }
