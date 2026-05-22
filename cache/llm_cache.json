@@ -18502,5 +18502,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_12bb41e0.jpg",
     "source_folder": "photos"
+  },
+  "e6faaa59f5fe3d883a816a0904bd4a491e7c8a9adb37ca1068c6b8bec7320a04": {
+    "first_seen": "2026-05-23T00:25:52.583413",
+    "objects": [
+      {
+        "Naimenovanie": "Паровой стерилизатор стеривал 6612-2",
+        "registerNo": "0015-6320",
+        "OID": "DIO0001A2736"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_772420f5.jpg",
+    "source_folder": "photos3"
+  },
+  "f60d8646b6086ec210bc892749539547cac240b439960e979c9583cd773a210d": {
+    "first_seen": "2026-05-23T00:25:52.583508",
+    "objects": [
+      {
+        "Naimenovanie": "Паровой стерилизатор стеривал 6612-2",
+        "registerNo": "0015-6320",
+        "OID": "DIO0001A2736"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_83249a45.jpg",
+    "source_folder": "photos3"
+  },
+  "d852995ab526725eaf17c9dd360cdc3cd7740910aed81fb37fd13bc4757aa8e8": {
+    "first_seen": "2026-05-23T00:25:52.583552",
+    "objects": [
+      {
+        "Naimenovanie": "Паровой стерилизатор стеривал 6612-2",
+        "registerNo": "0015-6320",
+        "OID": "DIO0001A2736"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_03a9685a.jpg",
+    "source_folder": "photos3"
   }
 }
