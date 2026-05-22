@@ -10678,5 +10678,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1a1f3641.jpg",
     "source_folder": "photos2"
+  },
+  "e34f3e16caf00ae5642a267b38a4e1a8bd9c1b99de0f3aa0373fc6ad25dd97be": {
+    "first_seen": "2026-05-22T22:41:15.585884",
+    "objects": [
+      {
+        "Naimenovanie": "Лазерная медицинская система Opus Duo",
+        "registerNo": "0018-3092",
+        "OID": "DIO00017D780"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f6461c3d.jpg",
+    "source_folder": "photos3"
+  },
+  "dd0c7243fb492de22564647e00bda2b20fe432a27bd67c2084f756e3e9b82c1d": {
+    "first_seen": "2026-05-22T22:41:15.585963",
+    "objects": [
+      {
+        "Naimenovanie": "Лазерная медицинская система Opus Duo",
+        "registerNo": "0018-3092",
+        "OID": "DIO00017D780"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e7f6aad2.jpg",
+    "source_folder": "photos3"
   }
 }
