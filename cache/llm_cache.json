@@ -13090,5 +13090,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e65751f3.jpg",
     "source_folder": "photos"
+  },
+  "25eb0c52ea4313e93ecb28f078be03c94daafcf5b6c575aa33c435dc4665bb3a": {
+    "first_seen": "2026-05-22T23:15:12.983818",
+    "objects": [
+      {
+        "Naimenovanie": "Негатоскоп НЦП-2",
+        "registerNo": "0019-0325",
+        "OID": "DIO000184FF8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1547c74a.jpg",
+    "source_folder": "photos3"
+  },
+  "060cd4a41d05e6d197c2f94b052691410581117c3cf0f15126b36ee86e1be823": {
+    "first_seen": "2026-05-22T23:15:12.983898",
+    "objects": [
+      {
+        "Naimenovanie": "Негатоскоп НЦП-2",
+        "registerNo": "0019-0325",
+        "OID": "DIO000184FF8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7b68e318.jpg",
+    "source_folder": "photos3"
+  },
+  "069866d2615d2562e462939fdf0b2a6d7bb0ac65ab56a577c90b9e2c86f17707": {
+    "first_seen": "2026-05-22T23:15:12.983938",
+    "objects": [
+      {
+        "Naimenovanie": "Негатоскоп НЦП-2",
+        "registerNo": "0019-0325",
+        "OID": "DIO000184FF8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7bbb4a4f.jpg",
+    "source_folder": "photos3"
   }
 }
