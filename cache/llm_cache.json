@@ -4342,5 +4342,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_badc7735.jpg",
     "source_folder": "photos"
+  },
+  "be7e29a6cc96dc6c9158765ad747cb5d5c41882227059ff2755ea512d9ec5be4": {
+    "first_seen": "2026-05-22T21:14:45.298670",
+    "objects": [
+      {
+        "Naimenovanie": "Аспиратор вакуумный",
+        "registerNo": "0015-8119",
+        "OID": "DIO0000A6D11"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8854b104.png",
+    "source_folder": "photos2"
+  },
+  "56fb26b0b2c25d786738d63258a0fc3711df71b444ca0509b0f74d3a3a020c85": {
+    "first_seen": "2026-05-22T21:14:45.298740",
+    "objects": [
+      {
+        "Naimenovanie": "Аспиратор вакуумный",
+        "registerNo": "0015-8119",
+        "OID": "DIO0000A6D11"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cf5529b1.png",
+    "source_folder": "photos2"
+  },
+  "c3e6c361c7a377279ad11522c5192c31b115fa4ed2ee1b29aa28cefaebb9b27d": {
+    "first_seen": "2026-05-22T21:14:45.298782",
+    "objects": [
+      {
+        "Naimenovanie": "Аспиратор вакуумный",
+        "registerNo": "0015-8119",
+        "OID": "DIO0000A6D11"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_da35122d.png",
+    "source_folder": "photos2"
   }
 }
