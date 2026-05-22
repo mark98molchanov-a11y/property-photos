@@ -22582,5 +22582,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_58b29b5f.jpg",
     "source_folder": "photos2"
+  },
+  "7aeda8450377d14a8da7f65bda912d27927a55fdc376b84746b2ce0381d3887d": {
+    "first_seen": "2026-05-23T01:16:04.714359",
+    "objects": [
+      {
+        "Naimenovanie": "Видеокамера",
+        "registerNo": "0018-9971",
+        "OID": "DIO0001B26DF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_68d824e0.jpg",
+    "source_folder": "photos3"
+  },
+  "15ca61dab0bbe8f9e2b17ea6c5f222b7fdbe9d2bc10d07dfd2af071ea95f5c09": {
+    "first_seen": "2026-05-23T01:16:04.714439",
+    "objects": [
+      {
+        "Naimenovanie": "Видеокамера",
+        "registerNo": "0018-9971",
+        "OID": "DIO0001B26DF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6063901f.jpg",
+    "source_folder": "photos3"
+  },
+  "982408abdad89527a27c77d5de6a2e47bae57f41cbbfb00eabeebaaa414981c0": {
+    "first_seen": "2026-05-23T01:16:04.714503",
+    "objects": [
+      {
+        "Naimenovanie": "Видеокамера",
+        "registerNo": "0018-9971",
+        "OID": "DIO0001B26DF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a7270c09.jpg",
+    "source_folder": "photos3"
+  },
+  "453518ba51cd88784274bffcae647f972544107f46cb617ebb99061c70df7339": {
+    "first_seen": "2026-05-23T01:16:04.714545",
+    "objects": [
+      {
+        "Naimenovanie": "Видеокамера",
+        "registerNo": "0018-9971",
+        "OID": "DIO0001B26DF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_51781df7.jpg",
+    "source_folder": "photos3"
+  },
+  "a448ffb2b699572ca5ce207e2c8fd4caea4465f78fbe1a0709bdab5096eefe22": {
+    "first_seen": "2026-05-23T01:16:04.714586",
+    "objects": [
+      {
+        "Naimenovanie": "Видеокамера",
+        "registerNo": "0018-9971",
+        "OID": "DIO0001B26DF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a5846a1d.jpg",
+    "source_folder": "photos3"
   }
 }
