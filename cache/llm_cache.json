@@ -17206,5 +17206,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_130beaf4.jpg",
     "source_folder": "photos3"
+  },
+  "70d63791ff0b85c27c57b50c4258443cb568b427ea7864df3955490c84182e97": {
+    "first_seen": "2026-05-23T00:10:39.821546",
+    "objects": [
+      {
+        "Naimenovanie": "Воздушный скалер SONICflex с оптикой в комплекте с 3 насадками",
+        "registerNo": "0020-2239",
+        "OID": "DIO0000EE2BA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_84c380cc.jpg",
+    "source_folder": "photos2"
+  },
+  "bb99083c5b3ece3c8d31294a2bedce47e82347f1f1ce0f3aae5ceab8530ec8fa": {
+    "first_seen": "2026-05-23T00:10:39.821616",
+    "objects": [
+      {
+        "Naimenovanie": "Воздушный скалер SONICflex с оптикой в комплекте с 3 насадками",
+        "registerNo": "0020-2239",
+        "OID": "DIO0000EE2BA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e3512b3d.jpg",
+    "source_folder": "photos2"
+  },
+  "7ed0e6b0cdd32ecc032f2a2bedb30a0257ef7c1f5377e97a4d568280cbbb86aa": {
+    "first_seen": "2026-05-23T00:10:39.821655",
+    "objects": [
+      {
+        "Naimenovanie": "Воздушный скалер SONICflex с оптикой в комплекте с 3 насадками",
+        "registerNo": "0020-2239",
+        "OID": "DIO0000EE2BA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_aad92382.jpg",
+    "source_folder": "photos2"
   }
 }
