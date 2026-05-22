@@ -3850,5 +3850,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_75d054ca.jpg",
     "source_folder": "photos"
+  },
+  "5d59b044596ea9d49d0a0c3b2c2dd620b42aecf679b3c6e8e00bd9b7ad8e5fe3": {
+    "first_seen": "2026-05-22T21:08:02.868916",
+    "objects": [
+      {
+        "Naimenovanie": "Пылесос Samsung SD 9450",
+        "registerNo": "0011-7565",
+        "OID": "DIO00015A888"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_26a122b9.png",
+    "source_folder": "photos3"
   }
 }
