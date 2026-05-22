@@ -18442,5 +18442,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c6c23243.jpg",
     "source_folder": "photos3"
+  },
+  "81cbf0015f809b60d06a3a3276a85a0cd8c405f239059baae5bab1409f986f93": {
+    "first_seen": "2026-05-23T00:25:23.786150",
+    "objects": [
+      {
+        "Naimenovanie": "Плита электрическая, 4-х конфорочная",
+        "registerNo": "0001-4120",
+        "OID": "DIO0000F5B19"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f5ccdaa4.jpg",
+    "source_folder": "photos2"
+  },
+  "f0c9f98eb11293c6f3e592d55f37165b0c348fdc7a90bef0cf6537a648f720b0": {
+    "first_seen": "2026-05-23T00:25:23.786230",
+    "objects": [
+      {
+        "Naimenovanie": "Плита электрическая, 4-х конфорочная",
+        "registerNo": "0001-4120",
+        "OID": "DIO0000F5B19"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_890638e1.jpg",
+    "source_folder": "photos2"
   }
 }
