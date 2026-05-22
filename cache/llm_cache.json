@@ -19402,5 +19402,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_807f2670.jpg",
     "source_folder": "photos3"
+  },
+  "a0a253d54a328b57ff5efc2845741283c40d877b2f6f6c69a10f284869a27774": {
+    "first_seen": "2026-05-23T00:35:39.116546",
+    "objects": [
+      {
+        "Naimenovanie": "Колода разрубочная",
+        "registerNo": "0005-6972",
+        "OID": "DIO0000FE9B1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c7567e45.jpg",
+    "source_folder": "photos2"
   }
 }
