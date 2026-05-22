@@ -14614,5 +14614,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7d1dfe43.png",
     "source_folder": "photos"
+  },
+  "e2b7ac78629935adb44aaec8e8675446a9e576923bc86b5f5d4cdbdbb00e9e5b": {
+    "first_seen": "2026-05-22T23:33:43.684146",
+    "objects": [
+      {
+        "Naimenovanie": "Чемодан Медистор",
+        "registerNo": "0017-4471",
+        "OID": "DIO00018F887"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_299e5cb2.png",
+    "source_folder": "photos3"
   }
 }
