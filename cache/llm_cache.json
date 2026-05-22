@@ -11542,5 +11542,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d659dd94.jpg",
     "source_folder": "photos"
+  },
+  "a298868ad332b91e55e909248cf15bd92fff29542ab167780d0ea6c34ffbb94d": {
+    "first_seen": "2026-05-22T22:50:06.195583",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (Автоматизированное рабочее место)",
+        "registerNo": "0019-2103",
+        "OID": "DIO0000D1199"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1f5e7b44.jpg",
+    "source_folder": "photos2"
+  },
+  "3f921f941693a9a4cf4f87ffb6c6aed3afabeadaf6405403f8fe715e5abfeb6f": {
+    "first_seen": "2026-05-22T22:50:06.195674",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (Автоматизированное рабочее место)",
+        "registerNo": "0019-2103",
+        "OID": "DIO0000D1199"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_faf456a6.jpg",
+    "source_folder": "photos2"
+  },
+  "b0e2ec44e02d203005a6676a0b140d53c7708315ff1ca2af7d467f7a285593e4": {
+    "first_seen": "2026-05-22T22:50:06.195716",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (Автоматизированное рабочее место)",
+        "registerNo": "0019-2103",
+        "OID": "DIO0000D1199"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_69310c79.jpg",
+    "source_folder": "photos2"
+  },
+  "16ac9e86b89e2cdeb395beb6745fe91120b25fdb57bc41cd3911575d7bc7a030": {
+    "first_seen": "2026-05-22T22:50:06.195756",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер (Автоматизированное рабочее место)",
+        "registerNo": "0019-2103",
+        "OID": "DIO0000D1199"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_452c6b62.jpg",
+    "source_folder": "photos2"
   }
 }
