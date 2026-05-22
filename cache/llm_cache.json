@@ -20734,5 +20734,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e6be77bc.jpg",
     "source_folder": "photos2"
+  },
+  "fb7a5aca93f0b61f3c89cb6e7283a0124dc4e8c463e99b938a4a6e1af0ad58cf": {
+    "first_seen": "2026-05-23T00:52:26.161156",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор для упаковки медицинских изделей методом термосварки hm 800 DC",
+        "registerNo": "0020-1737",
+        "OID": "DIO0001ADAA0"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_88108778.jpg",
+    "source_folder": "photos3"
   }
 }
