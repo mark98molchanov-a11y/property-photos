@@ -7066,5 +7066,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_29e25bea.jpg",
     "source_folder": "photos2"
+  },
+  "0ca5d1723452dae53a98e01832723e405d795238fabc747da24bce390d080ef4": {
+    "first_seen": "2026-05-22T21:49:19.472928",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь с аккумулятором АЗС-1-001",
+        "registerNo": "0009-4405",
+        "OID": "DIO00016CEEE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6d815ffd.jpg",
+    "source_folder": "photos3"
+  },
+  "145998c950860908108bc0a5e129f8483fa2b9c52dd282020ae65a829eb699c8": {
+    "first_seen": "2026-05-22T21:49:19.472998",
+    "objects": [
+      {
+        "Naimenovanie": "Фонарь с аккумулятором АЗС-1-001",
+        "registerNo": "0009-4405",
+        "OID": "DIO00016CEEE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7bd577a0.jpg",
+    "source_folder": "photos3"
   }
 }
