@@ -10258,5 +10258,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4bc71cac.jpg",
     "source_folder": "photos3"
+  },
+  "711332cc004e9ba8ab21dee8cb9b1b0c6b280337a8e972a0c0cf45511c436d8d": {
+    "first_seen": "2026-05-22T22:34:57.776097",
+    "objects": [
+      {
+        "Naimenovanie": "Мельница для кости",
+        "registerNo": "0018-3123",
+        "OID": "DIO0000CA2C4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7fb4f469.jpg",
+    "source_folder": "photos2"
   }
 }
