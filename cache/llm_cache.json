@@ -8362,5 +8362,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1441f8ce.jpg",
     "source_folder": "photos2"
+  },
+  "1262760e01c14de52511301b41f1ef45ea082e1462d75aa512211e054cd211c6": {
+    "first_seen": "2026-05-22T22:08:32.448637",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло мягкое",
+        "registerNo": "0016-7638",
+        "OID": "DIO000172C79"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_785a352a.jpg",
+    "source_folder": "photos3"
+  },
+  "252e5444584bf14167b32d057964e92df60afdc9ccae5e4e619992ec4a506437": {
+    "first_seen": "2026-05-22T22:08:32.448721",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло мягкое",
+        "registerNo": "0016-7638",
+        "OID": "DIO000172C79"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_118b6aff.jpg",
+    "source_folder": "photos3"
   }
 }
