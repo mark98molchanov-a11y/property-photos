@@ -19078,5 +19078,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_16b9cb35.jpg",
     "source_folder": "photos2"
+  },
+  "cc6cb45c50ba3055846146ce6213fc2bfc11002dafbfa7cb4bc3c53e0b1c3b2b": {
+    "first_seen": "2026-05-23T00:31:40.656302",
+    "objects": [
+      {
+        "Naimenovanie": "Шторы на шторной ленте",
+        "registerNo": "0016-2198",
+        "OID": "DIO0001A4AA4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_aec487b3.png",
+    "source_folder": "photos3"
   }
 }
