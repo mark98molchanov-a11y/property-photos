@@ -5542,5 +5542,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_20612aba.jpg",
     "source_folder": "photos3"
+  },
+  "1ede486281b5a9f0296c5ba130b67db12d06847755c1d6700be13af9b895339e": {
+    "first_seen": "2026-05-22T21:28:00.509699",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное \"Менеджер\"",
+        "registerNo": "0893-3971",
+        "OID": "000300362588"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_182266f2.jpg",
+    "source_folder": "photos"
+  },
+  "15d3be031ea2e25833bec8e874a5c9eaa715ed01fd961767c5f8feb2786bd8c8": {
+    "first_seen": "2026-05-22T21:28:00.509775",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное \"Менеджер\"",
+        "registerNo": "0893-3971",
+        "OID": "000300362588"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dc219873.jpg",
+    "source_folder": "photos"
+  },
+  "a3862b592c87d9dbf24213a0ee4833be944ca9415c88c82e6785635286efe4b5": {
+    "first_seen": "2026-05-22T21:28:00.509820",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное \"Менеджер\"",
+        "registerNo": "0893-3971",
+        "OID": "000300362588"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a1c2343a.jpg",
+    "source_folder": "photos"
+  },
+  "c8479b7a1730e1ffef521319005f94ea3297235875da370594ece7799316ad88": {
+    "first_seen": "2026-05-22T21:28:00.509861",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное \"Менеджер\"",
+        "registerNo": "0893-3971",
+        "OID": "000300362588"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1be6280d.jpg",
+    "source_folder": "photos"
+  },
+  "6a3a7296971e0f7c3d798353dfc8e2d96b69f96a3dd3266aa5b294a0b0187deb": {
+    "first_seen": "2026-05-22T21:28:00.509902",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло офисное \"Менеджер\"",
+        "registerNo": "0893-3971",
+        "OID": "000300362588"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_a38d7e27.jpg",
+    "source_folder": "photos"
   }
 }
