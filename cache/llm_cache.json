@@ -17782,5 +17782,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e3759d43.jpg",
     "source_folder": "photos"
+  },
+  "399ac79ee0077daa11b913a08a1a612abf41bf855ecbb67cf56c2c24c3b8bb8e": {
+    "first_seen": "2026-05-23T00:17:59.914420",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор для полимеризации пластмасс Т 1330-00",
+        "registerNo": "0020-1738",
+        "OID": "DIO0000F09CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_39ba50e9.jpg",
+    "source_folder": "photos2"
+  },
+  "8f3374371f66a5ea59bb7a6a832e15a5db166947156307fd0f19df04c0385bd2": {
+    "first_seen": "2026-05-23T00:17:59.914497",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор для полимеризации пластмасс Т 1330-00",
+        "registerNo": "0020-1738",
+        "OID": "DIO0000F09CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a3a19bd4.jpg",
+    "source_folder": "photos2"
   }
 }
