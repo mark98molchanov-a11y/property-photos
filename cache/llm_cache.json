@@ -586,5 +586,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b38dda0d.jpg",
     "source_folder": "photos3"
+  },
+  "5571e4ee8086ebad376d3e40fb387796e7c3d29a1f2d6db82011d5ad4899e6d2": {
+    "first_seen": "2026-05-22T20:29:50.342856",
+    "objects": [
+      {
+        "Naimenovanie": "Пылесос бытовой",
+        "registerNo": "0890-4578",
+        "OID": "0003001588D3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d35ed19e.jpg",
+    "source_folder": "photos"
+  },
+  "eddc216ba7b6d72622f5bd15a4d54612a6a960327fde8aed67d616faa9c0b4c1": {
+    "first_seen": "2026-05-22T20:29:50.342946",
+    "objects": [
+      {
+        "Naimenovanie": "Пылесос бытовой",
+        "registerNo": "0890-4578",
+        "OID": "0003001588D3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2862fe46.jpg",
+    "source_folder": "photos"
+  },
+  "09b2cca4597db21bd36fd92b788050d1fa43811d5d0672bb64df472c02e758cc": {
+    "first_seen": "2026-05-22T20:29:50.342987",
+    "objects": [
+      {
+        "Naimenovanie": "Пылесос бытовой",
+        "registerNo": "0890-4578",
+        "OID": "0003001588D3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_75813516.jpg",
+    "source_folder": "photos"
   }
 }
