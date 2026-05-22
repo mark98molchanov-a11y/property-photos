@@ -14302,5 +14302,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_945cfe38.jpg",
     "source_folder": "photos2"
+  },
+  "6a623e4eca5a700abc7802d9955b78a9e228239b9f72b1c36c1d3e055c9bc3d9": {
+    "first_seen": "2026-05-22T23:29:28.065218",
+    "objects": [
+      {
+        "Naimenovanie": "Весы напольные, медицинские, электронные ВМЭН-200-50/10-СТ-А",
+        "registerNo": "1011-9755",
+        "OID": "000305A3119A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_864b444c.jpg",
+    "source_folder": "photos"
+  },
+  "835e89fe31877055b7b51bb3386c0e78ebdf72c7b9f084a924cbe5a377baf76d": {
+    "first_seen": "2026-05-22T23:29:28.065297",
+    "objects": [
+      {
+        "Naimenovanie": "Весы напольные, медицинские, электронные ВМЭН-200-50/10-СТ-А",
+        "registerNo": "1011-9755",
+        "OID": "000305A3119A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_43a118fa.jpg",
+    "source_folder": "photos"
+  },
+  "a5d90313a2dd63470158ec99fcfbcdfe0f22ebf4820d712a76865ab7ccdb3b97": {
+    "first_seen": "2026-05-22T23:29:28.065340",
+    "objects": [
+      {
+        "Naimenovanie": "Весы напольные, медицинские, электронные ВМЭН-200-50/10-СТ-А",
+        "registerNo": "1011-9755",
+        "OID": "000305A3119A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_94d18cd0.jpg",
+    "source_folder": "photos"
   }
 }
