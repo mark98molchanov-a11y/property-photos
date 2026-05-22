@@ -21850,5 +21850,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_21430bce.jpg",
     "source_folder": "photos2"
+  },
+  "7a4f27684488804a27bd7e95720db8149cac39d88df5c7b8d5a9ef37d186ed00": {
+    "first_seen": "2026-05-23T01:05:45.103780",
+    "objects": [
+      {
+        "Naimenovanie": "Пожарная сигнализация",
+        "registerNo": "0012-5697",
+        "OID": "DIO0001B0780"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1d78ac68.jpg",
+    "source_folder": "photos3"
+  },
+  "340fa50398d21ff769dc15ddb36e0d1a62eb2a2de0ab4031844a9a4e3c8c2ef6": {
+    "first_seen": "2026-05-23T01:05:45.103842",
+    "objects": [
+      {
+        "Naimenovanie": "Пожарная сигнализация",
+        "registerNo": "0012-5697",
+        "OID": "DIO0001B0780"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1d53eac0.jpg",
+    "source_folder": "photos3"
+  },
+  "e219798ffe49e0d26ef73cfc21bcdd7b053c0676ec55976e322c57f0dbe567dc": {
+    "first_seen": "2026-05-23T01:05:45.103877",
+    "objects": [
+      {
+        "Naimenovanie": "Пожарная сигнализация",
+        "registerNo": "0012-5697",
+        "OID": "DIO0001B0780"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_57682236.jpg",
+    "source_folder": "photos3"
   }
 }
