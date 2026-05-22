@@ -15442,5 +15442,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1af376fe.jpg",
     "source_folder": "photos"
+  },
+  "3e619ff3cd25c7448d9a786874e585cee6f8b2f84a4624481ec2d4a1f3f92b06": {
+    "first_seen": "2026-05-22T23:45:05.598401",
+    "objects": [
+      {
+        "Naimenovanie": "Реанимационная система",
+        "registerNo": "0019-1452",
+        "OID": "DIO0000E1C5C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c9a2b512.jpg",
+    "source_folder": "photos2"
+  },
+  "34b2a90520b44ed4cbd92687f4145811b444d5b717f39922874099692af296b6": {
+    "first_seen": "2026-05-22T23:45:05.598515",
+    "objects": [
+      {
+        "Naimenovanie": "Реанимационная система",
+        "registerNo": "0019-1452",
+        "OID": "DIO0000E1C5C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4e580f76.jpg",
+    "source_folder": "photos2"
+  },
+  "7166f4ff9627eb10931b59f6249e7de3e87ac44b632b7c81bf20fcb6a6d1cba1": {
+    "first_seen": "2026-05-22T23:45:05.598567",
+    "objects": [
+      {
+        "Naimenovanie": "Реанимационная система",
+        "registerNo": "0019-1452",
+        "OID": "DIO0000E1C5C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6a693341.jpg",
+    "source_folder": "photos2"
   }
 }
