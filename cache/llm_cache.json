@@ -18802,5 +18802,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3b1bd979.jpg",
     "source_folder": "photos"
+  },
+  "44f2e1e4b5975b573b05f9416509a7c24fdae6acd0ee24de4fd736c6a61d61d0": {
+    "first_seen": "2026-05-23T00:28:41.950226",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба под оргтехнику (СВК)",
+        "registerNo": "0004-0128",
+        "OID": "DIO0000F89EC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_eb3c36d9.jpg",
+    "source_folder": "photos2"
+  },
+  "00f03e2b737568dc6670db484da051a4585b9b80de7ca41e22d739860cc39e85": {
+    "first_seen": "2026-05-23T00:28:41.950302",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба под оргтехнику (СВК)",
+        "registerNo": "0004-0128",
+        "OID": "DIO0000F89EC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_2c9f65ff.jpg",
+    "source_folder": "photos2"
+  },
+  "8b76e0e021745be903157a9640a3e3a006a57ee8d972a0c3ddff9cb61035d79d": {
+    "first_seen": "2026-05-23T00:28:41.950344",
+    "objects": [
+      {
+        "Naimenovanie": "Тумба под оргтехнику (СВК)",
+        "registerNo": "0004-0128",
+        "OID": "DIO0000F89EC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_186c8e01.jpg",
+    "source_folder": "photos2"
   }
 }
