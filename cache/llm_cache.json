@@ -3478,5 +3478,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b5e24464.jpg",
     "source_folder": "photos2"
+  },
+  "e059593fa10bea8ad00175011204cf4cb42f4ee0517da89de34ee03151f8b573": {
+    "first_seen": "2026-05-22T21:03:15.841031",
+    "objects": [
+      {
+        "Naimenovanie": "Концентратор кислородный JAY 10",
+        "registerNo": "0891-3345",
+        "OID": "0003001A2C69"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_baf44f3f.jpg",
+    "source_folder": "photos"
+  },
+  "a2aa3909fec51f38f15256002822fbc9b4fcbe26cce0965752e5594225db35b8": {
+    "first_seen": "2026-05-22T21:03:15.841109",
+    "objects": [
+      {
+        "Naimenovanie": "Концентратор кислородный JAY 10",
+        "registerNo": "0891-3345",
+        "OID": "0003001A2C69"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ab3e995e.jpg",
+    "source_folder": "photos"
+  },
+  "99d1ae3b1cf1c6b272a4b19801f95d24269e53a92ab252318c1f274aeb75027c": {
+    "first_seen": "2026-05-22T21:03:15.841151",
+    "objects": [
+      {
+        "Naimenovanie": "Концентратор кислородный JAY 10",
+        "registerNo": "0891-3345",
+        "OID": "0003001A2C69"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1d32c38a.jpg",
+    "source_folder": "photos"
   }
 }
