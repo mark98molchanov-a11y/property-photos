@@ -11518,5 +11518,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_dd26e921.jpg",
     "source_folder": "photos3"
+  },
+  "709562938bbed0ccc814959019c2a6d181fda6d2dd5c33a14ce8dc085897e58b": {
+    "first_seen": "2026-05-22T22:50:01.453771",
+    "objects": [
+      {
+        "Naimenovanie": "LPS 2020 роликовый мощностной стенд для л/а с одной ведущьей осью",
+        "registerNo": "0956-6865",
+        "OID": "000301B2537B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_b6486a0f.jpg",
+    "source_folder": "photos"
+  },
+  "e0f75c5b3c77a8b0c2796bf097fff66a9671dbe141facab37a3aa4c285685d5c": {
+    "first_seen": "2026-05-22T22:50:01.453841",
+    "objects": [
+      {
+        "Naimenovanie": "LPS 2020 роликовый мощностной стенд для л/а с одной ведущьей осью",
+        "registerNo": "0956-6865",
+        "OID": "000301B2537B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d659dd94.jpg",
+    "source_folder": "photos"
   }
 }
