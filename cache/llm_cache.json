@@ -6454,5 +6454,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_161f52df.jpg",
     "source_folder": "photos2"
+  },
+  "bf24d14a843c3692ffea9431caa7fc3673639b0d441c3650eb3ba562307cde62": {
+    "first_seen": "2026-05-22T21:40:14.316187",
+    "objects": [
+      {
+        "Naimenovanie": "Механический дозатор",
+        "registerNo": "0015-5805",
+        "OID": "DIO00016B334"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a4ab4e19.jpg",
+    "source_folder": "photos3"
+  },
+  "6e0b2ecb9578e6284e795c15e67e3aa3aa6f1faa0fcafb22194e56a5d7458431": {
+    "first_seen": "2026-05-22T21:40:14.316248",
+    "objects": [
+      {
+        "Naimenovanie": "Механический дозатор",
+        "registerNo": "0015-5805",
+        "OID": "DIO00016B334"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_614c32fc.jpg",
+    "source_folder": "photos3"
   }
 }
