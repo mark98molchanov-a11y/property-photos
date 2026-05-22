@@ -12874,5 +12874,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8f23853f.jpg",
     "source_folder": "photos3"
+  },
+  "4f624bd90f9ea22a0b5c58e0edefd42222f6ec6821cda890e25f3ee55b96f91e": {
+    "first_seen": "2026-05-22T23:12:42.128284",
+    "objects": [
+      {
+        "Naimenovanie": "Кислородный концентратор STAXEL 3.5 STEPHAN",
+        "registerNo": "0018-8058",
+        "OID": "DIO0000D73EA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_fac45f5e.jpg",
+    "source_folder": "photos2"
+  },
+  "08712beeaa38bed152e189441741a74a123e8cbd3fe5735a5e36d697c688547b": {
+    "first_seen": "2026-05-22T23:12:42.128364",
+    "objects": [
+      {
+        "Naimenovanie": "Кислородный концентратор STAXEL 3.5 STEPHAN",
+        "registerNo": "0018-8058",
+        "OID": "DIO0000D73EA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_ba7ca537.jpg",
+    "source_folder": "photos2"
   }
 }
