@@ -22198,5 +22198,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ae3a8024.png",
     "source_folder": "photos3"
+  },
+  "010405e632ff6cc0166a5decb2d817805a9e02df4c420b2e4f17513e066b4b99": {
+    "first_seen": "2026-05-23T01:11:07.297856",
+    "objects": [
+      {
+        "Naimenovanie": "Сигнально-громкоговорящее устройство",
+        "registerNo": "0009-2066",
+        "OID": "DIO0000825CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f418d929.jpg",
+    "source_folder": "photos"
+  },
+  "0436927970b9517ccebccba3f8a66be8b3faec79d0968a8c7d442f459276c057": {
+    "first_seen": "2026-05-23T01:11:07.297924",
+    "objects": [
+      {
+        "Naimenovanie": "Сигнально-громкоговорящее устройство",
+        "registerNo": "0009-2066",
+        "OID": "DIO0000825CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c09304ad.jpg",
+    "source_folder": "photos"
+  },
+  "472053ea94de478965e573be5af5bfe8c9d6ca0f73fc919d04c61ce6e40b9d4c": {
+    "first_seen": "2026-05-23T01:11:07.297966",
+    "objects": [
+      {
+        "Naimenovanie": "Сигнально-громкоговорящее устройство",
+        "registerNo": "0009-2066",
+        "OID": "DIO0000825CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c99003df.jpg",
+    "source_folder": "photos"
+  },
+  "0c2e1e5f0f376f3d576ed8541df638083626554b58a236e89aa2abc07c3eed3f": {
+    "first_seen": "2026-05-23T01:11:07.298005",
+    "objects": [
+      {
+        "Naimenovanie": "Сигнально-громкоговорящее устройство",
+        "registerNo": "0009-2066",
+        "OID": "DIO0000825CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_1a0fe227.jpg",
+    "source_folder": "photos"
   }
 }
