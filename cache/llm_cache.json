@@ -11446,5 +11446,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c2efb730.png",
     "source_folder": "photos2"
+  },
+  "ec13d54b896b10d76726bf474a4ef987f85385ed8765478a28be39fcef16b80b": {
+    "first_seen": "2026-05-22T22:49:05.570645",
+    "objects": [
+      {
+        "Naimenovanie": "Насос вихревой консольный ВКС 2/26А",
+        "registerNo": "0956-6586",
+        "OID": "000301B1F68E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6ab60ed9.jpg",
+    "source_folder": "photos"
+  },
+  "0ceb538351a50a4e42374aaca3ff895ed7ba19986ecb69f72d1c68ec00350147": {
+    "first_seen": "2026-05-22T22:49:05.570735",
+    "objects": [
+      {
+        "Naimenovanie": "Насос вихревой консольный ВКС 2/26А",
+        "registerNo": "0956-6586",
+        "OID": "000301B1F68E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8a6fbade.jpg",
+    "source_folder": "photos"
+  },
+  "12446028fd13dce7aa5b17e2cb07ffa39da7c4c32d2ed919a9ef3fa8b45259b7": {
+    "first_seen": "2026-05-22T22:49:05.570776",
+    "objects": [
+      {
+        "Naimenovanie": "Насос вихревой консольный ВКС 2/26А",
+        "registerNo": "0956-6586",
+        "OID": "000301B1F68E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_397c005a.jpg",
+    "source_folder": "photos"
   }
 }
