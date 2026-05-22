@@ -3538,5 +3538,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_953e9840.jpg",
     "source_folder": "photos3"
+  },
+  "4aa9b49d5138572d5fa0495891cd14256484a8e8c67ee0fe976b1788271b682e": {
+    "first_seen": "2026-05-22T21:04:21.951004",
+    "objects": [
+      {
+        "Naimenovanie": "Стол рабочий",
+        "registerNo": "0009-2920",
+        "OID": "DIO0000A18C3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_97c69f4a.webp",
+    "source_folder": "photos2"
+  },
+  "4ef63e477042a3d9a74f63a7c5bee30a7ae5e6bc7e4c1279fedd7ad49ab03457": {
+    "first_seen": "2026-05-22T21:04:21.951076",
+    "objects": [
+      {
+        "Naimenovanie": "Стол рабочий",
+        "registerNo": "0009-2920",
+        "OID": "DIO0000A18C3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_95356755.webp",
+    "source_folder": "photos2"
+  },
+  "f67071ca30207d803fe5ee12bb9e60d68868a917d776e6f8d9cccc111d2c58d0": {
+    "first_seen": "2026-05-22T21:04:21.951118",
+    "objects": [
+      {
+        "Naimenovanie": "Стол рабочий",
+        "registerNo": "0009-2920",
+        "OID": "DIO0000A18C3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_276a7bbd.webp",
+    "source_folder": "photos2"
+  },
+  "4728ba37aca8f97d4775bbecae3cbb08cfe4951c419cbbe93cf9762e303aee33": {
+    "first_seen": "2026-05-22T21:04:21.951156",
+    "objects": [
+      {
+        "Naimenovanie": "Стол рабочий",
+        "registerNo": "0009-2920",
+        "OID": "DIO0000A18C3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8826db46.webp",
+    "source_folder": "photos2"
   }
 }
