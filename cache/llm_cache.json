@@ -15598,5 +15598,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_90f0e9b1.png",
     "source_folder": "photos2"
+  },
+  "7c57f38124ea47b100a2e24603b1891973c8f4295f12688653fb3fcaa531bad2": {
+    "first_seen": "2026-05-22T23:47:17.664755",
+    "objects": [
+      {
+        "Naimenovanie": "Барьер тепловая завеса ТЗ-3,0",
+        "registerNo": "0014-8029",
+        "OID": "DIO000196055"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_65e19e61.png",
+    "source_folder": "photos3"
   }
 }
