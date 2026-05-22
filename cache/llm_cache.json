@@ -23806,5 +23806,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9f0341b3.webp",
     "source_folder": "photos3"
+  },
+  "3ada29934e52acec69cbc5edc12e64d90860f499b090add2b78daf61faebc353": {
+    "first_seen": "2026-05-23T01:34:08.038873",
+    "objects": [
+      {
+        "Naimenovanie": "Светильник",
+        "registerNo": "0014-1073",
+        "OID": "DIO0001B67A1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7e3a6859.jpg",
+    "source_folder": "photos3"
+  },
+  "365d1675ae07728f9f4483cdc233baf90dcecce3912be41216dcd1433d5d21b3": {
+    "first_seen": "2026-05-23T01:34:08.038942",
+    "objects": [
+      {
+        "Naimenovanie": "Светильник",
+        "registerNo": "0014-1073",
+        "OID": "DIO0001B67A1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e20c19f8.jpg",
+    "source_folder": "photos3"
   }
 }
