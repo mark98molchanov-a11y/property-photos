@@ -2554,5 +2554,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3c8805ee.jpg",
     "source_folder": "photos2"
+  },
+  "24e864ed762e2d305752e67b86d44d1dfc2cc856a0841ecec2829e74a868e65a": {
+    "first_seen": "2026-05-22T20:50:50.278234",
+    "objects": [
+      {
+        "Naimenovanie": "Стол приставной \"Персона\"",
+        "registerNo": "0009-2213",
+        "OID": "DIO000149674"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0d0f8fda.jpg",
+    "source_folder": "photos3"
   }
 }
