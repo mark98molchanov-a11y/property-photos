@@ -3406,5 +3406,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2386ce94.jpg",
     "source_folder": "photos"
+  },
+  "5ec5348af62f3ad402318a88648815dc720423e3816d21c2b88b26f88aff2d29": {
+    "first_seen": "2026-05-22T21:02:46.120153",
+    "objects": [
+      {
+        "Naimenovanie": "Артроскоп",
+        "registerNo": "0015-6379",
+        "OID": "DIO0001551F2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2c05da5e.jpg",
+    "source_folder": "photos3"
+  },
+  "b73f812d14177ef0001279831f4aa7864a675d162085ff5a4e7b84e3ac3e159b": {
+    "first_seen": "2026-05-22T21:02:46.120263",
+    "objects": [
+      {
+        "Naimenovanie": "Артроскоп",
+        "registerNo": "0015-6379",
+        "OID": "DIO0001551F2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_fd4a1efa.jpg",
+    "source_folder": "photos3"
+  },
+  "cf7bc03138eb426466ea3cf4cebf8cbd6b5be40e3fac011b9d4ce196407477e0": {
+    "first_seen": "2026-05-22T21:02:46.120331",
+    "objects": [
+      {
+        "Naimenovanie": "Артроскоп",
+        "registerNo": "0015-6379",
+        "OID": "DIO0001551F2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5db60c8d.jpg",
+    "source_folder": "photos3"
   }
 }
