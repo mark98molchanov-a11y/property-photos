@@ -23722,5 +23722,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_77801dc9.jpg",
     "source_folder": "photos2"
+  },
+  "bb6698d6db7377ed327e04c6a1e3e6e4134ec141a43089aedee7b044f73f4da5": {
+    "first_seen": "2026-05-23T01:32:05.159297",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор для инфильтрационной и внутрикостной анестезии Quick Sleeper",
+        "registerNo": "0018-3182",
+        "OID": "DIO0001B6509"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ba191b06.jpg",
+    "source_folder": "photos3"
+  },
+  "aef28b34125197cbd98b7eac015415a1532b0a1db7a5fc0d0c56536ffb9dd1e4": {
+    "first_seen": "2026-05-23T01:32:05.159374",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор для инфильтрационной и внутрикостной анестезии Quick Sleeper",
+        "registerNo": "0018-3182",
+        "OID": "DIO0001B6509"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7509e175.jpg",
+    "source_folder": "photos3"
   }
 }
