@@ -10198,5 +10198,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_eefb9831.png",
     "source_folder": "photos"
+  },
+  "09d49e901967c7ddc3613b9e754cba3ef3daa6287b8279a1ae971ac85eab5a81": {
+    "first_seen": "2026-05-22T22:34:09.291182",
+    "objects": [
+      {
+        "Naimenovanie": "Гастрофиброскоп",
+        "registerNo": "0017-9298",
+        "OID": "DIO0000C9E44"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_15654feb.jpg",
+    "source_folder": "photos2"
+  },
+  "db2a8164c45bd7cca7d85e3fa150db1cb49a972e01af7176280bc2e4c9999b09": {
+    "first_seen": "2026-05-22T22:34:09.291255",
+    "objects": [
+      {
+        "Naimenovanie": "Гастрофиброскоп",
+        "registerNo": "0017-9298",
+        "OID": "DIO0000C9E44"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a10668e9.jpg",
+    "source_folder": "photos2"
+  },
+  "b52467a6197b6f110be741aec0bbd085ccb99f0301e7577968f2c77ceb83a9c3": {
+    "first_seen": "2026-05-22T22:34:09.291298",
+    "objects": [
+      {
+        "Naimenovanie": "Гастрофиброскоп",
+        "registerNo": "0017-9298",
+        "OID": "DIO0000C9E44"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_803efcd3.jpg",
+    "source_folder": "photos2"
   }
 }
