@@ -10546,5 +10546,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_07cc9e0e.jpg",
     "source_folder": "photos3"
+  },
+  "da720b4bc9901688d0c770fd8790addd607bde506489e063a1ee246c0b4cddb7": {
+    "first_seen": "2026-05-22T22:39:39.269104",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор 1-канальный",
+        "registerNo": "0017-2187",
+        "OID": "DIO00017D539"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_81c96c65.jpg",
+    "source_folder": "photos3"
+  },
+  "39f81da3cc7f745d81911cd328584c14d7563cc3d2fc0bf4b10a0979af545578": {
+    "first_seen": "2026-05-22T22:39:39.269187",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор 1-канальный",
+        "registerNo": "0017-2187",
+        "OID": "DIO00017D539"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_590bb0ba.jpg",
+    "source_folder": "photos3"
   }
 }
