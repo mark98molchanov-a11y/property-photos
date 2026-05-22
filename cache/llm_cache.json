@@ -2986,5 +2986,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_11add476.jpg",
     "source_folder": "photos"
+  },
+  "5abc85548ed7bbb4d7a16ab85597ac650b20149c732ea5287e580b2373526a21": {
+    "first_seen": "2026-05-22T20:56:05.668788",
+    "objects": [
+      {
+        "Naimenovanie": "Кипятильник ПЭ-50",
+        "registerNo": "0009-4394",
+        "OID": "DIO00014E912"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8a721423.jpg",
+    "source_folder": "photos3"
   }
 }
