@@ -142,5 +142,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c24a0fb7.jpg",
     "source_folder": "photos"
+  },
+  "d29d5960af2d0a78cab4036cddd5afa90b8c792379a79456052d32acf70b9b35": {
+    "first_seen": "2026-05-22T20:25:30.079999",
+    "objects": [
+      {
+        "Naimenovanie": "Зеркало-шкаф",
+        "registerNo": "0008-6311",
+        "OID": "DIO000089A88"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4e968e4f.jpg",
+    "source_folder": "photos2"
+  },
+  "b2817470bfc9194fa8a1832b5c95b446dca966bdd0ae730e6dac428023989184": {
+    "first_seen": "2026-05-22T20:25:30.080100",
+    "objects": [
+      {
+        "Naimenovanie": "Зеркало-шкаф",
+        "registerNo": "0008-6311",
+        "OID": "DIO000089A88"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_8b761674.jpg",
+    "source_folder": "photos2"
+  },
+  "3b92215e5ed4357c6efdf5f84894b04f6b6864e957bcbdb0277b31b698893368": {
+    "first_seen": "2026-05-22T20:25:30.080148",
+    "objects": [
+      {
+        "Naimenovanie": "Зеркало-шкаф",
+        "registerNo": "0008-6311",
+        "OID": "DIO000089A88"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_628fc3f5.jpg",
+    "source_folder": "photos2"
+  },
+  "a29aca83d086a0644e8f44c13488d28fc7c23784f3ad5f0285c21e773537f53e": {
+    "first_seen": "2026-05-22T20:25:30.080192",
+    "objects": [
+      {
+        "Naimenovanie": "Зеркало-шкаф",
+        "registerNo": "0008-6311",
+        "OID": "DIO000089A88"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_294a845a.jpg",
+    "source_folder": "photos2"
+  },
+  "bd6e144095b281b07145318b023fc598a3160fea198c31efa020a113a025fba8": {
+    "first_seen": "2026-05-22T20:25:30.080232",
+    "objects": [
+      {
+        "Naimenovanie": "Зеркало-шкаф",
+        "registerNo": "0008-6311",
+        "OID": "DIO000089A88"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b67f54ce.jpg",
+    "source_folder": "photos2"
   }
 }
