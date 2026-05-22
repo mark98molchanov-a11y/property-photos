@@ -7462,5 +7462,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_30aa4c20.jpg",
     "source_folder": "photos"
+  },
+  "bfbb6b82e2107bb2c6219df21838ed5217a234541ffb18830e33dfa34d8ac754": {
+    "first_seen": "2026-05-22T21:54:34.158305",
+    "objects": [
+      {
+        "Naimenovanie": "Стоматологическая установка ",
+        "registerNo": "0019-5230",
+        "OID": "DIO00016E119"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1839b48a.png",
+    "source_folder": "photos3"
   }
 }
