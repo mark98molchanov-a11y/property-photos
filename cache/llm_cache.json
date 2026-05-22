@@ -3526,5 +3526,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_824eec75.png",
     "source_folder": "photos"
+  },
+  "a49004563667a40ffe711cd5571075b336892f71b0b01274a624dead3a3e35ed": {
+    "first_seen": "2026-05-22T21:04:07.901850",
+    "objects": [
+      {
+        "Naimenovanie": "Пылесос Samsung",
+        "registerNo": "0009-2086",
+        "OID": "DIO00015564B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_953e9840.jpg",
+    "source_folder": "photos3"
   }
 }
