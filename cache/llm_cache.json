@@ -13594,5 +13594,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_ef5b2a1c.jpg",
     "source_folder": "photos"
+  },
+  "057deb007dd3bebf901f255bdc7330368e86a95b7c10a628754577ceae69e676": {
+    "first_seen": "2026-05-22T23:21:32.689564",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло руководителя",
+        "registerNo": "0018-7115",
+        "OID": "DIO0000D9EAA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_62cea27a.jpg",
+    "source_folder": "photos2"
+  },
+  "a6ecd6dfe25d3010639a450c92989491dfffe51e4beb1e83d20503d91651673d": {
+    "first_seen": "2026-05-22T23:21:32.689634",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло руководителя",
+        "registerNo": "0018-7115",
+        "OID": "DIO0000D9EAA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7bad793d.jpg",
+    "source_folder": "photos2"
+  },
+  "f2d90c8a5fb762de6c100c510f0f36e034bb1dbe940914d4d4199cc8fb2836a1": {
+    "first_seen": "2026-05-22T23:21:32.689671",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло руководителя",
+        "registerNo": "0018-7115",
+        "OID": "DIO0000D9EAA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c175ace7.jpg",
+    "source_folder": "photos2"
+  },
+  "c060f9237b0b4bdc82a42d11552d31b90ba154b28c399907f6f4a37d629b4a9f": {
+    "first_seen": "2026-05-22T23:21:32.689706",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло руководителя",
+        "registerNo": "0018-7115",
+        "OID": "DIO0000D9EAA"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_356454ca.jpg",
+    "source_folder": "photos2"
   }
 }
