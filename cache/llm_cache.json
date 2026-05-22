@@ -12370,5 +12370,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_61401240.jpg",
     "source_folder": "photos2"
+  },
+  "50b46808616676234c07c469aa5877a06cfe8f472f03738fa7be04e876ead97c": {
+    "first_seen": "2026-05-22T23:02:26.217980",
+    "objects": [
+      {
+        "Naimenovanie": "Мультифактурные жалюзи",
+        "registerNo": "0993-6621",
+        "OID": "0003038B455B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4d975247.jpg",
+    "source_folder": "photos"
+  },
+  "88ffbd263b6b1468c348626cd388ff344dcce0b7321b7b8dcd9ed4a713e0edba": {
+    "first_seen": "2026-05-22T23:02:26.218060",
+    "objects": [
+      {
+        "Naimenovanie": "Мультифактурные жалюзи",
+        "registerNo": "0993-6621",
+        "OID": "0003038B455B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_be19c9ec.jpg",
+    "source_folder": "photos"
+  },
+  "b8ed92a9360812b28edf5a422a092b5bcdfd636376abd96678cab52d6688ec82": {
+    "first_seen": "2026-05-22T23:02:26.218103",
+    "objects": [
+      {
+        "Naimenovanie": "Мультифактурные жалюзи",
+        "registerNo": "0993-6621",
+        "OID": "0003038B455B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f0788635.jpg",
+    "source_folder": "photos"
   }
 }
