@@ -20410,5 +20410,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cead6d74.png",
     "source_folder": "photos2"
+  },
+  "0ef45024a406933fcdc1d4bb7abcd894b2e03eef44ae02d37364bc72c93706e7": {
+    "first_seen": "2026-05-23T00:48:45.764295",
+    "objects": [
+      {
+        "Naimenovanie": "Многофункциональное устройство \"Samsung SCX-3205\"",
+        "registerNo": "0020-1574",
+        "OID": "DIO0001ACDFE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ea213cf4.jpg",
+    "source_folder": "photos3"
+  },
+  "894b38a3b40d9c70c13712ba6d76b61d65d4e1513fb4c9d13c5c7669de5b0007": {
+    "first_seen": "2026-05-23T00:48:45.764372",
+    "objects": [
+      {
+        "Naimenovanie": "Многофункциональное устройство \"Samsung SCX-3205\"",
+        "registerNo": "0020-1574",
+        "OID": "DIO0001ACDFE"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a73a8b50.jpg",
+    "source_folder": "photos3"
   }
 }
