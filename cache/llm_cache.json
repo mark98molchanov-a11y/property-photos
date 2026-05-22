@@ -10006,5 +10006,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_357da743.jpg",
     "source_folder": "photos"
+  },
+  "341f5bb83c41e0001d24504b8a268e2791d54872c361c6ba456ec9775360a69b": {
+    "first_seen": "2026-05-22T22:32:08.801435",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель ОРК-21",
+        "registerNo": "0019-5440",
+        "OID": "DIO00017A6E5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_50e1487d.jpg",
+    "source_folder": "photos3"
+  },
+  "81664c18be732bd13f9228042e14a326292d1e4cc93b1102f767754c89ac49e4": {
+    "first_seen": "2026-05-22T22:32:08.801524",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель ОРК-21",
+        "registerNo": "0019-5440",
+        "OID": "DIO00017A6E5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_505f1303.jpg",
+    "source_folder": "photos3"
+  },
+  "1bc018d21efadc645bb51e21e6d78147adff28e5987c91e8e14e3107656aa39d": {
+    "first_seen": "2026-05-22T22:32:08.801567",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель ОРК-21",
+        "registerNo": "0019-5440",
+        "OID": "DIO00017A6E5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c08c421e.jpg",
+    "source_folder": "photos3"
+  },
+  "3a9cb46fb4d7e5fd2c9c5b76f8d78fe1337d6b8ffe3ec122aa03f07f78c641be": {
+    "first_seen": "2026-05-22T22:32:08.801632",
+    "objects": [
+      {
+        "Naimenovanie": "Облучатель ОРК-21",
+        "registerNo": "0019-5440",
+        "OID": "DIO00017A6E5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_45bcf3cf.jpg",
+    "source_folder": "photos3"
   }
 }
