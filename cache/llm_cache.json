@@ -1414,5 +1414,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_716467ee.jpg",
     "source_folder": "photos"
+  },
+  "540217975ad9d89030caefae22d566aab55072300f6ec71b181c421fe26e80e6": {
+    "first_seen": "2026-05-22T20:38:49.549604",
+    "objects": [
+      {
+        "Naimenovanie": "Свитч",
+        "registerNo": "0009-0684",
+        "OID": "DIO00013D7CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1484e56b.jpg",
+    "source_folder": "photos3"
+  },
+  "356ed29f2e79c2d5ed7f89f607829716a13941d47979680a405228d92fd78a8f": {
+    "first_seen": "2026-05-22T20:38:49.549686",
+    "objects": [
+      {
+        "Naimenovanie": "Свитч",
+        "registerNo": "0009-0684",
+        "OID": "DIO00013D7CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_940bafd9.jpg",
+    "source_folder": "photos3"
+  },
+  "d5f14308ae5d9f9577b84d9888929e6f30b42f865a3dff6de5a6bc3f30e20ff2": {
+    "first_seen": "2026-05-22T20:38:49.549727",
+    "objects": [
+      {
+        "Naimenovanie": "Свитч",
+        "registerNo": "0009-0684",
+        "OID": "DIO00013D7CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0bcbb495.jpg",
+    "source_folder": "photos3"
+  },
+  "ab98cce143358c21e4c6977133e31d381136ea24f4a9f47423d250d3a94faed3": {
+    "first_seen": "2026-05-22T20:38:49.549766",
+    "objects": [
+      {
+        "Naimenovanie": "Свитч",
+        "registerNo": "0009-0684",
+        "OID": "DIO00013D7CD"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1530246f.jpg",
+    "source_folder": "photos3"
   }
 }
