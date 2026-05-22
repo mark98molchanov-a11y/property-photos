@@ -20183,5 +20183,65 @@
       }
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_98bcf235.jpg"
+  },
+  "86174b6f19c3b160e358364b952959e5d449f971e672981acce607e4a1b00ea4": {
+    "first_seen": "2026-05-22T19:40:32.143977",
+    "objects": [
+      {
+        "Naimenovanie": "Гараж",
+        "registerNo": "0008-8594",
+        "OID": "DIO000139306"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_45ff643b.jpg",
+    "source_folder": "photos3"
+  },
+  "12dea3dfcd4554d7dfaafb0710c3315c06a10cc7b6f81862b4ed1aa02d86188a": {
+    "first_seen": "2026-05-22T19:40:32.144080",
+    "objects": [
+      {
+        "Naimenovanie": "Гараж",
+        "registerNo": "0008-8594",
+        "OID": "DIO000139306"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6eb7334a.jpg",
+    "source_folder": "photos3"
+  },
+  "81d9c6e6379b9cf704e1633ffd43df5b97c739f4073be7cee85429384067b55c": {
+    "first_seen": "2026-05-22T19:40:32.144125",
+    "objects": [
+      {
+        "Naimenovanie": "Гараж",
+        "registerNo": "0008-8594",
+        "OID": "DIO000139306"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_98abdd0f.jpg",
+    "source_folder": "photos3"
+  },
+  "97637ca59c844da7f4729a7955b4bb0ce7680909c45d1430eba2757148de3007": {
+    "first_seen": "2026-05-22T19:40:32.144175",
+    "objects": [
+      {
+        "Naimenovanie": "Гараж",
+        "registerNo": "0008-8594",
+        "OID": "DIO000139306"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a174e145.jpg",
+    "source_folder": "photos3"
+  },
+  "1da428b4598962413f45f4814c41999eaeed38d39372490fcf2ebca26892179a": {
+    "first_seen": "2026-05-22T19:40:32.144227",
+    "objects": [
+      {
+        "Naimenovanie": "Гараж",
+        "registerNo": "0008-8594",
+        "OID": "DIO000139306"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_95e3cb2f.jpg",
+    "source_folder": "photos3"
   }
 }
