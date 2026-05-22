@@ -14818,5 +14818,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6faa2908.jpg",
     "source_folder": "photos3"
+  },
+  "980c19fd1a8ae18d9b5fceed63421fb2bebda53a68e29a6889c6c4a1c55624b1": {
+    "first_seen": "2026-05-22T23:36:42.390862",
+    "objects": [
+      {
+        "Naimenovanie": "Камера УФ ультралайт напольная",
+        "registerNo": "0017-9727",
+        "OID": "DIO0000DF4E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5dd12c17.jpg",
+    "source_folder": "photos2"
+  },
+  "4cc4a8a429c4cff94644c69c7718baefa40da50efd29d58dcbcf82fe215cf9fa": {
+    "first_seen": "2026-05-22T23:36:42.390930",
+    "objects": [
+      {
+        "Naimenovanie": "Камера УФ ультралайт напольная",
+        "registerNo": "0017-9727",
+        "OID": "DIO0000DF4E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_126fb366.jpg",
+    "source_folder": "photos2"
+  },
+  "231c373cc036251099bba77b9cfff70bfada86ff578a29de6013b3b8f1ab581d": {
+    "first_seen": "2026-05-22T23:36:42.390971",
+    "objects": [
+      {
+        "Naimenovanie": "Камера УФ ультралайт напольная",
+        "registerNo": "0017-9727",
+        "OID": "DIO0000DF4E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_90f3f1f3.jpg",
+    "source_folder": "photos2"
+  },
+  "d81c7e86ba905157f871f2b40af51e8b76e0ae30941d4e92ae29b3384171fdcc": {
+    "first_seen": "2026-05-22T23:36:42.391009",
+    "objects": [
+      {
+        "Naimenovanie": "Камера УФ ультралайт напольная",
+        "registerNo": "0017-9727",
+        "OID": "DIO0000DF4E2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_486d352f.jpg",
+    "source_folder": "photos2"
   }
 }
