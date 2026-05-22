@@ -8218,5 +8218,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4e4b928e.jpg",
     "source_folder": "photos"
+  },
+  "7cf908e840adecdc8e58f802dd97bd0bd369dcc16b8122c186c9b3e3cea3db68": {
+    "first_seen": "2026-05-22T22:06:46.398841",
+    "objects": [
+      {
+        "Naimenovanie": "Мясорубка М75",
+        "registerNo": "0014-2625",
+        "OID": "DIO0000C0D6A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_fc317fd3.jpg",
+    "source_folder": "photos2"
+  },
+  "906b40d1e834b4c584ade983289dc3c8924d7b13a21ea1925be646293bf2cbff": {
+    "first_seen": "2026-05-22T22:06:46.399015",
+    "objects": [
+      {
+        "Naimenovanie": "Мясорубка М75",
+        "registerNo": "0014-2625",
+        "OID": "DIO0000C0D6A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_41100b2f.jpg",
+    "source_folder": "photos2"
+  },
+  "8f05ceac89e2863770da3052971b6f7821b380fb791416466b10904515b4f372": {
+    "first_seen": "2026-05-22T22:06:46.399059",
+    "objects": [
+      {
+        "Naimenovanie": "Мясорубка М75",
+        "registerNo": "0014-2625",
+        "OID": "DIO0000C0D6A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7e9044e3.jpg",
+    "source_folder": "photos2"
+  },
+  "54718940c1580ec2fdddaf42569b6228daafe9cb039a21b3d44397861f9adc8b": {
+    "first_seen": "2026-05-22T22:06:46.399099",
+    "objects": [
+      {
+        "Naimenovanie": "Мясорубка М75",
+        "registerNo": "0014-2625",
+        "OID": "DIO0000C0D6A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_f9835343.jpg",
+    "source_folder": "photos2"
   }
 }
