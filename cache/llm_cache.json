@@ -1894,5 +1894,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4df4ba57.jpg",
     "source_folder": "photos2"
+  },
+  "b71e829e87a8592884f42b40fcbf82a049bf9504da6b2f3b23daf5a946fb9fd6": {
+    "first_seen": "2026-05-22T20:43:04.272428",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP 255 G7",
+        "registerNo": "0890-6905",
+        "OID": "000300162E0D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_50749124.jpg",
+    "source_folder": "photos"
+  },
+  "16ff49927b5f9565ba17efa185bffa3234a08e4850f7869d4075496167fb8107": {
+    "first_seen": "2026-05-22T20:43:04.272521",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP 255 G7",
+        "registerNo": "0890-6905",
+        "OID": "000300162E0D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_226d6d83.jpg",
+    "source_folder": "photos"
+  },
+  "c551687c293234bcfd8a159681eb2324604a5d1b3a2de1f585931674e4a9a65d": {
+    "first_seen": "2026-05-22T20:43:04.272564",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP 255 G7",
+        "registerNo": "0890-6905",
+        "OID": "000300162E0D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_5d317701.jpg",
+    "source_folder": "photos"
+  },
+  "86f7760648d1f9f959c3980a1184bdd269c519a7a923099f5920e5f8c2b6d477": {
+    "first_seen": "2026-05-22T20:43:04.272603",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP 255 G7",
+        "registerNo": "0890-6905",
+        "OID": "000300162E0D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_21e9ad6e.jpg",
+    "source_folder": "photos"
   }
 }
