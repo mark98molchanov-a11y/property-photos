@@ -19834,5 +19834,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d948f11c.jpg",
     "source_folder": "photos2"
+  },
+  "f785dd3359bd100cc4238f233c4e5fc583f64ea1213ff025c7404ae25415ada0": {
+    "first_seen": "2026-05-23T00:40:24.831807",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф плательный (СВК)",
+        "registerNo": "0004-0120",
+        "OID": "DIO000059C18"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e246dc3c.jpg",
+    "source_folder": "photos"
+  },
+  "920c417e0f483bd87e7cfbdbf3cb78d32e39edff0ad813d9877c1e0fc0fcce09": {
+    "first_seen": "2026-05-23T00:40:24.831877",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф плательный (СВК)",
+        "registerNo": "0004-0120",
+        "OID": "DIO000059C18"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_2c28337e.jpg",
+    "source_folder": "photos"
+  },
+  "2d6aaa3ffa68c40938d5d573210c8a118fd0475b1112eabf8ed6c7dd19282011": {
+    "first_seen": "2026-05-23T00:40:24.831919",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф плательный (СВК)",
+        "registerNo": "0004-0120",
+        "OID": "DIO000059C18"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_eca03953.jpg",
+    "source_folder": "photos"
   }
 }
