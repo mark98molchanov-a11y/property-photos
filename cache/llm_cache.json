@@ -9742,5 +9742,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9ce588d6.jpg",
     "source_folder": "photos2"
+  },
+  "1f1940159e3b7d01b9e8414b144a003aa977b2d7dd7e1a75d0172b71b085319b": {
+    "first_seen": "2026-05-22T22:28:26.846617",
+    "objects": [
+      {
+        "Naimenovanie": "Штанга разборная",
+        "registerNo": "0935-7400",
+        "OID": "0003012E9DE6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_8b5a790f.jpg",
+    "source_folder": "photos"
   }
 }
