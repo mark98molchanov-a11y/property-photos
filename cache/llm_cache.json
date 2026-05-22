@@ -20710,5 +20710,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7d844b52.png",
     "source_folder": "photos"
+  },
+  "9f3d901416b4b3ab11148b7c7bd15faafb107de2c8ad8a6730d6fcb0804c173f": {
+    "first_seen": "2026-05-23T00:51:57.550188",
+    "objects": [
+      {
+        "Naimenovanie": "Моноблок HP \"TouchSmart\" 520-1001 ru LN648EA",
+        "registerNo": "0020-1554",
+        "OID": "DIO00010A052"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_6f3d713b.jpg",
+    "source_folder": "photos2"
+  },
+  "7a4076e45fcc25e2b5de68c9337220af83a81b05adf8ce9a1fe19f8ba6a60596": {
+    "first_seen": "2026-05-23T00:51:57.550263",
+    "objects": [
+      {
+        "Naimenovanie": "Моноблок HP \"TouchSmart\" 520-1001 ru LN648EA",
+        "registerNo": "0020-1554",
+        "OID": "DIO00010A052"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_e6be77bc.jpg",
+    "source_folder": "photos2"
   }
 }
