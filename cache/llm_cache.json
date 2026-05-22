@@ -23230,5 +23230,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c8327420.jpg",
     "source_folder": "photos2"
+  },
+  "08b6e358b9915f01327af99b6f92da2ff52318f51f71e054180cb0de2f867659": {
+    "first_seen": "2026-05-23T01:25:05.378578",
+    "objects": [
+      {
+        "Naimenovanie": "Котел пищеварочный КПЭ-60",
+        "registerNo": "0020-1147",
+        "OID": "DIO0001B4A4E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_93ee55d2.jpg",
+    "source_folder": "photos3"
   }
 }
