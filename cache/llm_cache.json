@@ -16618,5 +16618,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d27b3ae3.png",
     "source_folder": "photos3"
+  },
+  "f37a6c178db80269aca64ab0d0612537d7aaa07934fb6210160e57ac6d35b3c2": {
+    "first_seen": "2026-05-23T00:03:41.614373",
+    "objects": [
+      {
+        "Naimenovanie": "Фильтрационная система",
+        "registerNo": "0000-3091",
+        "OID": "DIO00002CBA5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_26082e29.jpg",
+    "source_folder": "photos"
+  },
+  "cd8c3a02ca0970a076aa7c1c8627e0d9ccbcc88a140cabbb466da14019ae457b": {
+    "first_seen": "2026-05-23T00:03:41.614444",
+    "objects": [
+      {
+        "Naimenovanie": "Фильтрационная система",
+        "registerNo": "0000-3091",
+        "OID": "DIO00002CBA5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_068b29ad.jpg",
+    "source_folder": "photos"
   }
 }
