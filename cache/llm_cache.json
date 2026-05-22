@@ -15502,5 +15502,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5044d0e0.jpg",
     "source_folder": "photos3"
+  },
+  "0543b869a2c264749603ee6a8a4d428611e53c181017f5a509a1db0885bf8e55": {
+    "first_seen": "2026-05-22T23:45:48.503053",
+    "objects": [
+      {
+        "Naimenovanie": "Системный блок AgeNT 9300/500",
+        "registerNo": "0011-3416",
+        "OID": "DIO0000E1E3D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_7532b64a.jpg",
+    "source_folder": "photos2"
   }
 }
