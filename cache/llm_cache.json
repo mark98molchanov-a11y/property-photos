@@ -1942,5 +1942,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_21e9ad6e.jpg",
     "source_folder": "photos"
+  },
+  "6051c3e7c572190d4864df22be8c9294cb92017f42b8eb03a3affbd67cd18b99": {
+    "first_seen": "2026-05-22T20:43:42.265526",
+    "objects": [
+      {
+        "Naimenovanie": "Стол компьютерный",
+        "registerNo": "0009-4447",
+        "OID": "DIO0001421F2"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4222624c.jpg",
+    "source_folder": "photos3"
   }
 }
