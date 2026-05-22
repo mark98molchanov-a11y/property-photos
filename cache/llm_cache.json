@@ -17170,5 +17170,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0acfca76.jpg",
     "source_folder": "photos3"
+  },
+  "ed0d702b8869559d5398d1d2a8158716014c5f9629123404dd55f475b7dc8af0": {
+    "first_seen": "2026-05-23T00:09:37.056991",
+    "objects": [
+      {
+        "Naimenovanie": "ПК моноблок HP \"Omni 120-1105er\"",
+        "registerNo": "0020-1570",
+        "OID": "DIO0000EE09A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_32f57040.jpg",
+    "source_folder": "photos2"
+  },
+  "030bccc0d2b4bb312bffedb65f5e9614f0693702303f52baa7b9b2a985c3e568": {
+    "first_seen": "2026-05-23T00:09:37.057078",
+    "objects": [
+      {
+        "Naimenovanie": "ПК моноблок HP \"Omni 120-1105er\"",
+        "registerNo": "0020-1570",
+        "OID": "DIO0000EE09A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_64db3569.jpg",
+    "source_folder": "photos2"
   }
 }
