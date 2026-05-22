@@ -16498,5 +16498,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_77e695d3.jpg",
     "source_folder": "photos3"
+  },
+  "19def44e4c6883f7f11fb02ca8fba71e83c44ac5bd41b932a44a235d34fe9435": {
+    "first_seen": "2026-05-23T00:01:48.125787",
+    "objects": [
+      {
+        "Naimenovanie": "Вешалка-стойка h1910",
+        "registerNo": "0021-5012",
+        "OID": "DIO00002940A"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_c40eb121.jpg",
+    "source_folder": "photos"
   }
 }
