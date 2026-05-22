@@ -9910,5 +9910,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_230f3cc1.jpg",
     "source_folder": "photos3"
+  },
+  "4d11ad1bd89814c463b465b1fea1ee9d447ba43401df30086e71f74d20e8112e": {
+    "first_seen": "2026-05-22T22:30:27.084216",
+    "objects": [
+      {
+        "Naimenovanie": "Станок переплетный УПД2В",
+        "registerNo": "0946-5968",
+        "OID": "0003013C8A16"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_25d6dd24.jpg",
+    "source_folder": "photos"
+  },
+  "1f1de7ffd5a520bc25d7a334293f68c7810b1e3023cc4fe4b953b53ed61a251b": {
+    "first_seen": "2026-05-22T22:30:27.084320",
+    "objects": [
+      {
+        "Naimenovanie": "Станок переплетный УПД2В",
+        "registerNo": "0946-5968",
+        "OID": "0003013C8A16"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_60d95b51.jpg",
+    "source_folder": "photos"
+  },
+  "de87fc1ffbd71c46b060f1d10f537c2f5f5b6745be80b039b6f959b222efa795": {
+    "first_seen": "2026-05-22T22:30:27.084362",
+    "objects": [
+      {
+        "Naimenovanie": "Станок переплетный УПД2В",
+        "registerNo": "0946-5968",
+        "OID": "0003013C8A16"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_9a2b6e0b.jpg",
+    "source_folder": "photos"
   }
 }
