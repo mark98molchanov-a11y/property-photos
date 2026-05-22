@@ -12226,5 +12226,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_5947e5bd.jpg",
     "source_folder": "photos2"
+  },
+  "6a45c1a750be6bc87eac4c413fd44453239aa262c64e3032715cbcbfab56e151": {
+    "first_seen": "2026-05-22T22:59:44.337531",
+    "objects": [
+      {
+        "Naimenovanie": "Видеопереключатель",
+        "registerNo": "0019-9338",
+        "OID": "DIO000181E7C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7c32d96e.png",
+    "source_folder": "photos3"
   }
 }
