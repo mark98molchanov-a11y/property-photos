@@ -6238,5 +6238,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c69eac98.jpg",
     "source_folder": "photos2"
+  },
+  "7c455a243e10ed2df0ff72ae3d9d2c3c9a133eb04cae3d67bad24c3e25122bf8": {
+    "first_seen": "2026-05-22T21:37:52.108329",
+    "objects": [
+      {
+        "Naimenovanie": "Насос КМ",
+        "registerNo": "0893-7512",
+        "OID": "0003003A13D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_507e2f27.jpg",
+    "source_folder": "photos"
+  },
+  "0c2280421d1caf5a90375556c8a3458f762efbd3119a6e85430de8edba857f3d": {
+    "first_seen": "2026-05-22T21:37:52.108406",
+    "objects": [
+      {
+        "Naimenovanie": "Насос КМ",
+        "registerNo": "0893-7512",
+        "OID": "0003003A13D6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d99fc9d4.jpg",
+    "source_folder": "photos"
   }
 }
