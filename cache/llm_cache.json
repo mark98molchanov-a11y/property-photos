@@ -14578,5 +14578,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a958ff74.jpg",
     "source_folder": "photos3"
+  },
+  "d4f3e7d604adc4bd8eb29d34d992c50d8a87b4b1e93749dfc86950f185fe3a35": {
+    "first_seen": "2026-05-22T23:33:16.553587",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР LaserJet 1018",
+        "registerNo": "0015-2180",
+        "OID": "DIO0000DE1BC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_fb5db896.jpg",
+    "source_folder": "photos2"
+  },
+  "e4fcd1fa135e491dd75977bfa38cac00615920ca4df6e23927335d035a3b98b6": {
+    "first_seen": "2026-05-22T23:33:16.553662",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер НР LaserJet 1018",
+        "registerNo": "0015-2180",
+        "OID": "DIO0000DE1BC"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cd546f4d.jpg",
+    "source_folder": "photos2"
   }
 }
