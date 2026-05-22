@@ -14638,5 +14638,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_3b23bfb1.jpg",
     "source_folder": "photos"
+  },
+  "96442c083f071b0e236f68d31bd93b8624fb0fc15ac8f0a767b2509a0c487cd5": {
+    "first_seen": "2026-05-22T23:34:29.724711",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор \"Витязь\"",
+        "registerNo": "0001-3783",
+        "OID": "DIO000190007"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_66271381.jpg",
+    "source_folder": "photos3"
+  },
+  "6d4f522e9c5b8cd509e2fcf2d6464eca21975ba712fc35c11f8dd750fc7d2c4f": {
+    "first_seen": "2026-05-22T23:34:29.724780",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор \"Витязь\"",
+        "registerNo": "0001-3783",
+        "OID": "DIO000190007"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0532f390.jpg",
+    "source_folder": "photos3"
   }
 }
