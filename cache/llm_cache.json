@@ -16114,5 +16114,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_7318d6ca.jpg",
     "source_folder": "photos"
+  },
+  "622574a2ed3566963d812e69c73c05d0028882f7403be52ab8cd5549562861b9": {
+    "first_seen": "2026-05-22T23:55:52.734591",
+    "objects": [
+      {
+        "Naimenovanie": "Столик манипуляционной медсестры",
+        "registerNo": "0015-5367",
+        "OID": "DIO0001973A1"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_4750345a.jpg",
+    "source_folder": "photos3"
   }
 }
