@@ -3778,5 +3778,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_37239336.jpg",
     "source_folder": "photos"
+  },
+  "734a0e067e81bd7df39045486ad87e456cd44b7fe2d48534826405124c430292": {
+    "first_seen": "2026-05-22T21:07:11.116599",
+    "objects": [
+      {
+        "Naimenovanie": "Пинцет",
+        "registerNo": "0016-2323",
+        "OID": "DIO000158916"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_880cd04f.jpg",
+    "source_folder": "photos3"
   }
 }
