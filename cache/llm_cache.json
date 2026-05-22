@@ -7726,5 +7726,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4204fd44.jpg",
     "source_folder": "photos"
+  },
+  "1a4baef13a0247f62ac1e626c43675fb34872921cebec73a2845fab2b6f1fefc": {
+    "first_seen": "2026-05-22T21:58:04.389356",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор диагностики кариеса",
+        "registerNo": "0015-0457",
+        "OID": "DIO0000B94A3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_810624cc.jpg",
+    "source_folder": "photos2"
+  },
+  "e20e7dc638021d0cb5cb19eb03a8bb18cb674cbe2a746a3fdba294d15e0d983b": {
+    "first_seen": "2026-05-22T21:58:04.389424",
+    "objects": [
+      {
+        "Naimenovanie": "Прибор диагностики кариеса",
+        "registerNo": "0015-0457",
+        "OID": "DIO0000B94A3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_d36078f9.jpg",
+    "source_folder": "photos2"
   }
 }
