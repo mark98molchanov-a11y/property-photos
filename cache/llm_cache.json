@@ -4690,5 +4690,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_53cb7a98.jpg",
     "source_folder": "photos2"
+  },
+  "e9ae819de3e1dd9a809e3e8474265f6d3ae7cf7429483dc31eea58d6a23aca07": {
+    "first_seen": "2026-05-22T21:18:45.367482",
+    "objects": [
+      {
+        "Naimenovanie": "Системный блок ArgumeNT 1200/160",
+        "registerNo": "0010-2323",
+        "OID": "DIO000161C6F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bf6b7a38.jpg",
+    "source_folder": "photos3"
   }
 }
