@@ -15154,5 +15154,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cbc5afe2.jpg",
     "source_folder": "photos"
+  },
+  "a6e52284aaa37469abb9ab69211b921198d305440b538be0eaac53c4cc99c16c": {
+    "first_seen": "2026-05-22T23:41:14.598303",
+    "objects": [
+      {
+        "Naimenovanie": "Дефибрилятор с принадлежностями для взрослых",
+        "registerNo": "0015-6318",
+        "OID": "DIO0000E0750"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_4effedf6.png",
+    "source_folder": "photos2"
+  },
+  "fd5b68f0f10e2cd560aacdbd8c20216495bf8b01670000d11210071fc7527cca": {
+    "first_seen": "2026-05-22T23:41:14.598387",
+    "objects": [
+      {
+        "Naimenovanie": "Дефибрилятор с принадлежностями для взрослых",
+        "registerNo": "0015-6318",
+        "OID": "DIO0000E0750"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_48c5ba3e.png",
+    "source_folder": "photos2"
   }
 }
