@@ -8974,5 +8974,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_82985117.jpg",
     "source_folder": "photos3"
+  },
+  "71e92dc8aa745dbfbb99ba90d00670f64dadb41d2af4860287e324e3a0ed0251": {
+    "first_seen": "2026-05-22T22:19:18.047003",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор \"Samsung\"",
+        "registerNo": "0011-3396",
+        "OID": "DIO0000C4DCF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b583bb37.jpg",
+    "source_folder": "photos2"
+  },
+  "da6c906c2eeae4bb46650f1b7cec323f5620c6f60800591ba64806bf1e777b4b": {
+    "first_seen": "2026-05-22T22:19:18.047087",
+    "objects": [
+      {
+        "Naimenovanie": "Монитор \"Samsung\"",
+        "registerNo": "0011-3396",
+        "OID": "DIO0000C4DCF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a3585556.jpg",
+    "source_folder": "photos2"
   }
 }
