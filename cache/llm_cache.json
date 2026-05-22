@@ -19798,5 +19798,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_dbed0707.jpg",
     "source_folder": "photos"
+  },
+  "34edf860f978d4d7082694ad0c439c77db64d96fc7e66138b02b5d58dc31704e": {
+    "first_seen": "2026-05-23T00:39:38.649720",
+    "objects": [
+      {
+        "Naimenovanie": "Шлифовальная машинка угловая",
+        "registerNo": "0009-2090",
+        "OID": "DIO0001A737C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_50ac8715.jpg",
+    "source_folder": "photos3"
   }
 }
