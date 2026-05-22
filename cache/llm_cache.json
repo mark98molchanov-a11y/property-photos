@@ -1174,5 +1174,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9e5cfc3d.jpg",
     "source_folder": "photos2"
+  },
+  "529f8443559f1532c89d82935b3514cd031b339001d886fd7973647229352d8f": {
+    "first_seen": "2026-05-22T20:36:28.454221",
+    "objects": [
+      {
+        "Naimenovanie": "Кипятильник ПЭ-50",
+        "registerNo": "0009-4395",
+        "OID": "DIO00013CE33"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_42236f68.jpg",
+    "source_folder": "photos3"
+  },
+  "20e332752f0e660881f9cf32d6e9204801674b09e28add7685ad3f8261b34405": {
+    "first_seen": "2026-05-22T20:36:28.454301",
+    "objects": [
+      {
+        "Naimenovanie": "Кипятильник ПЭ-50",
+        "registerNo": "0009-4395",
+        "OID": "DIO00013CE33"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_33bc2783.jpg",
+    "source_folder": "photos3"
   }
 }
