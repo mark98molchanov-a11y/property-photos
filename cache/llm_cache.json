@@ -5386,5 +5386,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_32ccbf7a.jpg",
     "source_folder": "photos"
+  },
+  "be6ec1de40f5dd210bbba3ac2437c77beb9a59b00c6b37b72d8cda881cb50355": {
+    "first_seen": "2026-05-22T21:26:09.564903",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор паровой серии MELAtropic тип 23 с принадлежностями (Melag)",
+        "registerNo": "0020-2251",
+        "OID": "DIO0001643B5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d894ba8f.jpg",
+    "source_folder": "photos3"
+  },
+  "7e703c7c52e9a723d9d90d7f6a5edc8f345e31cbe1cf65d6efe0623dbe259d61": {
+    "first_seen": "2026-05-22T21:26:09.564978",
+    "objects": [
+      {
+        "Naimenovanie": "Стерилизатор паровой серии MELAtropic тип 23 с принадлежностями (Melag)",
+        "registerNo": "0020-2251",
+        "OID": "DIO0001643B5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cee46a42.jpg",
+    "source_folder": "photos3"
   }
 }
