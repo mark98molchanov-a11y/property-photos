@@ -22654,5 +22654,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_f66ff0d8.jpg",
     "source_folder": "photos"
+  },
+  "07a673cb6600df6f20f251ca7c17a99f501e1aa8eec3ce76043cca97acd04c29": {
+    "first_seen": "2026-05-23T01:17:07.035728",
+    "objects": [
+      {
+        "Naimenovanie": "Набор мебели для кабинета",
+        "registerNo": "0001-8235",
+        "OID": "DIO00011E3C5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_b672e469.jpg",
+    "source_folder": "photos2"
+  },
+  "8f799628474531760a02c4022fd96c4be6dc789febcc3de3d21e9e7b21eac130": {
+    "first_seen": "2026-05-23T01:17:07.035807",
+    "objects": [
+      {
+        "Naimenovanie": "Набор мебели для кабинета",
+        "registerNo": "0001-8235",
+        "OID": "DIO00011E3C5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_48cf003c.jpg",
+    "source_folder": "photos2"
+  },
+  "1db2ca64ee00a6d0a560f18723ecdcea89cb0d933f5a92a8a2560176094c8302": {
+    "first_seen": "2026-05-23T01:17:07.035849",
+    "objects": [
+      {
+        "Naimenovanie": "Набор мебели для кабинета",
+        "registerNo": "0001-8235",
+        "OID": "DIO00011E3C5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_9ec67411.jpg",
+    "source_folder": "photos2"
+  },
+  "170718a221c9ca8e8db041ddc6eb2b8c0d6eb14e280c7f2c8343901fc9295a31": {
+    "first_seen": "2026-05-23T01:17:07.035890",
+    "objects": [
+      {
+        "Naimenovanie": "Набор мебели для кабинета",
+        "registerNo": "0001-8235",
+        "OID": "DIO00011E3C5"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a3aa3bed.jpg",
+    "source_folder": "photos2"
   }
 }
