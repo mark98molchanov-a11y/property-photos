@@ -1642,5 +1642,65 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_a0cd288c.jpg",
     "source_folder": "photos2"
+  },
+  "a0180988da3ea52546a4fe0e72dc77574d8afff41e37394af82d4c7f432320e8": {
+    "first_seen": "2026-05-22T20:40:55.721434",
+    "objects": [
+      {
+        "Naimenovanie": "Планшет Lenovo Tab M10 TB-X ZA4K0006RU",
+        "registerNo": "0890-6610",
+        "OID": "0003001624B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0f1028ee.jpg",
+    "source_folder": "photos"
+  },
+  "06caf5c74ff012be71fd72e018a9a62a017192f6d1f3f4a0039075c08346b605": {
+    "first_seen": "2026-05-22T20:40:55.721610",
+    "objects": [
+      {
+        "Naimenovanie": "Планшет Lenovo Tab M10 TB-X ZA4K0006RU",
+        "registerNo": "0890-6610",
+        "OID": "0003001624B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_04193f72.jpg",
+    "source_folder": "photos"
+  },
+  "520efb0667d24653d5e99790fd410c092c3df25dbbc0f42b98867b90590713df": {
+    "first_seen": "2026-05-22T20:40:55.721677",
+    "objects": [
+      {
+        "Naimenovanie": "Планшет Lenovo Tab M10 TB-X ZA4K0006RU",
+        "registerNo": "0890-6610",
+        "OID": "0003001624B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_cc9543ae.jpg",
+    "source_folder": "photos"
+  },
+  "39a050cc5c00e4cd8418e6c5cb227f0085c051096ff8e887d7361f830d8d002b": {
+    "first_seen": "2026-05-22T20:40:55.721751",
+    "objects": [
+      {
+        "Naimenovanie": "Планшет Lenovo Tab M10 TB-X ZA4K0006RU",
+        "registerNo": "0890-6610",
+        "OID": "0003001624B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0fd337a4.jpg",
+    "source_folder": "photos"
+  },
+  "531aca86156156f85cf394687af541e5a21eda3910f247a1ebe4e6a4fdcdce80": {
+    "first_seen": "2026-05-22T20:40:55.721849",
+    "objects": [
+      {
+        "Naimenovanie": "Планшет Lenovo Tab M10 TB-X ZA4K0006RU",
+        "registerNo": "0890-6610",
+        "OID": "0003001624B9"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_41d1037b.jpg",
+    "source_folder": "photos"
   }
 }
