@@ -8938,5 +8938,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3b7d8c43.jpg",
     "source_folder": "photos3"
+  },
+  "0d4ac3d3f9effca5416ff444c172d5f91fd3e126ae3ae2a4932f54757bbb82fb": {
+    "first_seen": "2026-05-22T22:18:33.106659",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф",
+        "registerNo": "0017-9762",
+        "OID": "DIO0000C4BB3"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_da39b4bd.jpg",
+    "source_folder": "photos2"
   }
 }
