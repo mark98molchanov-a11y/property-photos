@@ -3274,5 +3274,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_aee9ca1c.jpg",
     "source_folder": "photos"
+  },
+  "973c843980e38cf21068dacbf613144584402d40b470442f562d0d45994db8a6": {
+    "first_seen": "2026-05-22T21:00:41.903573",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф взломостойкий",
+        "registerNo": "0015-9617",
+        "OID": "DIO0000A01F4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_3d5acee6.png",
+    "source_folder": "photos2"
+  },
+  "caa0b60275f91f5cdfdbe588be64a83e5f1e9c246aea91fdb9c8f35199b8cc5d": {
+    "first_seen": "2026-05-22T21:00:41.903665",
+    "objects": [
+      {
+        "Naimenovanie": "Сейф взломостойкий",
+        "registerNo": "0015-9617",
+        "OID": "DIO0000A01F4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_77a10d0f.png",
+    "source_folder": "photos2"
   }
 }
