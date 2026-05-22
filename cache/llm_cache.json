@@ -2890,5 +2890,53 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_cfe53c00.jpg",
     "source_folder": "photos2"
+  },
+  "e6c0abf9716da41bd822401d813cb78d1d19cdc01eedff2c36c9debcfd492c05": {
+    "first_seen": "2026-05-22T20:54:08.936095",
+    "objects": [
+      {
+        "Naimenovanie": "Стенд",
+        "registerNo": "0009-5158",
+        "OID": "DIO00014C638"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e407f0af.jpg",
+    "source_folder": "photos3"
+  },
+  "d1997b171e137a222794eee3b95925353d157b70c04dc1c2ed5c57b2a3085690": {
+    "first_seen": "2026-05-22T20:54:08.936273",
+    "objects": [
+      {
+        "Naimenovanie": "Стенд",
+        "registerNo": "0009-5158",
+        "OID": "DIO00014C638"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_62928338.jpg",
+    "source_folder": "photos3"
+  },
+  "55c1ea278dac89fbbd9d22e050eefc57edb8a7634ceb73430cf871fec37484c0": {
+    "first_seen": "2026-05-22T20:54:08.936320",
+    "objects": [
+      {
+        "Naimenovanie": "Стенд",
+        "registerNo": "0009-5158",
+        "OID": "DIO00014C638"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5b06b198.jpg",
+    "source_folder": "photos3"
+  },
+  "9e18e8020b636c74141a41332dccb6efd475a1aa06844024ae4f97a646aebd1d": {
+    "first_seen": "2026-05-22T20:54:08.936359",
+    "objects": [
+      {
+        "Naimenovanie": "Стенд",
+        "registerNo": "0009-5158",
+        "OID": "DIO00014C638"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b522298f.jpg",
+    "source_folder": "photos3"
   }
 }
