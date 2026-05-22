@@ -19354,5 +19354,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_65aba40d.jpg",
     "source_folder": "photos3"
+  },
+  "bd84ce1291da10e64cbd072ce3d832c5b18f070a1a17b6f11aa4430206d62d69": {
+    "first_seen": "2026-05-23T00:34:27.172220",
+    "objects": [
+      {
+        "Naimenovanie": "Зарядное устройство 12-24В",
+        "registerNo": "0009-5137",
+        "OID": "DIO0000FE20C"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_736c9102.jpg",
+    "source_folder": "photos2"
   }
 }
