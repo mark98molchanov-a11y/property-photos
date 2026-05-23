@@ -24022,5 +24022,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_15dedd2d.jpg",
     "source_folder": "photos"
+  },
+  "11908bf4dd87b20983e972d8a8c4a39d989fd436fcdbaa9a12100afb0fe6d529": {
+    "first_seen": "2026-05-23T18:21:58.850403",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер персональный, настольный (моноблок)",
+        "registerNo": "0894-3599",
+        "OID": "0003003F56C4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d6ff7b6a.jpg",
+    "source_folder": "photos"
+  },
+  "ea9bd46144cad2f27aba04630922ed688df20c1e987fd6db0c5e17ac945dc3f2": {
+    "first_seen": "2026-05-23T18:21:58.850478",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер персональный, настольный (моноблок)",
+        "registerNo": "0894-3599",
+        "OID": "0003003F56C4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_6ed7d19c.jpg",
+    "source_folder": "photos"
+  },
+  "77a4645be31a3c8c834d50677b70a80151678bfeed6aac95ebaa1a7d9957e4a2": {
+    "first_seen": "2026-05-23T18:21:58.850520",
+    "objects": [
+      {
+        "Naimenovanie": "Компьютер персональный, настольный (моноблок)",
+        "registerNo": "0894-3599",
+        "OID": "0003003F56C4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_0686ae7c.jpg",
+    "source_folder": "photos"
   }
 }
