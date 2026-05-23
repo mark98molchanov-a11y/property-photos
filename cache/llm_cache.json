@@ -24886,5 +24886,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ef3253b6.png",
     "source_folder": "photos3"
+  },
+  "8fac2cdd3caca85775b3b9b51492c1fc15c900a9383aed05ce0755c282f62a1c": {
+    "first_seen": "2026-05-23T19:25:06.599411",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-коляска Сервис-3600",
+        "registerNo": "0018-8500",
+        "OID": "DIO0001C646F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_000d5c01.jpg",
+    "source_folder": "photos3"
+  },
+  "762c487f13bc78305e2d85bfa96ff108c9ebf58aae10c89f559eb1ddff974018": {
+    "first_seen": "2026-05-23T19:25:06.599501",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-коляска Сервис-3600",
+        "registerNo": "0018-8500",
+        "OID": "DIO0001C646F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_71c909ef.jpg",
+    "source_folder": "photos3"
+  },
+  "351b656f25f489ea50cbb3ed971df23d84049c6f50ab9d441810f10445d635bb": {
+    "first_seen": "2026-05-23T19:25:06.599541",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло-коляска Сервис-3600",
+        "registerNo": "0018-8500",
+        "OID": "DIO0001C646F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_777273a1.jpg",
+    "source_folder": "photos3"
   }
 }
