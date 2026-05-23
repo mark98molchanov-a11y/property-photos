@@ -25630,5 +25630,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_1424f60f.jpg",
     "source_folder": "photos3"
+  },
+  "309d8caa64e9522c79ae823ccb5f41bb7660d0c3fe0af914268f4dbefa753fae": {
+    "first_seen": "2026-05-23T19:48:42.135763",
+    "objects": [
+      {
+        "Naimenovanie": "Аккумулятор SENAO",
+        "registerNo": "0023-3074",
+        "OID": "DIO00021A0C6"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_33b27f68.jpg",
+    "source_folder": "photos3"
   }
 }
