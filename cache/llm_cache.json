@@ -25834,5 +25834,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6abb9a41.jpg",
     "source_folder": "photos3"
+  },
+  "e43a63e530473bba0e4f928dafa334855ea12c1f617913bfe22c0076dc88f5cb": {
+    "first_seen": "2026-05-23T19:59:11.745579",
+    "objects": [
+      {
+        "Naimenovanie": "Мини-электростанция",
+        "registerNo": "0023-3256",
+        "OID": "DIO00021A8D8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_55bd09d1.jpg",
+    "source_folder": "photos3"
+  },
+  "35d6c6601cae6be1e0e6fa55034759fc7520734bf39158c886d3a30b696d2397": {
+    "first_seen": "2026-05-23T19:59:11.745658",
+    "objects": [
+      {
+        "Naimenovanie": "Мини-электростанция",
+        "registerNo": "0023-3256",
+        "OID": "DIO00021A8D8"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c39902f7.jpg",
+    "source_folder": "photos3"
   }
 }
