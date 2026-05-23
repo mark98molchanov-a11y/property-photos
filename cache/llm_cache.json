@@ -25258,5 +25258,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_37545992.jpg",
     "source_folder": "photos3"
+  },
+  "b203e94e6a1bf1ffff40f47b1a70f343ae36d0a93e28252ff8f306e65f9274f6": {
+    "first_seen": "2026-05-23T19:37:19.008132",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор одноканальный 100-1000 мкл",
+        "registerNo": "0021-7801",
+        "OID": "DIO000201724"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0a2f65d1.jpg",
+    "source_folder": "photos3"
+  },
+  "260cbfe859a354932bb4c009100f754cf0f4a27eff81b6e597c623e919592bab": {
+    "first_seen": "2026-05-23T19:37:19.008207",
+    "objects": [
+      {
+        "Naimenovanie": "Дозатор одноканальный 100-1000 мкл",
+        "registerNo": "0021-7801",
+        "OID": "DIO000201724"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3390dbe1.jpg",
+    "source_folder": "photos3"
   }
 }
