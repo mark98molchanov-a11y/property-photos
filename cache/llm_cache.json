@@ -24010,5 +24010,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_1d0da4a1.jpg",
     "source_folder": "photos2"
+  },
+  "a51f7933efc8495f849693a05d6107725fb433bbd16c9b8e7b8da3ea0dd1adec": {
+    "first_seen": "2026-05-23T17:56:03.139967",
+    "objects": [
+      {
+        "Naimenovanie": "Пылесос бытовой",
+        "registerNo": "0891-7521",
+        "OID": "0003001E2418"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_15dedd2d.jpg",
+    "source_folder": "photos"
   }
 }
