@@ -26038,5 +26038,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7157f11e.jpg",
     "source_folder": "photos3"
+  },
+  "bb199254ae29a310c84b16a7c26699030d083d0775f9f7ec6fe92258963acfbd": {
+    "first_seen": "2026-05-23T20:07:17.351199",
+    "objects": [
+      {
+        "Naimenovanie": "Телевизор",
+        "registerNo": "0023-3453",
+        "OID": "DIO00021AD15"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_be1e1a64.png",
+    "source_folder": "photos3"
   }
 }
