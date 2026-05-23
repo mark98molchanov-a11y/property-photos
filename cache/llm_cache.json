@@ -25942,5 +25942,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_37c9ef9e.jpg",
     "source_folder": "photos3"
+  },
+  "a91ba6a1c56e93262470f2d94b82a3c21877b428eb7025153e07273f8bced66f": {
+    "first_seen": "2026-05-23T20:03:41.950812",
+    "objects": [
+      {
+        "Naimenovanie": "Стол ФРССЭ-14",
+        "registerNo": "0004-8081",
+        "OID": "DIO00013C624"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_02e9fbd8.jpg",
+    "source_folder": "photos2"
   }
 }
