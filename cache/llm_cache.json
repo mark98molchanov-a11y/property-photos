@@ -24862,5 +24862,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_59ccd7a0.jpg",
     "source_folder": "photos3"
+  },
+  "05d4e4899ac8579355fd51c10a8dc6fc4e0b4500d6d0429c80b47ab9291aca87": {
+    "first_seen": "2026-05-23T19:24:13.737495",
+    "objects": [
+      {
+        "Naimenovanie": "Чемодан Прогресс",
+        "registerNo": "0017-4470",
+        "OID": "DIO0001C62AF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7895580b.png",
+    "source_folder": "photos3"
+  },
+  "01fc92df1f5f56e6ec5ed1b8765921ae3f5af7aa6e128b3ff8a0110f6a76556b": {
+    "first_seen": "2026-05-23T19:24:13.737600",
+    "objects": [
+      {
+        "Naimenovanie": "Чемодан Прогресс",
+        "registerNo": "0017-4470",
+        "OID": "DIO0001C62AF"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ef3253b6.png",
+    "source_folder": "photos3"
   }
 }
