@@ -26050,5 +26050,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_be1e1a64.png",
     "source_folder": "photos3"
+  },
+  "266ce8cfc562b4304b8fc5f3be61897757e5f9fdce67197f79798dc85e91c64d": {
+    "first_seen": "2026-05-23T20:07:51.777734",
+    "objects": [
+      {
+        "Naimenovanie": "Шкаф плательный",
+        "registerNo": "0009-5081",
+        "OID": "DIO00013D367"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_194c318f.jpg",
+    "source_folder": "photos2"
   }
 }
