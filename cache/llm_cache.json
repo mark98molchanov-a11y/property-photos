@@ -26626,5 +26626,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f65d89a2.jpg",
     "source_folder": "photos3"
+  },
+  "e1b0263e2db45a703fa5a9273200fce911e4dd5be33588b13acc3a70d5d49408": {
+    "first_seen": "2026-05-23T20:32:51.165312",
+    "objects": [
+      {
+        "Naimenovanie": "Пульсоксиметр",
+        "registerNo": "0024-3652",
+        "OID": "DIO000228F60"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f21034e9.jpg",
+    "source_folder": "photos3"
+  },
+  "463ef24e7c0c7df98bab7d1a79a6f7dbefa1b106397b876483f0eaf150c7e75b": {
+    "first_seen": "2026-05-23T20:32:51.165390",
+    "objects": [
+      {
+        "Naimenovanie": "Пульсоксиметр",
+        "registerNo": "0024-3652",
+        "OID": "DIO000228F60"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bf747772.jpg",
+    "source_folder": "photos3"
   }
 }
