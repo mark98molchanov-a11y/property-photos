@@ -24622,5 +24622,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_14985687.jpg",
     "source_folder": "photos3"
+  },
+  "44ea026d7f8f02c191b3f41c21e7bb2808013ae2aa40f8274d1e871bebb9c65a": {
+    "first_seen": "2026-05-23T19:14:30.572319",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP \"Pavilion dv-76d54er\"",
+        "registerNo": "0020-1535",
+        "OID": "DIO0001C3802"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7836aa68.jpg",
+    "source_folder": "photos3"
+  },
+  "95fe23fca24c87667406426a96015092867b4c00b81acf36c5f42bc59d0887fd": {
+    "first_seen": "2026-05-23T19:14:30.572402",
+    "objects": [
+      {
+        "Naimenovanie": "Ноутбук HP \"Pavilion dv-76d54er\"",
+        "registerNo": "0020-1535",
+        "OID": "DIO0001C3802"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ee39a27d.jpg",
+    "source_folder": "photos3"
   }
 }
