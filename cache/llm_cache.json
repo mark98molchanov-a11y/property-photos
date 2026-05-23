@@ -25954,5 +25954,41 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_02e9fbd8.jpg",
     "source_folder": "photos2"
+  },
+  "5bd009acac381e057c310abd403bcbbba8bf17fb63c68970d1916e3ea2b47b25": {
+    "first_seen": "2026-05-23T20:04:46.375600",
+    "objects": [
+      {
+        "Naimenovanie": "Стол 1-тумбовый",
+        "registerNo": "0023-3427",
+        "OID": "DIO00021AC22"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5df1f85b.jpg",
+    "source_folder": "photos3"
+  },
+  "757b5e0e6d881ffcc0917bbf2478b4e0b361bc77e0404abeac47a8f34ce0ddf1": {
+    "first_seen": "2026-05-23T20:04:46.375673",
+    "objects": [
+      {
+        "Naimenovanie": "Стол 1-тумбовый",
+        "registerNo": "0023-3427",
+        "OID": "DIO00021AC22"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7e47c3e8.jpg",
+    "source_folder": "photos3"
+  },
+  "1c63ea05d2e5a5986788916d7562558415bd628c0fcf5f891612fd6a1888aa15": {
+    "first_seen": "2026-05-23T20:04:46.375713",
+    "objects": [
+      {
+        "Naimenovanie": "Стол 1-тумбовый",
+        "registerNo": "0023-3427",
+        "OID": "DIO00021AC22"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2be4bff8.jpg",
+    "source_folder": "photos3"
   }
 }
