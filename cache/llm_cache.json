@@ -23974,5 +23974,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5a83f5b2.jpg",
     "source_folder": "photos3"
+  },
+  "4af00e0b77ac6fd19d82f91fba96fb0a4904ead98986ef96756115531f9dc5fa": {
+    "first_seen": "2026-05-23T13:28:16.289607",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер Ricoh SP C261DNw",
+        "registerNo": "0890-6602",
+        "OID": "000300162489"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_d1faf3d3.jpg",
+    "source_folder": "photos"
   }
 }
