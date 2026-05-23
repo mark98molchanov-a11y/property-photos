@@ -24178,5 +24178,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_abdd3735.jpg",
     "source_folder": "photos3"
+  },
+  "aa1513e94d53427695217eea095d2aa434a1553047b9c89c7c8c834de7703a78": {
+    "first_seen": "2026-05-23T19:00:13.137079",
+    "objects": [
+      {
+        "Naimenovanie": "Система программируемая фотометрическая со встроенным принтером Фотометр",
+        "registerNo": "0019-4173",
+        "OID": "DIO0001B8833"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7c1d8ead.jpg",
+    "source_folder": "photos3"
+  },
+  "94688312e8c1adeb1896a8f65fa223e2d5e3bc2330cd7120b3e19e458bf20803": {
+    "first_seen": "2026-05-23T19:00:13.137151",
+    "objects": [
+      {
+        "Naimenovanie": "Система программируемая фотометрическая со встроенным принтером Фотометр",
+        "registerNo": "0019-4173",
+        "OID": "DIO0001B8833"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_16217a3e.jpg",
+    "source_folder": "photos3"
   }
 }
