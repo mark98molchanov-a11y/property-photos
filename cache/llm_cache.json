@@ -26746,5 +26746,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_cd17dd4c.jpg",
     "source_folder": "photos3"
+  },
+  "6b27eac02a2f20d545728f4bf5897ef811153ce37fad2b8fc602155a003dc1b1": {
+    "first_seen": "2026-05-23T20:36:40.801597",
+    "objects": [
+      {
+        "Naimenovanie": "Мини-АТС \"LG-Ericsson Aria Soho\"",
+        "registerNo": "0024-3619",
+        "OID": "DIO000229250"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3b69245b.jpg",
+    "source_folder": "photos3"
+  },
+  "6e2242f6061b228fb8cee383561a3e0eef61734608bd000620d84e916eb2191f": {
+    "first_seen": "2026-05-23T20:36:40.801674",
+    "objects": [
+      {
+        "Naimenovanie": "Мини-АТС \"LG-Ericsson Aria Soho\"",
+        "registerNo": "0024-3619",
+        "OID": "DIO000229250"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_ed85576a.jpg",
+    "source_folder": "photos3"
   }
 }
