@@ -25390,5 +25390,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8c66a824.jpg",
     "source_folder": "photos3"
+  },
+  "97042c36e14d7afa6a1d1d1541ef22cc6ba5d7e34d072ca079b55135f2aaeee6": {
+    "first_seen": "2026-05-23T19:40:11.617887",
+    "objects": [
+      {
+        "Naimenovanie": "Гардероб",
+        "registerNo": "0005-5500",
+        "OID": "DIO00011C9F7"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c6433caf.jpg",
+    "source_folder": "photos2"
   }
 }
