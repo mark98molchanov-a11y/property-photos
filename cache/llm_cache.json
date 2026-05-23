@@ -26086,5 +26086,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d2659559.jpg",
     "source_folder": "photos3"
+  },
+  "e08e9cedc02f05ccd4e7117aaa5440d381af9e95e2df9bce6461c6811c1d008f": {
+    "first_seen": "2026-05-23T20:09:58.343293",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник Зил",
+        "registerNo": "0023-3504",
+        "OID": "DIO00021AE0F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c399c302.jpg",
+    "source_folder": "photos3"
+  },
+  "3d8b809d004eea8d12a3d303317d3474030c5bd8bf0219ebace66f1185b9e974": {
+    "first_seen": "2026-05-23T20:09:58.343365",
+    "objects": [
+      {
+        "Naimenovanie": "Холодильник Зил",
+        "registerNo": "0023-3504",
+        "OID": "DIO00021AE0F"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_2762f958.jpg",
+    "source_folder": "photos3"
   }
 }
