@@ -26326,5 +26326,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_6959136a.jpg",
     "source_folder": "photos3"
+  },
+  "537db47d6acb5a1fc112d2557392f52f576090de193b94189d712944e29bbd15": {
+    "first_seen": "2026-05-23T20:20:26.715734",
+    "objects": [
+      {
+        "Naimenovanie": "Сушильная машина ЛС-10",
+        "registerNo": "0024-2872",
+        "OID": "DIO00022804B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_d9fda7a7.jpg",
+    "source_folder": "photos3"
+  },
+  "b8c235dde0e5d105c7e5c9574740010c133db86c07794907205c428e974221d6": {
+    "first_seen": "2026-05-23T20:20:26.715808",
+    "objects": [
+      {
+        "Naimenovanie": "Сушильная машина ЛС-10",
+        "registerNo": "0024-2872",
+        "OID": "DIO00022804B"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3813caaa.jpg",
+    "source_folder": "photos3"
   }
 }
