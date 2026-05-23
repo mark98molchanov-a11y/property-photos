@@ -27082,5 +27082,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b795fd8f.jpg",
     "source_folder": "photos3"
+  },
+  "1cfa8d5f92c8ead2712377aaabd71f9272f8cf321dfb2d5292011b7ab6e6dbca": {
+    "first_seen": "2026-05-23T20:48:24.173598",
+    "objects": [
+      {
+        "Naimenovanie": "Блок \"ЛАКК-Тест\"",
+        "registerNo": "0024-3651",
+        "OID": "DIO000229587"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_873a1973.jpg",
+    "source_folder": "photos3"
+  },
+  "91b91a9386a75d8fa524c0ba49daf787c6bbd0940c208837750f9f88b3ba2117": {
+    "first_seen": "2026-05-23T20:48:24.173672",
+    "objects": [
+      {
+        "Naimenovanie": "Блок \"ЛАКК-Тест\"",
+        "registerNo": "0024-3651",
+        "OID": "DIO000229587"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_f1ab2e83.jpg",
+    "source_folder": "photos3"
   }
 }
