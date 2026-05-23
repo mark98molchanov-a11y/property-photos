@@ -25366,5 +25366,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_bc482afa.jpg",
     "source_folder": "photos3"
+  },
+  "4f46e864fc0dcf527583932192f3d99d1029f9ecfa4e6f2fc8e96372ea9ee0ac": {
+    "first_seen": "2026-05-23T19:40:01.310211",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка ТБ-01-1",
+        "registerNo": "0022-6782",
+        "OID": "DIO000208600"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_21c6c5af.jpg",
+    "source_folder": "photos3"
+  },
+  "d972dc44e458cc6527dd10562876591679310dab0f2faf6bb10fa1eeac0ecbb8": {
+    "first_seen": "2026-05-23T19:40:01.310302",
+    "objects": [
+      {
+        "Naimenovanie": "Тележка ТБ-01-1",
+        "registerNo": "0022-6782",
+        "OID": "DIO000208600"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_8c66a824.jpg",
+    "source_folder": "photos3"
   }
 }
