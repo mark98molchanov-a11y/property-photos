@@ -24658,5 +24658,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_9c48cbae.png",
     "source_folder": "photos3"
+  },
+  "60f63a29339a19d694866a71e44368ab72e9c39fee2fc4e9073aac1a45a0f0e6": {
+    "first_seen": "2026-05-23T19:16:45.441150",
+    "objects": [
+      {
+        "Naimenovanie": "Вакуумная помпа Mono Jet",
+        "registerNo": "0020-1701",
+        "OID": "DIO0001C4368"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_0058b69c.jpg",
+    "source_folder": "photos3"
+  },
+  "d46baa071f148bfb3125347511d2997d42709aeb18751bbaaf05d011596ef02d": {
+    "first_seen": "2026-05-23T19:16:45.441322",
+    "objects": [
+      {
+        "Naimenovanie": "Вакуумная помпа Mono Jet",
+        "registerNo": "0020-1701",
+        "OID": "DIO0001C4368"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a71b93c7.jpg",
+    "source_folder": "photos3"
   }
 }
