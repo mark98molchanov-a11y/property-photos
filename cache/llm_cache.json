@@ -25486,5 +25486,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_dad66fe0.jpg",
     "source_folder": "photos2"
+  },
+  "d25a2ec401d5683aaed9899d1e8078c95c8ee34335251dc7875763466f38e454": {
+    "first_seen": "2026-05-23T19:43:46.537408",
+    "objects": [
+      {
+        "Naimenovanie": "Планшетный компьютер \"Samsung Galaxy Tab 2 10.1 P5100\"",
+        "registerNo": "0023-1221",
+        "OID": "DIO000216B89"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_3cce1c88.jpg",
+    "source_folder": "photos3"
+  },
+  "6e88df922f7af8e3a2362cebb3f9dbbd9d2c834ceed0b21d49909b70316cda1c": {
+    "first_seen": "2026-05-23T19:43:46.537500",
+    "objects": [
+      {
+        "Naimenovanie": "Планшетный компьютер \"Samsung Galaxy Tab 2 10.1 P5100\"",
+        "registerNo": "0023-1221",
+        "OID": "DIO000216B89"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b95cb759.jpg",
+    "source_folder": "photos3"
   }
 }
