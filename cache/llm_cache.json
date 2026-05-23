@@ -25714,5 +25714,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e2e0d976.jpg",
     "source_folder": "photos3"
+  },
+  "02dc0ee7fa404a3ba248c40589a5de6d8c7e55044d0239583d22f3ebc99f85e4": {
+    "first_seen": "2026-05-23T19:54:37.059112",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло 091 черное",
+        "registerNo": "0023-3225",
+        "OID": "DIO00021A578"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_b6d9db9f.jpg",
+    "source_folder": "photos3"
+  },
+  "6bf7e50f659e1a8c98dc6b319ffbf7cd042732029123fda26dfb6a392d98686c": {
+    "first_seen": "2026-05-23T19:54:37.059184",
+    "objects": [
+      {
+        "Naimenovanie": "Кресло 091 черное",
+        "registerNo": "0023-3225",
+        "OID": "DIO00021A578"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_a963d20f.jpg",
+    "source_folder": "photos3"
   }
 }
