@@ -26062,5 +26062,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_194c318f.jpg",
     "source_folder": "photos2"
+  },
+  "78d8fc3a9fe845c317cdedaceca6008c1ee11b7c67ad0a7227f55a34e7818ae4": {
+    "first_seen": "2026-05-23T20:07:57.294848",
+    "objects": [
+      {
+        "Naimenovanie": "Счетчик электрический 3-фазный",
+        "registerNo": "0023-3448",
+        "OID": "DIO00021AD2D"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_c406d86b.jpg",
+    "source_folder": "photos3"
   }
 }
