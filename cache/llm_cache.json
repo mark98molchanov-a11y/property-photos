@@ -25402,5 +25402,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_c6433caf.jpg",
     "source_folder": "photos2"
+  },
+  "a5a18ea5e38e109cf9153d6711218beb0f89b531aea9283a3720fe07d84f3bf1": {
+    "first_seen": "2026-05-23T19:41:23.746397",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат радиохирургический radio SURG 2200 с принадлежностями",
+        "registerNo": "0022-9915",
+        "OID": "DIO000211F55"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_5f4276cd.jpg",
+    "source_folder": "photos3"
+  },
+  "13a98db5c17e9ddea3161b02fc2e54bb3cb13ad7d4ed6d2a450fe37e38422a05": {
+    "first_seen": "2026-05-23T19:41:23.746489",
+    "objects": [
+      {
+        "Naimenovanie": "Аппарат радиохирургический radio SURG 2200 с принадлежностями",
+        "registerNo": "0022-9915",
+        "OID": "DIO000211F55"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_eea5aacb.jpg",
+    "source_folder": "photos3"
   }
 }
