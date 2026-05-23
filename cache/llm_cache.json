@@ -26854,5 +26854,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos2/photo_01cef9d1.jpg",
     "source_folder": "photos2"
+  },
+  "8946d92ac77492ba0c5cea672c3cb682135083d8c9905fa0c03ff5f9628afda8": {
+    "first_seen": "2026-05-23T20:39:09.586510",
+    "objects": [
+      {
+        "Naimenovanie": "Сервер \"iRU ROCK 2114R\"",
+        "registerNo": "0024-3643",
+        "OID": "DIO000229297"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_e55eebe6.jpg",
+    "source_folder": "photos3"
   }
 }
