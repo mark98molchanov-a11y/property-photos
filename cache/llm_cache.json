@@ -24550,5 +24550,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_26ced263.jpg",
     "source_folder": "photos3"
+  },
+  "a68a6f86b165fce0972682052302cbacba4ba3e65dfb684d3e49c148e65da7fb": {
+    "first_seen": "2026-05-23T19:12:47.155659",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер LaserJet 1200",
+        "registerNo": "0015-5605",
+        "OID": "DIO0001C335E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_db4a724f.jpg",
+    "source_folder": "photos3"
+  },
+  "575add3fc906b68e656a5050af3cd7384716604caa4198ee8ccbefa09aa204e1": {
+    "first_seen": "2026-05-23T19:12:47.155733",
+    "objects": [
+      {
+        "Naimenovanie": "Принтер LaserJet 1200",
+        "registerNo": "0015-5605",
+        "OID": "DIO0001C335E"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_dc11981c.jpg",
+    "source_folder": "photos3"
   }
 }
