@@ -25666,5 +25666,17 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_e4444073.jpg",
     "source_folder": "photos"
+  },
+  "fda0d2ddfce46abad764c549d72984189213d7994323adc1ce1d43311ec301a1": {
+    "first_seen": "2026-05-23T19:51:11.550224",
+    "objects": [
+      {
+        "Naimenovanie": "Биотуалет",
+        "registerNo": "0023-3139",
+        "OID": "DIO00021A301"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_70b62318.jpg",
+    "source_folder": "photos3"
   }
 }
