@@ -26014,5 +26014,29 @@
     ],
     "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos/photo_4c96fe56.jpg",
     "source_folder": "photos"
+  },
+  "b97bdd69fc7ab00306ac65157d2132a71c47cf9072c205362b812a1f3e029bff": {
+    "first_seen": "2026-05-23T20:06:34.667042",
+    "objects": [
+      {
+        "Naimenovanie": "СГУ УК 2 с/с 24В",
+        "registerNo": "0023-3393",
+        "OID": "DIO00021ACD4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_961d7eea.jpg",
+    "source_folder": "photos3"
+  },
+  "65b240544359fc103cac32727204adcd7fd88898fd5fab7ecc37168897e0b902": {
+    "first_seen": "2026-05-23T20:06:34.667126",
+    "objects": [
+      {
+        "Naimenovanie": "СГУ УК 2 с/с 24В",
+        "registerNo": "0023-3393",
+        "OID": "DIO00021ACD4"
+      }
+    ],
+    "github_url": "https://raw.githubusercontent.com/mark98molchanov-a11y/property-photos/main/photos3/photo_7157f11e.jpg",
+    "source_folder": "photos3"
   }
 }
